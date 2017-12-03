@@ -1,0 +1,3361 @@
+index,Id,category,Sector,Industry,keys_s,keys_ind,keys_s2
+0,A,2.0,Capital Goods,Biotechnology: Laboratory Analytical Instruments,1.0,15.0,1.0
+1,AAL,2.0,,,20.0,200.0,20.0
+2,AAN,2.0,Technology,Diversified Commercial Services,11.0,38.0,11.0
+3,AAON,2.0,,,20.0,200.0,20.0
+4,AAP,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+5,AAPL,2.0,,,20.0,200.0,20.0
+6,AAT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+7,AAWW,2.0,,,20.0,200.0,20.0
+8,ABAX,2.0,,,20.0,200.0,20.0
+9,ABC,2.0,Health Care,Other Pharmaceuticals,7.0,92.0,7.0
+10,ABCB,2.0,,,20.0,200.0,20.0
+11,ABCO,2.0,,,20.0,200.0,20.0
+12,ABG,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+13,ABM,2.0,Finance,Diversified Commercial Services,6.0,38.0,6.0
+14,ABMD,2.0,,,20.0,200.0,20.0
+15,ABT,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+16,ACAD,2.0,,,20.0,200.0,20.0
+17,ACAS,2.0,,,20.0,200.0,20.0
+18,ACAT,2.0,,,20.0,200.0,20.0
+19,ACC,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+20,ACCO,2.0,Consumer Durables,Publishing,2.0,104.0,2.0
+21,ACET,2.0,,,20.0,200.0,20.0
+22,ACGL,2.0,,,20.0,200.0,20.0
+23,ACHC,2.0,,,20.0,200.0,20.0
+24,ACHN,2.0,,,20.0,200.0,20.0
+25,ACIW,2.0,,,20.0,200.0,20.0
+26,ACLS,2.0,,,20.0,200.0,20.0
+27,ACM,2.0,Consumer Services,Military/Government/Technical,4.0,76.0,4.0
+28,ACN,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+29,ACOR,2.0,,,20.0,200.0,20.0
+30,ACRX,2.0,,,20.0,200.0,20.0
+31,ACTG,2.0,,,20.0,200.0,20.0
+32,ACXM,2.0,,,20.0,200.0,20.0
+33,ADBE,2.0,,,20.0,200.0,20.0
+34,ADC,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+35,ADI,2.0,,,20.0,200.0,20.0
+36,ADM,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+37,ADP,2.0,,,20.0,200.0,20.0
+38,ADS,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+39,ADSK,2.0,,,20.0,200.0,20.0
+40,ADTN,2.0,,,20.0,200.0,20.0
+41,ADUS,2.0,,,20.0,200.0,20.0
+42,AE,2.0,,,20.0,200.0,20.0
+43,AEE,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+44,AEGN,2.0,,,20.0,200.0,20.0
+45,AEIS,2.0,,,20.0,200.0,20.0
+46,AEL,2.0,Finance,Life Insurance,6.0,66.0,6.0
+47,AEO,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+48,AEP,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+49,AEPI,2.0,,,20.0,200.0,20.0
+50,AES,2.0,Basic Industries,Electric Utilities: Central,0.0,41.0,0.0
+51,AET,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+52,AF,2.0,Finance,Savings Institutions,6.0,114.0,6.0
+53,AFAM,2.0,,,20.0,200.0,20.0
+54,AFG,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+55,AFL,2.0,Finance,Accident &Health Insurance,6.0,0.0,6.0
+56,AFSI,2.0,,,20.0,200.0,20.0
+57,AGCO,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+58,AGEN,2.0,,,20.0,200.0,20.0
+59,AGII,2.0,,,20.0,200.0,20.0
+60,AGM,2.0,Finance,Finance Companies,6.0,48.0,6.0
+61,AGN,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+62,AGNC,2.0,,,20.0,200.0,20.0
+63,AGO,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+64,AGX,2.0,Basic Industries,Engineering & Construction,0.0,45.0,0.0
+65,AGYS,2.0,,,20.0,200.0,20.0
+66,AHC,2.0,Consumer Services,Newspapers/Magazines,4.0,83.0,4.0
+67,AHL,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+68,AHT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+69,AI,2.0,Finance,Finance/Investors Services,6.0,49.0,6.0
+70,AIG,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+71,AIMC,2.0,,,20.0,200.0,20.0
+72,AIN,2.0,Basic Industries,Textiles,0.0,124.0,0.0
+73,AINV,2.0,,,20.0,200.0,20.0
+74,AIQ,2.0,,,20.0,200.0,20.0
+75,AIR,2.0,Capital Goods,Aerospace,1.0,2.0,1.0
+76,AIRM,2.0,,,20.0,200.0,20.0
+77,AIT,2.0,Consumer Durables,Industrial Specialties,2.0,61.0,2.0
+78,AIV,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+79,AIZ,2.0,Finance,Accident &Health Insurance,6.0,0.0,6.0
+80,AJG,2.0,Finance,Specialty Insurers,6.0,120.0,6.0
+81,AKAM,2.0,,,20.0,200.0,20.0
+82,AKR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+83,AKRX,2.0,,,20.0,200.0,20.0
+84,AKS,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+85,AL,2.0,Technology,Diversified Commercial Services,11.0,38.0,11.0
+86,ALB,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+87,ALCO,2.0,,,20.0,200.0,20.0
+88,ALE,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+89,ALG,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+90,ALGN,2.0,,,20.0,200.0,20.0
+91,ALGT,2.0,,,20.0,200.0,20.0
+92,ALIM,2.0,,,20.0,200.0,20.0
+93,ALJ,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+94,ALK,2.0,Transportation,Air Freight/Delivery Services,12.0,4.0,12.0
+95,ALKS,2.0,,,20.0,200.0,20.0
+96,ALL,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+97,ALNY,2.0,,,20.0,200.0,20.0
+98,ALOG,2.0,,,20.0,200.0,20.0
+99,ALR,2.0,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,7.0,14.0,7.0
+100,ALX,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+101,ALXN,2.0,,,20.0,200.0,20.0
+102,AMAG,2.0,,,20.0,200.0,20.0
+103,AMAT,2.0,,,20.0,200.0,20.0
+104,AMCC,2.0,,,20.0,200.0,20.0
+105,AMCX,2.0,,,20.0,200.0,20.0
+106,AMD,2.0,,,20.0,200.0,20.0
+107,AME,2.0,Consumer Durables,Metal Fabrications,2.0,75.0,2.0
+108,AMED,2.0,,,20.0,200.0,20.0
+109,AMG,2.0,Finance,Investment Managers,6.0,65.0,6.0
+110,AMGN,2.0,,,20.0,200.0,20.0
+111,AMKR,2.0,,,20.0,200.0,20.0
+112,AMNB,2.0,,,20.0,200.0,20.0
+113,AMP,2.0,Finance,Investment Managers,6.0,65.0,6.0
+114,AMPE,2.0,,,20.0,200.0,20.0
+115,AMRC,2.0,Basic Industries,Engineering & Construction,0.0,45.0,0.0
+116,AMRI,2.0,,,20.0,200.0,20.0
+117,AMRS,2.0,,,20.0,200.0,20.0
+118,AMSC,2.0,,,20.0,200.0,20.0
+119,AMSF,2.0,,,20.0,200.0,20.0
+120,AMSWA,2.0,,,20.0,200.0,20.0
+121,AMT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+122,AMTD,2.0,,,20.0,200.0,20.0
+123,AMWD,2.0,,,20.0,200.0,20.0
+124,AMZN,2.0,,,20.0,200.0,20.0
+125,AN,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+126,ANAT,2.0,,,20.0,200.0,20.0
+127,ANCX,2.0,,,20.0,200.0,20.0
+128,ANDE,2.0,,,20.0,200.0,20.0
+129,ANF,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+130,ANGI,2.0,,,20.0,200.0,20.0
+131,ANGO,2.0,,,20.0,200.0,20.0
+132,ANH,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+133,ANIK,2.0,,,20.0,200.0,20.0
+134,ANIP,2.0,,,20.0,200.0,20.0
+135,ANSS,2.0,,,20.0,200.0,20.0
+136,ANTM,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+137,AOI,2.0,Consumer Services,Farming/Seeds/Milling,4.0,47.0,4.0
+138,AON,2.0,Finance,Specialty Insurers,6.0,120.0,6.0
+139,AOS,2.0,Consumer Durables,Consumer Electronics/Appliances,2.0,32.0,2.0
+140,AOSL,2.0,,,20.0,200.0,20.0
+141,AP,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+142,APA,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+143,APC,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+144,APD,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+145,APEI,2.0,,,20.0,200.0,20.0
+146,APH,2.0,Capital Goods,Electrical Products,1.0,42.0,1.0
+147,APOG,2.0,,,20.0,200.0,20.0
+148,APOL,2.0,,,20.0,200.0,20.0
+149,ARAY,2.0,,,20.0,200.0,20.0
+150,ARC,2.0,Consumer Services,Professional Services,4.0,102.0,4.0
+151,ARCB,2.0,,,20.0,200.0,20.0
+152,ARCC,2.0,,,20.0,200.0,20.0
+153,ARCW,2.0,,,20.0,200.0,20.0
+154,ARE,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+155,AREX,2.0,,,20.0,200.0,20.0
+156,ARI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+157,ARIA,2.0,,,20.0,200.0,20.0
+158,ARII,2.0,,,20.0,200.0,20.0
+159,ARNA,2.0,,,20.0,200.0,20.0
+160,ARNC,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+161,AROW,2.0,,,20.0,200.0,20.0
+162,ARQL,2.0,,,20.0,200.0,20.0
+163,ARR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+164,ARRS,2.0,,,20.0,200.0,20.0
+165,ARRY,2.0,,,20.0,200.0,20.0
+166,ARTNA,2.0,,,20.0,200.0,20.0
+167,ARW,2.0,Consumer Non-Durables,Electronic Components,3.0,43.0,3.0
+168,ARWR,2.0,,,20.0,200.0,20.0
+169,ASCMA,2.0,,,20.0,200.0,20.0
+170,ASGN,2.0,Technology,Professional Services,11.0,102.0,11.0
+171,ASH,2.0,Consumer Durables,Specialty Chemicals,2.0,118.0,2.0
+172,ASNA,2.0,,,20.0,200.0,20.0
+173,ASPS,2.0,,,20.0,200.0,20.0
+174,ASTE,2.0,,,20.0,200.0,20.0
+175,AT,2.0,Energy,Electric Utilities: Central,5.0,41.0,5.0
+176,ATEC,2.0,,,20.0,200.0,20.0
+177,ATHN,2.0,,,20.0,200.0,20.0
+178,ATI,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+179,ATLO,2.0,,,20.0,200.0,20.0
+180,ATNI,2.0,,,20.0,200.0,20.0
+181,ATO,2.0,Public Utilities,Oil/Gas Transmission,9.0,87.0,9.0
+182,ATR,2.0,Consumer Non-Durables,Plastic Products,3.0,98.0,3.0
+183,ATRC,2.0,,,20.0,200.0,20.0
+184,ATRI,2.0,,,20.0,200.0,20.0
+185,ATRO,2.0,,,20.0,200.0,20.0
+186,ATRS,2.0,,,20.0,200.0,20.0
+187,ATSG,2.0,,,20.0,200.0,20.0
+188,ATU,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+189,ATVI,2.0,,,20.0,200.0,20.0
+190,ATW,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+191,AVA,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+192,AVAV,2.0,,,20.0,200.0,20.0
+193,AVB,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+194,AVD,2.0,Basic Industries,Agricultural Chemicals,0.0,3.0,0.0
+195,AVEO,2.0,,,20.0,200.0,20.0
+196,AVGO,2.0,,,20.0,200.0,20.0
+197,AVHI,2.0,,,20.0,200.0,20.0
+198,AVNW,2.0,,,20.0,200.0,20.0
+199,AVP,2.0,Consumer Non-Durables,Package Goods/Cosmetics,3.0,94.0,3.0
+200,AVT,2.0,Consumer Non-Durables,Electronic Components,3.0,43.0,3.0
+201,AVX,2.0,Capital Goods,Electrical Products,1.0,42.0,1.0
+202,AVY,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+203,AWH,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+204,AWI,2.0,Consumer Non-Durables,Plastic Products,3.0,98.0,3.0
+205,AWK,2.0,Public Utilities,Water Supply,9.0,129.0,9.0
+206,AWR,2.0,Public Utilities,Water Supply,9.0,129.0,9.0
+207,AXAS,2.0,,,20.0,200.0,20.0
+208,AXDX,2.0,,,20.0,200.0,20.0
+209,AXE,2.0,Consumer Non-Durables,Telecommunications Equipment,3.0,122.0,3.0
+210,AXL,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+211,AXP,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+212,AXS,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+213,AYI,2.0,Consumer Durables,Building Products,2.0,19.0,2.0
+214,AYR,2.0,Technology,Diversified Commercial Services,11.0,38.0,11.0
+215,AZO,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+216,AZPN,2.0,,,20.0,200.0,20.0
+217,AZZ,2.0,Consumer Durables,Building Products,2.0,19.0,2.0
+218,B,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+219,BA,2.0,Capital Goods,Aerospace,1.0,2.0,1.0
+220,BABY,2.0,,,20.0,200.0,20.0
+221,BAC,2.0,Finance,Major Banks,6.0,67.0,6.0
+222,BAH,2.0,Consumer Services,Professional Services,4.0,102.0,4.0
+223,BANC,2.0,Finance,Major Banks,6.0,67.0,6.0
+224,BANF,2.0,,,20.0,200.0,20.0
+225,BANR,2.0,,,20.0,200.0,20.0
+226,BAS,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+227,BAX,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+228,BBBY,2.0,,,20.0,200.0,20.0
+229,BBG,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+230,BBGI,2.0,,,20.0,200.0,20.0
+231,BBOX,2.0,,,20.0,200.0,20.0
+232,BBRG,2.0,,,20.0,200.0,20.0
+233,BBSI,2.0,,,20.0,200.0,20.0
+234,BBT,2.0,Finance,Major Banks,6.0,67.0,6.0
+235,BBW,2.0,Consumer Services,Recreational Products/Toys,4.0,110.0,4.0
+236,BBY,2.0,Consumer Services,Consumer Electronics/Video Chains,4.0,33.0,4.0
+237,BC,2.0,Energy,Industrial Machinery/Components,5.0,60.0,5.0
+238,BCEI,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+239,BCO,2.0,Transportation,Oil Refining/Marketing,12.0,86.0,12.0
+240,BCOR,2.0,,,20.0,200.0,20.0
+241,BCPC,2.0,,,20.0,200.0,20.0
+242,BCR,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+243,BCRX,2.0,,,20.0,200.0,20.0
+244,BDC,2.0,Basic Industries,Telecommunications Equipment,0.0,122.0,0.0
+245,BDE,2.0,,,20.0,200.0,20.0
+246,BDGE,2.0,,,20.0,200.0,20.0
+247,BDN,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+248,BDSI,2.0,,,20.0,200.0,20.0
+249,BDX,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+250,BEAT,2.0,,,20.0,200.0,20.0
+251,BEAV,2.0,,,20.0,200.0,20.0
+252,BEBE,2.0,,,20.0,200.0,20.0
+253,BECN,2.0,,,20.0,200.0,20.0
+254,BELFB,2.0,,,20.0,200.0,20.0
+255,BEN,2.0,Finance,Investment Managers,6.0,65.0,6.0
+256,BFIN,2.0,,,20.0,200.0,20.0
+257,BFS,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+258,BF_B,2.0,,,20.0,200.0,20.0
+259,BG,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+260,BGC,2.0,Basic Industries,Telecommunications Equipment,0.0,122.0,0.0
+261,BGCP,2.0,,,20.0,200.0,20.0
+262,BGFV,2.0,,,20.0,200.0,20.0
+263,BGG,2.0,Energy,Industrial Machinery/Components,5.0,60.0,5.0
+264,BGS,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+265,BH,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+266,BHB,2.0,,,20.0,200.0,20.0
+267,BHE,2.0,Technology,Electrical Products,11.0,42.0,11.0
+268,BHI,2.0,Energy,Metal Fabrications,5.0,75.0,5.0
+269,BHLB,2.0,Finance,Banks,6.0,10.0,6.0
+270,BID,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+271,BIDU,2.0,,,20.0,200.0,20.0
+272,BIG,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+273,BIIB,2.0,,,20.0,200.0,20.0
+274,BIO,2.0,Capital Goods,Biotechnology: Laboratory Analytical Instruments,1.0,15.0,1.0
+275,BIOL,2.0,,,20.0,200.0,20.0
+276,BIOS,2.0,,,20.0,200.0,20.0
+277,BJRI,2.0,,,20.0,200.0,20.0
+278,BK,2.0,Finance,Major Banks,6.0,67.0,6.0
+279,BKCC,2.0,,,20.0,200.0,20.0
+280,BKD,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+281,BKE,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+282,BKH,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+283,BKMU,2.0,,,20.0,200.0,20.0
+284,BKS,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+285,BKU,2.0,Finance,Savings Institutions,6.0,114.0,6.0
+286,BLDR,2.0,,,20.0,200.0,20.0
+287,BLK,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+288,BLKB,2.0,,,20.0,200.0,20.0
+289,BLL,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+290,BLX,2.0,Finance,Commercial Banks,6.0,25.0,6.0
+291,BMI,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+292,BMRC,2.0,,,20.0,200.0,20.0
+293,BMRN,2.0,,,20.0,200.0,20.0
+294,BMS,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+295,BMTC,2.0,,,20.0,200.0,20.0
+296,BMY,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+297,BNCL,2.0,,,20.0,200.0,20.0
+298,BNCN,2.0,,,20.0,200.0,20.0
+299,BOBE,2.0,,,20.0,200.0,20.0
+300,BOFI,2.0,,,20.0,200.0,20.0
+301,BOH,2.0,Finance,Major Banks,6.0,67.0,6.0
+302,BOKF,2.0,,,20.0,200.0,20.0
+303,BONT,2.0,,,20.0,200.0,20.0
+304,BOOM,2.0,,,20.0,200.0,20.0
+305,BP,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+306,BPFH,2.0,,,20.0,200.0,20.0
+307,BPI,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+308,BPOP,2.0,,,20.0,200.0,20.0
+309,BPTH,2.0,,,20.0,200.0,20.0
+310,BR,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+311,BRC,2.0,Consumer Durables,Miscellaneous manufacturing industries,2.0,78.0,2.0
+312,BRCD,2.0,,,20.0,200.0,20.0
+313,BREW,2.0,,,20.0,200.0,20.0
+314,BRKL,2.0,,,20.0,200.0,20.0
+315,BRKR,2.0,,,20.0,200.0,20.0
+316,BRKS,2.0,,,20.0,200.0,20.0
+317,BRK_A,2.0,,,20.0,200.0,20.0
+318,BRK_B,2.0,,,20.0,200.0,20.0
+319,BRO,2.0,Finance,Specialty Insurers,6.0,120.0,6.0
+320,BRS,2.0,Transportation,Transportation Services,12.0,127.0,12.0
+321,BRT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+322,BSET,2.0,,,20.0,200.0,20.0
+323,BSFT,2.0,,,20.0,200.0,20.0
+324,BSRR,2.0,,,20.0,200.0,20.0
+325,BSTC,2.0,,,20.0,200.0,20.0
+326,BSX,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+327,BTX,2.0,,,20.0,200.0,20.0
+328,BUSE,2.0,,,20.0,200.0,20.0
+329,BWA,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+330,BWINB,2.0,,,20.0,200.0,20.0
+331,BWLD,2.0,,,20.0,200.0,20.0
+332,BXC,2.0,Capital Goods,Wholesale Distributors,1.0,130.0,1.0
+333,BXP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+334,BXS,2.0,Finance,Major Banks,6.0,67.0,6.0
+335,BYD,2.0,Consumer Services,Hotels/Resorts,4.0,59.0,4.0
+336,BZH,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+337,C,2.0,Finance,Major Banks,6.0,67.0,6.0
+338,CA,2.0,,,20.0,200.0,20.0
+339,CAB,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+340,CAC,2.0,,,20.0,200.0,20.0
+341,CACB,2.0,,,20.0,200.0,20.0
+342,CACC,2.0,,,20.0,200.0,20.0
+343,CACI,2.0,Technology,EDP Services,11.0,40.0,11.0
+344,CAG,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+345,CAH,2.0,Health Care,Other Pharmaceuticals,7.0,92.0,7.0
+346,CAKE,2.0,,,20.0,200.0,20.0
+347,CALD,2.0,,,20.0,200.0,20.0
+348,CALL,2.0,,,20.0,200.0,20.0
+349,CALM,2.0,,,20.0,200.0,20.0
+350,CALX,2.0,Consumer Services,Telecommunications Equipment,4.0,122.0,4.0
+351,CAMP,2.0,,,20.0,200.0,20.0
+352,CAR,2.0,,,20.0,200.0,20.0
+353,CARB,2.0,,,20.0,200.0,20.0
+354,CASH,2.0,,,20.0,200.0,20.0
+355,CASS,2.0,,,20.0,200.0,20.0
+356,CASY,2.0,,,20.0,200.0,20.0
+357,CAT,2.0,Capital Goods,Construction/Ag Equipment/Trucks,1.0,31.0,1.0
+358,CATM,2.0,,,20.0,200.0,20.0
+359,CATO,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+360,CATY,2.0,,,20.0,200.0,20.0
+361,CAVM,2.0,,,20.0,200.0,20.0
+362,CB,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+363,CBB,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+364,CBG,2.0,Finance,Real Estate,6.0,108.0,6.0
+365,CBI,2.0,Basic Industries,Engineering & Construction,0.0,45.0,0.0
+366,CBK,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+367,CBL,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+368,CBM,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+369,CBOE,2.0,,,20.0,200.0,20.0
+370,CBR,2.0,,,20.0,200.0,20.0
+371,CBRL,2.0,,,20.0,200.0,20.0
+372,CBS,2.0,Consumer Services,Broadcasting,4.0,17.0,4.0
+373,CBSH,2.0,,,20.0,200.0,20.0
+374,CBT,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+375,CBU,2.0,Finance,Major Banks,6.0,67.0,6.0
+376,CBZ,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+377,CCBG,2.0,,,20.0,200.0,20.0
+378,CCC,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+379,CCE,2.0,Consumer Non-Durables,Beverages (Production/Distribution),3.0,11.0,3.0
+380,CCF,2.0,,,20.0,200.0,20.0
+381,CCI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+382,CCK,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+383,CCL,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+384,CCMP,2.0,,,20.0,200.0,20.0
+385,CCNE,2.0,,,20.0,200.0,20.0
+386,CCO,2.0,Consumer Services,Advertising,4.0,1.0,4.0
+387,CCOI,2.0,,,20.0,200.0,20.0
+388,CCRN,2.0,,,20.0,200.0,20.0
+389,CDE,2.0,Basic Industries,Precious Metals,0.0,101.0,0.0
+390,CDI,2.0,Technology,Professional Services,11.0,102.0,11.0
+391,CDNS,2.0,,,20.0,200.0,20.0
+392,CDR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+393,CE,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+394,CEB,2.0,,,20.0,200.0,20.0
+395,CECE,2.0,,,20.0,200.0,20.0
+396,CECO,2.0,,,20.0,200.0,20.0
+397,CELG,2.0,,,20.0,200.0,20.0
+398,CENTA,2.0,,,20.0,200.0,20.0
+399,CENX,2.0,,,20.0,200.0,20.0
+400,CERN,2.0,,,20.0,200.0,20.0
+401,CERS,2.0,,,20.0,200.0,20.0
+402,CETV,2.0,,,20.0,200.0,20.0
+403,CEVA,2.0,,,20.0,200.0,20.0
+404,CF,2.0,Basic Industries,Agricultural Chemicals,0.0,3.0,0.0
+405,CFFI,2.0,,,20.0,200.0,20.0
+406,CFFN,2.0,,,20.0,200.0,20.0
+407,CFI,2.0,Basic Industries,Textiles,0.0,124.0,0.0
+408,CFNB,2.0,,,20.0,200.0,20.0
+409,CFNL,2.0,,,20.0,200.0,20.0
+410,CFR,2.0,Finance,Major Banks,6.0,67.0,6.0
+411,CFX,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+412,CGI,2.0,Transportation,Trucking Freight/Courier Services,12.0,128.0,12.0
+413,CGNX,2.0,,,20.0,200.0,20.0
+414,CHCO,2.0,,,20.0,200.0,20.0
+415,CHD,2.0,Basic Industries,Package Goods/Cosmetics,0.0,94.0,0.0
+416,CHDN,2.0,,,20.0,200.0,20.0
+417,CHE,2.0,Health Care,Medical/Nursing Services,7.0,74.0,7.0
+418,CHEF,2.0,,,20.0,200.0,20.0
+419,CHFC,2.0,,,20.0,200.0,20.0
+420,CHFN,2.0,,,20.0,200.0,20.0
+421,CHH,2.0,Consumer Services,Hotels/Resorts,4.0,59.0,4.0
+422,CHK,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+423,CHKP,2.0,,,20.0,200.0,20.0
+424,CHMG,2.0,,,20.0,200.0,20.0
+425,CHMT,2.0,,,20.0,200.0,20.0
+426,CHRW,2.0,,,20.0,200.0,20.0
+427,CHS,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+428,CHSP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+429,CHTR,2.0,,,20.0,200.0,20.0
+430,CI,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+431,CIA,2.0,Finance,Life Insurance,6.0,66.0,6.0
+432,CIDM,2.0,,,20.0,200.0,20.0
+433,CIE,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+434,CIEN,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+435,CIM,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+436,CINF,2.0,,,20.0,200.0,20.0
+437,CIR,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+438,CIT,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+439,CIX,2.0,,,20.0,200.0,20.0
+440,CKH,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+441,CL,2.0,Consumer Non-Durables,Package Goods/Cosmetics,3.0,94.0,3.0
+442,CLC,2.0,,,20.0,200.0,20.0
+443,CLCT,2.0,,,20.0,200.0,20.0
+444,CLD,2.0,Energy,Coal Mining,5.0,24.0,5.0
+445,CLDT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+446,CLDX,2.0,,,20.0,200.0,20.0
+447,CLF,2.0,Basic Industries,Precious Metals,0.0,101.0,0.0
+448,CLFD,2.0,,,20.0,200.0,20.0
+449,CLGX,2.0,Technology,EDP Services,11.0,40.0,11.0
+450,CLH,2.0,Basic Industries,Environmental Services,0.0,46.0,0.0
+451,CLI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+452,CLMS,2.0,,,20.0,200.0,20.0
+453,CLNE,2.0,,,20.0,200.0,20.0
+454,CLNY,2.0,,,20.0,200.0,20.0
+455,CLR,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+456,CLUB,2.0,,,20.0,200.0,20.0
+457,CLVS,2.0,,,20.0,200.0,20.0
+458,CLW,2.0,Basic Industries,Paper,0.0,97.0,0.0
+459,CLX,2.0,Consumer Durables,Specialty Chemicals,2.0,118.0,2.0
+460,CMA,2.0,Finance,Major Banks,6.0,67.0,6.0
+461,CMC,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+462,CMCO,2.0,,,20.0,200.0,20.0
+463,CMCSA,2.0,,,20.0,200.0,20.0
+464,CME,2.0,,,20.0,200.0,20.0
+465,CMG,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+466,CMI,2.0,Energy,Industrial Machinery/Components,5.0,60.0,5.0
+467,CMLS,2.0,,,20.0,200.0,20.0
+468,CMO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+469,CMP,2.0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),0.0,77.0,0.0
+470,CMS,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+471,CMTL,2.0,,,20.0,200.0,20.0
+472,CNA,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+473,CNBKA,2.0,,,20.0,200.0,20.0
+474,CNC,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+475,CNK,2.0,Consumer Services,Movies/Entertainment,4.0,80.0,4.0
+476,CNMD,2.0,,,20.0,200.0,20.0
+477,CNO,2.0,Finance,Accident &Health Insurance,6.0,0.0,6.0
+478,CNOB,2.0,,,20.0,200.0,20.0
+479,CNP,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+480,CNS,2.0,Finance,Investment Managers,6.0,65.0,6.0
+481,CNSL,2.0,,,20.0,200.0,20.0
+482,CNX,2.0,Energy,Coal Mining,5.0,24.0,5.0
+483,COBZ,2.0,,,20.0,200.0,20.0
+484,COF,2.0,Finance,Major Banks,6.0,67.0,6.0
+485,COG,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+486,COH,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+487,COHR,2.0,,,20.0,200.0,20.0
+488,COHU,2.0,,,20.0,200.0,20.0
+489,COKE,2.0,,,20.0,200.0,20.0
+490,COL,2.0,Capital Goods,Military/Government/Technical,1.0,76.0,1.0
+491,COLB,2.0,,,20.0,200.0,20.0
+492,COLM,2.0,,,20.0,200.0,20.0
+493,CONN,2.0,,,20.0,200.0,20.0
+494,COO,2.0,Health Care,Ophthalmic Goods,7.0,89.0,7.0
+495,COP,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+496,COR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+497,CORE,2.0,,,20.0,200.0,20.0
+498,CORR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+499,CORT,2.0,,,20.0,200.0,20.0
+500,COST,2.0,,,20.0,200.0,20.0
+501,COWN,2.0,,,20.0,200.0,20.0
+502,CPA,2.0,Transportation,Air Freight/Delivery Services,12.0,4.0,12.0
+503,CPB,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+504,CPE,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+505,CPF,2.0,Finance,Major Banks,6.0,67.0,6.0
+506,CPK,2.0,Public Utilities,Oil & Gas Production,9.0,85.0,9.0
+507,CPLA,2.0,,,20.0,200.0,20.0
+508,CPN,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+509,CPRT,2.0,,,20.0,200.0,20.0
+510,CPS,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+511,CPSI,2.0,,,20.0,200.0,20.0
+512,CPSS,2.0,,,20.0,200.0,20.0
+513,CPST,2.0,,,20.0,200.0,20.0
+514,CPT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+515,CR,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+516,CRAI,2.0,,,20.0,200.0,20.0
+517,CRAY,2.0,,,20.0,200.0,20.0
+518,CRD_B,2.0,,,20.0,200.0,20.0
+519,CREE,2.0,,,20.0,200.0,20.0
+520,CRI,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+521,CRIS,2.0,,,20.0,200.0,20.0
+522,CRK,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+523,CRL,2.0,Health Care,Biotechnology: Commercial Physical & Biological Resarch,7.0,12.0,7.0
+524,CRM,2.0,Technology,Computer Software: Prepackaged Software,11.0,28.0,11.0
+525,CRMT,2.0,,,20.0,200.0,20.0
+526,CROX,2.0,,,20.0,200.0,20.0
+527,CRR,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+528,CRS,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+529,CRUS,2.0,,,20.0,200.0,20.0
+530,CRVL,2.0,,,20.0,200.0,20.0
+531,CRY,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+532,CRZO,2.0,,,20.0,200.0,20.0
+533,CSBK,2.0,,,20.0,200.0,20.0
+534,CSC,2.0,,,20.0,200.0,20.0
+535,CSCO,2.0,,,20.0,200.0,20.0
+536,CSFL,2.0,,,20.0,200.0,20.0
+537,CSGP,2.0,,,20.0,200.0,20.0
+538,CSGS,2.0,,,20.0,200.0,20.0
+539,CSII,2.0,,,20.0,200.0,20.0
+540,CSL,2.0,Basic Industries,Specialty Chemicals,0.0,118.0,0.0
+541,CSOD,2.0,,,20.0,200.0,20.0
+542,CSS,2.0,Consumer Services,Consumer: Greeting Cards,4.0,35.0,4.0
+543,CSU,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+544,CSV,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+545,CSWC,2.0,,,20.0,200.0,20.0
+546,CSX,2.0,,,20.0,200.0,20.0
+547,CTAS,2.0,,,20.0,200.0,20.0
+548,CTB,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+549,CTBI,2.0,,,20.0,200.0,20.0
+550,CTG,2.0,,,20.0,200.0,20.0
+551,CTIC,2.0,,,20.0,200.0,20.0
+552,CTL,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+553,CTO,2.0,,,20.0,200.0,20.0
+554,CTRN,2.0,,,20.0,200.0,20.0
+555,CTS,2.0,Technology,Electrical Products,11.0,42.0,11.0
+556,CTSH,2.0,,,20.0,200.0,20.0
+557,CTWS,2.0,,,20.0,200.0,20.0
+558,CTXS,2.0,,,20.0,200.0,20.0
+559,CUB,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+560,CUBE,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+561,CUI,2.0,,,20.0,200.0,20.0
+562,CUNB,2.0,,,20.0,200.0,20.0
+563,CUR,2.0,,,20.0,200.0,20.0
+564,CUTR,2.0,,,20.0,200.0,20.0
+565,CUZ,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+566,CVA,2.0,Basic Industries,Electric Utilities: Central,0.0,41.0,0.0
+567,CVBF,2.0,,,20.0,200.0,20.0
+568,CVCO,2.0,,,20.0,200.0,20.0
+569,CVG,2.0,Technology,EDP Services,11.0,40.0,11.0
+570,CVGI,2.0,,,20.0,200.0,20.0
+571,CVGW,2.0,,,20.0,200.0,20.0
+572,CVI,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+573,CVLT,2.0,,,20.0,200.0,20.0
+574,CVO,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+575,CVS,2.0,Health Care,Medical/Nursing Services,7.0,74.0,7.0
+576,CVX,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+577,CW,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+578,CWCO,2.0,,,20.0,200.0,20.0
+579,CWEI,2.0,,,20.0,200.0,20.0
+580,CWST,2.0,,,20.0,200.0,20.0
+581,CWT,2.0,Public Utilities,Water Supply,9.0,129.0,9.0
+582,CXO,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+583,CXW,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+584,CY,2.0,,,20.0,200.0,20.0
+585,CYH,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+586,CYNO,2.0,,,20.0,200.0,20.0
+587,CYS,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+588,CYTK,2.0,,,20.0,200.0,20.0
+589,CYTR,2.0,,,20.0,200.0,20.0
+590,CYTX,2.0,,,20.0,200.0,20.0
+591,CZNC,2.0,,,20.0,200.0,20.0
+592,D,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+593,DAKT,2.0,,,20.0,200.0,20.0
+594,DAL,2.0,Transportation,Air Freight/Delivery Services,12.0,4.0,12.0
+595,DAN,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+596,DAR,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+597,DAVE,2.0,,,20.0,200.0,20.0
+598,DBD,2.0,Miscellaneous,Office Equipment/Supplies/Services,8.0,84.0,8.0
+599,DCI,2.0,Capital Goods,Pollution Control Equipment,1.0,99.0,1.0
+600,DCO,2.0,Capital Goods,Military/Government/Technical,1.0,76.0,1.0
+601,DCOM,2.0,,,20.0,200.0,20.0
+602,DCT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+603,DD,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+604,DDD,2.0,Technology,Computer Software: Prepackaged Software,11.0,28.0,11.0
+605,DDR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+606,DDS,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+607,DE,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+608,DECK,2.0,Consumer Non-Durables,Shoe Manufacturing,3.0,117.0,3.0
+609,DEI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+610,DEL,2.0,Basic Industries,Forest Products,0.0,54.0,0.0
+611,DENN,2.0,,,20.0,200.0,20.0
+612,DEPO,2.0,,,20.0,200.0,20.0
+613,DEST,2.0,,,20.0,200.0,20.0
+614,DF,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+615,DFS,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+616,DFT,2.0,Finance,Real Estate,6.0,108.0,6.0
+617,DG,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+618,DGAS,2.0,,,20.0,200.0,20.0
+619,DGI,2.0,Consumer Services,Telecommunications Equipment,4.0,122.0,4.0
+620,DGICA,2.0,,,20.0,200.0,20.0
+621,DGII,2.0,,,20.0,200.0,20.0
+622,DGX,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+623,DHI,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+624,DHIL,2.0,,,20.0,200.0,20.0
+625,DHR,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+626,DHT,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+627,DHX,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+628,DIN,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+629,DIOD,2.0,,,20.0,200.0,20.0
+630,DIS,2.0,Consumer Services,Television Services,4.0,123.0,4.0
+631,DISCA,2.0,,,20.0,200.0,20.0
+632,DISCK,2.0,,,20.0,200.0,20.0
+633,DISH,2.0,,,20.0,200.0,20.0
+634,DJCO,2.0,,,20.0,200.0,20.0
+635,DK,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+636,DKS,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+637,DLB,2.0,Miscellaneous,Multi-Sector Companies,8.0,81.0,8.0
+638,DLPH,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+639,DLR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+640,DLTR,2.0,,,20.0,200.0,20.0
+641,DLX,2.0,Consumer Durables,Publishing,2.0,104.0,2.0
+642,DMRC,2.0,,,20.0,200.0,20.0
+643,DNB,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+644,DNKN,2.0,,,20.0,200.0,20.0
+645,DNR,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+646,DO,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+647,DOOR,2.0,Basic Industries,Forest Products,0.0,54.0,0.0
+648,DORM,2.0,,,20.0,200.0,20.0
+649,DOV,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+650,DOW,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+651,DOX,2.0,,,20.0,200.0,20.0
+652,DPS,2.0,Consumer Non-Durables,Beverages (Production/Distribution),3.0,11.0,3.0
+653,DPZ,2.0,Consumer Non-Durables,Food Distributors,3.0,53.0,3.0
+654,DRE,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+655,DRH,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+656,DRI,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+657,DRQ,2.0,Energy,Metal Fabrications,5.0,75.0,5.0
+658,DSCI,2.0,,,20.0,200.0,20.0
+659,DSPG,2.0,,,20.0,200.0,20.0
+660,DST,2.0,Technology,EDP Services,11.0,40.0,11.0
+661,DSW,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+662,DTE,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+663,DTLK,2.0,,,20.0,200.0,20.0
+664,DTV,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+665,DUK,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+666,DV,2.0,,,20.0,200.0,20.0
+667,DVA,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+668,DVAX,2.0,,,20.0,200.0,20.0
+669,DVN,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+670,DWSN,2.0,,,20.0,200.0,20.0
+671,DX,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+672,DXCM,2.0,,,20.0,200.0,20.0
+673,DXLG,2.0,,,20.0,200.0,20.0
+674,DXPE,2.0,,,20.0,200.0,20.0
+675,DXYN,2.0,,,20.0,200.0,20.0
+676,DY,2.0,Basic Industries,Water Supply,0.0,129.0,0.0
+677,EA,2.0,,,20.0,200.0,20.0
+678,EAT,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+679,EBAY,2.0,,,20.0,200.0,20.0
+680,EBF,2.0,Consumer Services,Office Equipment/Supplies/Services,4.0,84.0,4.0
+681,EBIX,2.0,,,20.0,200.0,20.0
+682,EBS,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+683,EBSB,2.0,,,20.0,200.0,20.0
+684,EBTC,2.0,,,20.0,200.0,20.0
+685,ECHO,2.0,,,20.0,200.0,20.0
+686,ECL,2.0,Basic Industries,Package Goods/Cosmetics,0.0,94.0,0.0
+687,ECOL,2.0,,,20.0,200.0,20.0
+688,ECPG,2.0,,,20.0,200.0,20.0
+689,ECYT,2.0,,,20.0,200.0,20.0
+690,ED,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+691,EDR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+692,EE,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+693,EEFT,2.0,,,20.0,200.0,20.0
+694,EFII,2.0,,,20.0,200.0,20.0
+695,EFSC,2.0,,,20.0,200.0,20.0
+696,EFX,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+697,EGAN,2.0,,,20.0,200.0,20.0
+698,EGBN,2.0,,,20.0,200.0,20.0
+699,EGHT,2.0,,,20.0,200.0,20.0
+700,EGN,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+701,EGOV,2.0,,,20.0,200.0,20.0
+702,EGP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+703,EGY,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+704,EHTH,2.0,,,20.0,200.0,20.0
+705,EIG,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+706,EIX,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+707,EL,2.0,Consumer Non-Durables,Package Goods/Cosmetics,3.0,94.0,3.0
+708,ELGX,2.0,,,20.0,200.0,20.0
+709,ELLI,2.0,Technology,Computer Software: Prepackaged Software,11.0,28.0,11.0
+710,ELNK,2.0,,,20.0,200.0,20.0
+711,ELS,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+712,ELY,2.0,Consumer Non-Durables,Recreational Products/Toys,3.0,110.0,3.0
+713,EMCI,2.0,,,20.0,200.0,20.0
+714,EME,2.0,Capital Goods,Engineering & Construction,1.0,45.0,1.0
+715,EMN,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+716,EMR,2.0,Energy,Consumer Electronics/Appliances,5.0,32.0,5.0
+717,ENDP,2.0,,,20.0,200.0,20.0
+718,ENH,2.0,,,20.0,200.0,20.0
+719,ENOC,2.0,,,20.0,200.0,20.0
+720,ENR,2.0,Miscellaneous,Industrial Machinery/Components,8.0,60.0,8.0
+721,ENS,2.0,Consumer Non-Durables,Telecommunications Equipment,3.0,122.0,3.0
+722,ENSG,2.0,,,20.0,200.0,20.0
+723,ENT,2.0,,,20.0,200.0,20.0
+724,ENTG,2.0,,,20.0,200.0,20.0
+725,ENV,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+726,ENZ,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+727,EOG,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+728,EPAY,2.0,,,20.0,200.0,20.0
+729,EPM,2.0,,,20.0,200.0,20.0
+730,EPR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+731,EQIX,2.0,,,20.0,200.0,20.0
+732,EQR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+733,EQT,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+734,EQY,2.0,,,20.0,200.0,20.0
+735,ERIE,2.0,,,20.0,200.0,20.0
+736,ERII,2.0,,,20.0,200.0,20.0
+737,ES,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+738,ESCA,2.0,,,20.0,200.0,20.0
+739,ESE,2.0,Consumer Durables,Telecommunications Equipment,2.0,122.0,2.0
+740,ESGR,2.0,,,20.0,200.0,20.0
+741,ESIO,2.0,,,20.0,200.0,20.0
+742,ESL,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+743,ESRX,2.0,,,20.0,200.0,20.0
+744,ESS,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+745,ESSA,2.0,,,20.0,200.0,20.0
+746,ESV,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+747,ETFC,2.0,,,20.0,200.0,20.0
+748,ETH,2.0,Consumer Durables,Home Furnishings,2.0,56.0,2.0
+749,ETM,2.0,Consumer Services,Broadcasting,4.0,17.0,4.0
+750,ETN,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+751,ETR,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+752,EV,2.0,Finance,Investment Managers,6.0,65.0,6.0
+753,EVC,2.0,Consumer Services,Broadcasting,4.0,17.0,4.0
+754,EVR,2.0,Finance,Investment Managers,6.0,65.0,6.0
+755,EW,2.0,Health Care,Industrial Specialties,7.0,61.0,7.0
+756,EWBC,2.0,,,20.0,200.0,20.0
+757,EXAC,2.0,,,20.0,200.0,20.0
+758,EXAR,2.0,,,20.0,200.0,20.0
+759,EXAS,2.0,,,20.0,200.0,20.0
+760,EXC,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+761,EXEL,2.0,,,20.0,200.0,20.0
+762,EXLS,2.0,,,20.0,200.0,20.0
+763,EXP,2.0,Capital Goods,Building Materials,1.0,18.0,1.0
+764,EXPD,2.0,,,20.0,200.0,20.0
+765,EXPE,2.0,,,20.0,200.0,20.0
+766,EXPO,2.0,,,20.0,200.0,20.0
+767,EXPR,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+768,EXR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+769,EXTR,2.0,,,20.0,200.0,20.0
+770,EZPW,2.0,,,20.0,200.0,20.0
+771,F,2.0,Capital Goods,Auto Manufacturing,1.0,7.0,1.0
+772,FAF,2.0,Finance,Specialty Insurers,6.0,120.0,6.0
+773,FARM,2.0,,,20.0,200.0,20.0
+774,FARO,2.0,,,20.0,200.0,20.0
+775,FAST,2.0,,,20.0,200.0,20.0
+776,FBC,2.0,Finance,Savings Institutions,6.0,114.0,6.0
+777,FBHS,2.0,Basic Industries,Homebuilding,0.0,57.0,0.0
+778,FBIZ,2.0,,,20.0,200.0,20.0
+779,FBNC,2.0,,,20.0,200.0,20.0
+780,FBNK,2.0,,,20.0,200.0,20.0
+781,FBP,2.0,Finance,Major Banks,6.0,67.0,6.0
+782,FBRC,2.0,,,20.0,200.0,20.0
+783,FC,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+784,FCBC,2.0,,,20.0,200.0,20.0
+785,FCEL,2.0,,,20.0,200.0,20.0
+786,FCE_A,2.0,,,20.0,200.0,20.0
+787,FCF,2.0,Finance,Major Banks,6.0,67.0,6.0
+788,FCFS,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+789,FCH,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+790,FCN,2.0,Consumer Services,Professional Services,4.0,102.0,4.0
+791,FCNCA,2.0,,,20.0,200.0,20.0
+792,FCSC,2.0,,,20.0,200.0,20.0
+793,FCX,2.0,Basic Industries,Precious Metals,0.0,101.0,0.0
+794,FDEF,2.0,,,20.0,200.0,20.0
+795,FDML,2.0,,,20.0,200.0,20.0
+796,FDP,2.0,Consumer Non-Durables,Farming/Seeds/Milling,3.0,47.0,3.0
+797,FDS,2.0,Technology,"Computer Software: Programming, Data Processing",11.0,29.0,11.0
+798,FDUS,2.0,,,20.0,200.0,20.0
+799,FDX,2.0,Transportation,Air Freight/Delivery Services,12.0,4.0,12.0
+800,FE,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+801,FELE,2.0,,,20.0,200.0,20.0
+802,FF,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+803,FFBC,2.0,,,20.0,200.0,20.0
+804,FFG,2.0,Finance,Life Insurance,6.0,66.0,6.0
+805,FFIC,2.0,,,20.0,200.0,20.0
+806,FFIN,2.0,,,20.0,200.0,20.0
+807,FFIV,2.0,,,20.0,200.0,20.0
+808,FFKT,2.0,,,20.0,200.0,20.0
+809,FFNW,2.0,,,20.0,200.0,20.0
+810,FHCO,2.0,,,20.0,200.0,20.0
+811,FHN,2.0,Finance,Major Banks,6.0,67.0,6.0
+812,FIBK,2.0,,,20.0,200.0,20.0
+813,FICO,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+814,FII,2.0,Finance,Investment Managers,6.0,65.0,6.0
+815,FINL,2.0,,,20.0,200.0,20.0
+816,FIS,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+817,FISI,2.0,,,20.0,200.0,20.0
+818,FISV,2.0,,,20.0,200.0,20.0
+819,FITB,2.0,,,20.0,200.0,20.0
+820,FIX,2.0,Capital Goods,Engineering & Construction,1.0,45.0,1.0
+821,FIZZ,2.0,,,20.0,200.0,20.0
+822,FL,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+823,FLDM,2.0,,,20.0,200.0,20.0
+824,FLIC,2.0,,,20.0,200.0,20.0
+825,FLIR,2.0,,,20.0,200.0,20.0
+826,FLO,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+827,FLR,2.0,Basic Industries,Military/Government/Technical,0.0,76.0,0.0
+828,FLS,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+829,FLT,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+830,FLWS,2.0,,,20.0,200.0,20.0
+831,FLXS,2.0,,,20.0,200.0,20.0
+832,FMBI,2.0,,,20.0,200.0,20.0
+833,FMC,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+834,FN,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+835,FNB,2.0,Finance,Major Banks,6.0,67.0,6.0
+836,FNF,2.0,Finance,Specialty Insurers,6.0,120.0,6.0
+837,FNGN,2.0,,,20.0,200.0,20.0
+838,FNHC,2.0,,,20.0,200.0,20.0
+839,FNLC,2.0,,,20.0,200.0,20.0
+840,FNSR,2.0,,,20.0,200.0,20.0
+841,FOE,2.0,Basic Industries,Paints/Coatings,0.0,96.0,0.0
+842,FOLD,2.0,,,20.0,200.0,20.0
+843,FOR,2.0,Finance,Real Estate,6.0,108.0,6.0
+844,FORM,2.0,,,20.0,200.0,20.0
+845,FORR,2.0,,,20.0,200.0,20.0
+846,FOSL,2.0,,,20.0,200.0,20.0
+847,FOX,2.0,,,20.0,200.0,20.0
+848,FOXA,2.0,,,20.0,200.0,20.0
+849,FPO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+850,FR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+851,FRAN,2.0,,,20.0,200.0,20.0
+852,FRBK,2.0,,,20.0,200.0,20.0
+853,FRC,2.0,n/a,n/a,20.0,200.0,20.0
+854,FRME,2.0,,,20.0,200.0,20.0
+855,FRO,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+856,FRP,2.0,,,20.0,200.0,20.0
+857,FRT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+858,FSC,2.0,,,20.0,200.0,20.0
+859,FSLR,2.0,,,20.0,200.0,20.0
+860,FSP,2.0,,,20.0,200.0,20.0
+861,FSS,2.0,Capital Goods,Auto Manufacturing,1.0,7.0,1.0
+862,FSTR,2.0,,,20.0,200.0,20.0
+863,FTI,2.0,Energy,Metal Fabrications,5.0,75.0,5.0
+864,FTK,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+865,FTNT,2.0,,,20.0,200.0,20.0
+866,FTR,2.0,,,20.0,200.0,20.0
+867,FUL,2.0,Basic Industries,Home Furnishings,0.0,56.0,0.0
+868,FULT,2.0,,,20.0,200.0,20.0
+869,FVE,2.0,,,20.0,200.0,20.0
+870,FWRD,2.0,,,20.0,200.0,20.0
+871,FXCM,2.0,,,20.0,200.0,20.0
+872,G,2.0,Consumer Services,Professional Services,4.0,102.0,4.0
+873,GABC,2.0,,,20.0,200.0,20.0
+874,GAIA,2.0,,,20.0,200.0,20.0
+875,GAIN,2.0,,,20.0,200.0,20.0
+876,GALE,2.0,,,20.0,200.0,20.0
+877,GALT,2.0,,,20.0,200.0,20.0
+878,GBCI,2.0,,,20.0,200.0,20.0
+879,GBDC,2.0,,,20.0,200.0,20.0
+880,GBL,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+881,GBLI,2.0,,,20.0,200.0,20.0
+882,GBNK,2.0,,,20.0,200.0,20.0
+883,GBX,2.0,Capital Goods,Railroads,1.0,107.0,1.0
+884,GCAP,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+885,GCI,2.0,Consumer Services,Newspapers/Magazines,4.0,83.0,4.0
+886,GCO,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+887,GD,2.0,Capital Goods,Marine Transportation,1.0,70.0,1.0
+888,GDOT,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+889,GE,2.0,Energy,Consumer Electronics/Appliances,5.0,32.0,5.0
+890,GEF,2.0,n/a,n/a,20.0,200.0,20.0
+891,GEO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+892,GEOS,2.0,,,20.0,200.0,20.0
+893,GERN,2.0,,,20.0,200.0,20.0
+894,GES,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+895,GFF,2.0,Capital Goods,Building Products,1.0,19.0,1.0
+896,GFN,2.0,,,20.0,200.0,20.0
+897,GGG,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+898,GGP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+899,GHC,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+900,GHDX,2.0,,,20.0,200.0,20.0
+901,GHL,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+902,GHM,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+903,GIFI,2.0,,,20.0,200.0,20.0
+904,GIII,2.0,,,20.0,200.0,20.0
+905,GILD,2.0,,,20.0,200.0,20.0
+906,GIS,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+907,GK,2.0,,,20.0,200.0,20.0
+908,GLAD,2.0,,,20.0,200.0,20.0
+909,GLDD,2.0,,,20.0,200.0,20.0
+910,GLF,2.0,,,20.0,200.0,20.0
+911,GLNG,2.0,,,20.0,200.0,20.0
+912,GLRE,2.0,,,20.0,200.0,20.0
+913,GLT,2.0,Basic Industries,Paper,0.0,97.0,0.0
+914,GLUU,2.0,,,20.0,200.0,20.0
+915,GLW,2.0,Basic Industries,Telecommunications Equipment,0.0,122.0,0.0
+916,GM,2.0,Capital Goods,Auto Manufacturing,1.0,7.0,1.0
+917,GMAN,2.0,,,20.0,200.0,20.0
+918,GME,2.0,Consumer Services,Electronics Distribution,4.0,44.0,4.0
+919,GMO,2.0,,,20.0,200.0,20.0
+920,GNC,2.0,Consumer Non-Durables,Food Chains,3.0,52.0,3.0
+921,GNCMA,2.0,,,20.0,200.0,20.0
+922,GNE,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+923,GNMK,2.0,,,20.0,200.0,20.0
+924,GNRC,2.0,Consumer Durables,Metal Fabrications,2.0,75.0,2.0
+925,GNTX,2.0,,,20.0,200.0,20.0
+926,GNW,2.0,Finance,Life Insurance,6.0,66.0,6.0
+927,GOLD,2.0,,,20.0,200.0,20.0
+928,GOOD,2.0,,,20.0,200.0,20.0
+929,GOOGL,2.0,,,20.0,200.0,20.0
+930,GORO,2.0,,,20.0,200.0,20.0
+931,GOV,2.0,,,20.0,200.0,20.0
+932,GPC,2.0,Capital Goods,Automotive Aftermarket,1.0,9.0,1.0
+933,GPI,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+934,GPK,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+935,GPN,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+936,GPOR,2.0,,,20.0,200.0,20.0
+937,GPRE,2.0,,,20.0,200.0,20.0
+938,GPS,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+939,GPT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+940,GPX,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+941,GRA,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+942,GRC,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+943,GRIF,2.0,,,20.0,200.0,20.0
+944,GRMN,2.0,,,20.0,200.0,20.0
+945,GRPN,2.0,,,20.0,200.0,20.0
+946,GS,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+947,GSBC,2.0,,,20.0,200.0,20.0
+948,GSIT,2.0,,,20.0,200.0,20.0
+949,GSM,2.0,,,20.0,200.0,20.0
+950,GSOL,2.0,,,20.0,200.0,20.0
+951,GST,2.0,,,20.0,200.0,20.0
+952,GSVC,2.0,,,20.0,200.0,20.0
+953,GT,2.0,,,20.0,200.0,20.0
+954,GTLS,2.0,,,20.0,200.0,20.0
+955,GTN,2.0,Consumer Services,Broadcasting,4.0,17.0,4.0
+956,GTS,2.0,Finance,Accident &Health Insurance,6.0,0.0,6.0
+957,GTT,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+958,GTXI,2.0,,,20.0,200.0,20.0
+959,GTY,2.0,Finance,Real Estate,6.0,108.0,6.0
+960,GUID,2.0,,,20.0,200.0,20.0
+961,GVA,2.0,Basic Industries,Military/Government/Technical,0.0,76.0,0.0
+962,GWR,2.0,Transportation,Railroads,12.0,107.0,12.0
+963,GWW,2.0,Consumer Services,Office Equipment/Supplies/Services,4.0,84.0,4.0
+964,GXP,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+965,H,2.0,Consumer Services,Hotels/Resorts,4.0,59.0,4.0
+966,HA,2.0,,,20.0,200.0,20.0
+967,HAE,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+968,HAFC,2.0,,,20.0,200.0,20.0
+969,HAIN,2.0,,,20.0,200.0,20.0
+970,HAL,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+971,HALL,2.0,,,20.0,200.0,20.0
+972,HALO,2.0,,,20.0,200.0,20.0
+973,HAR,2.0,,,20.0,200.0,20.0
+974,HAS,2.0,,,20.0,200.0,20.0
+975,HAYN,2.0,,,20.0,200.0,20.0
+976,HBAN,2.0,,,20.0,200.0,20.0
+977,HBCP,2.0,,,20.0,200.0,20.0
+978,HBHC,2.0,,,20.0,200.0,20.0
+979,HBI,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+980,HBIO,2.0,,,20.0,200.0,20.0
+981,HBNC,2.0,,,20.0,200.0,20.0
+982,HCA,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+983,HCCI,2.0,,,20.0,200.0,20.0
+984,HCI,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+985,HCKT,2.0,,,20.0,200.0,20.0
+986,HCN,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+987,HCOM,2.0,,,20.0,200.0,20.0
+988,HCP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+989,HCSG,2.0,,,20.0,200.0,20.0
+990,HD,2.0,Consumer Services,RETAIL: Building Materials,4.0,105.0,4.0
+991,HDNG,2.0,,,20.0,200.0,20.0
+992,HE,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+993,HEAR,2.0,,,20.0,200.0,20.0
+994,HEES,2.0,,,20.0,200.0,20.0
+995,HEI,2.0,Capital Goods,Aerospace,1.0,2.0,1.0
+996,HELE,2.0,,,20.0,200.0,20.0
+997,HEOP,2.0,,,20.0,200.0,20.0
+998,HES,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+999,HF,2.0,Consumer Services,Real Estate,4.0,108.0,4.0
+1000,HFC,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+1001,HFWA,2.0,,,20.0,200.0,20.0
+1002,HGG,2.0,,,20.0,200.0,20.0
+1003,HHC,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1004,HHS,2.0,Technology,Advertising,11.0,1.0,11.0
+1005,HI,2.0,Consumer Durables,Miscellaneous manufacturing industries,2.0,78.0,2.0
+1006,HIBB,2.0,,,20.0,200.0,20.0
+1007,HIFS,2.0,,,20.0,200.0,20.0
+1008,HIG,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1009,HII,2.0,Capital Goods,Marine Transportation,1.0,70.0,1.0
+1010,HIL,2.0,Consumer Services,Military/Government/Technical,4.0,76.0,4.0
+1011,HIW,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1012,HK,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1013,HL,2.0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),0.0,77.0,0.0
+1014,HLF,2.0,Health Care,Other Pharmaceuticals,7.0,92.0,7.0
+1015,HLIT,2.0,,,20.0,200.0,20.0
+1016,HLS,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+1017,HLX,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1018,HMN,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1019,HMSY,2.0,,,20.0,200.0,20.0
+1020,HNH,2.0,,,20.0,200.0,20.0
+1021,HNI,2.0,Consumer Durables,Office Equipment/Supplies/Services,2.0,84.0,2.0
+1022,HNR,2.0,,,20.0,200.0,20.0
+1023,HNRG,2.0,,,20.0,200.0,20.0
+1024,HOFT,2.0,,,20.0,200.0,20.0
+1025,HOG,2.0,Consumer Non-Durables,Motor Vehicles,3.0,79.0,3.0
+1026,HOLX,2.0,,,20.0,200.0,20.0
+1027,HOMB,2.0,,,20.0,200.0,20.0
+1028,HON,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1029,HOS,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+1030,HOV,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+1031,HP,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1032,HPP,2.0,Finance,Real Estate,6.0,108.0,6.0
+1033,HPQ,2.0,Technology,Computer Manufacturing,11.0,27.0,11.0
+1034,HPT,2.0,,,20.0,200.0,20.0
+1035,HR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1036,HRB,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+1037,HRC,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+1038,HRG,2.0,Miscellaneous,Industrial Machinery/Components,8.0,60.0,8.0
+1039,HRL,2.0,Consumer Non-Durables,Meat/Poultry/Fish,3.0,71.0,3.0
+1040,HRS,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1041,HRTX,2.0,,,20.0,200.0,20.0
+1042,HRZN,2.0,,,20.0,200.0,20.0
+1043,HSC,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+1044,HSIC,2.0,,,20.0,200.0,20.0
+1045,HSII,2.0,,,20.0,200.0,20.0
+1046,HSNI,2.0,,,20.0,200.0,20.0
+1047,HST,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1048,HSTM,2.0,,,20.0,200.0,20.0
+1049,HSY,2.0,Consumer Non-Durables,Specialty Foods,3.0,119.0,3.0
+1050,HT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1051,HTBK,2.0,,,20.0,200.0,20.0
+1052,HTGC,2.0,n/a,n/a,20.0,200.0,20.0
+1053,HTH,2.0,Finance,Major Banks,6.0,67.0,6.0
+1054,HTLD,2.0,,,20.0,200.0,20.0
+1055,HTLF,2.0,,,20.0,200.0,20.0
+1056,HTZ,2.0,Consumer Services,Rental/Leasing Companies,4.0,111.0,4.0
+1057,HUBG,2.0,,,20.0,200.0,20.0
+1058,HUM,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+1059,HUN,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1060,HURC,2.0,,,20.0,200.0,20.0
+1061,HURN,2.0,,,20.0,200.0,20.0
+1062,HVT,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+1063,HW,2.0,,,20.0,200.0,20.0
+1064,HWAY,2.0,,,20.0,200.0,20.0
+1065,HWCC,2.0,,,20.0,200.0,20.0
+1066,HWKN,2.0,,,20.0,200.0,20.0
+1067,HXL,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1068,HZNP,2.0,,,20.0,200.0,20.0
+1069,HZO,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+1070,IART,2.0,,,20.0,200.0,20.0
+1071,IBCP,2.0,,,20.0,200.0,20.0
+1072,IBKC,2.0,,,20.0,200.0,20.0
+1073,IBKR,2.0,,,20.0,200.0,20.0
+1074,IBM,2.0,Technology,Computer Manufacturing,11.0,27.0,11.0
+1075,IBOC,2.0,,,20.0,200.0,20.0
+1076,ICE,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1077,ICFI,2.0,,,20.0,200.0,20.0
+1078,ICON,2.0,,,20.0,200.0,20.0
+1079,ICUI,2.0,,,20.0,200.0,20.0
+1080,IDA,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1081,IDCC,2.0,,,20.0,200.0,20.0
+1082,IDRA,2.0,,,20.0,200.0,20.0
+1083,IDT,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+1084,IDTI,2.0,,,20.0,200.0,20.0
+1085,IDXX,2.0,,,20.0,200.0,20.0
+1086,IEX,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+1087,IFF,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1088,IGT,2.0,Consumer Services,Services-Misc. Amusement & Recreation,4.0,116.0,4.0
+1089,IHC,2.0,Finance,Life Insurance,6.0,66.0,6.0
+1090,III,2.0,,,20.0,200.0,20.0
+1091,IIIN,2.0,,,20.0,200.0,20.0
+1092,IIVI,2.0,,,20.0,200.0,20.0
+1093,IL,2.0,,,20.0,200.0,20.0
+1094,ILMN,2.0,,,20.0,200.0,20.0
+1095,IMGN,2.0,,,20.0,200.0,20.0
+1096,IMI,2.0,,,20.0,200.0,20.0
+1097,IMKTA,2.0,,,20.0,200.0,20.0
+1098,IMMR,2.0,,,20.0,200.0,20.0
+1099,IMMU,2.0,,,20.0,200.0,20.0
+1100,IMN,2.0,,,20.0,200.0,20.0
+1101,IMPV,2.0,,,20.0,200.0,20.0
+1102,INAP,2.0,,,20.0,200.0,20.0
+1103,INCY,2.0,,,20.0,200.0,20.0
+1104,INDB,2.0,,,20.0,200.0,20.0
+1105,INFI,2.0,,,20.0,200.0,20.0
+1106,INFN,2.0,,,20.0,200.0,20.0
+1107,INGR,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+1108,INN,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1109,INO,2.0,,,20.0,200.0,20.0
+1110,INSM,2.0,,,20.0,200.0,20.0
+1111,INSY,2.0,,,20.0,200.0,20.0
+1112,INT,2.0,Energy,Oil Refining/Marketing,5.0,86.0,5.0
+1113,INTC,2.0,,,20.0,200.0,20.0
+1114,INTL,2.0,,,20.0,200.0,20.0
+1115,INTU,2.0,,,20.0,200.0,20.0
+1116,INTX,2.0,,,20.0,200.0,20.0
+1117,INVN,2.0,,,20.0,200.0,20.0
+1118,INWK,2.0,,,20.0,200.0,20.0
+1119,IO,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1120,IOSP,2.0,,,20.0,200.0,20.0
+1121,IP,2.0,Basic Industries,Paper,0.0,97.0,0.0
+1122,IPAR,2.0,,,20.0,200.0,20.0
+1123,IPCC,2.0,,,20.0,200.0,20.0
+1124,IPG,2.0,Technology,Advertising,11.0,1.0,11.0
+1125,IPGP,2.0,,,20.0,200.0,20.0
+1126,IPHI,2.0,Technology,Semiconductors,11.0,115.0,11.0
+1127,IPHS,2.0,,,20.0,200.0,20.0
+1128,IPI,2.0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),0.0,77.0,0.0
+1129,IPXL,2.0,,,20.0,200.0,20.0
+1130,IQNT,2.0,,,20.0,200.0,20.0
+1131,IR,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1132,IRBT,2.0,,,20.0,200.0,20.0
+1133,IRDM,2.0,,,20.0,200.0,20.0
+1134,IRET,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1135,IRM,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1136,IRWD,2.0,,,20.0,200.0,20.0
+1137,ISBC,2.0,,,20.0,200.0,20.0
+1138,ISCA,2.0,,,20.0,200.0,20.0
+1139,ISIL,2.0,,,20.0,200.0,20.0
+1140,ISLE,2.0,,,20.0,200.0,20.0
+1141,ISRG,2.0,,,20.0,200.0,20.0
+1142,ISRL,2.0,,,20.0,200.0,20.0
+1143,ISSC,2.0,,,20.0,200.0,20.0
+1144,IT,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+1145,ITG,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1146,ITIC,2.0,,,20.0,200.0,20.0
+1147,ITRI,2.0,,,20.0,200.0,20.0
+1148,ITT,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+1149,ITW,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+1150,IVAC,2.0,,,20.0,200.0,20.0
+1151,IVC,2.0,Health Care,Industrial Specialties,7.0,61.0,7.0
+1152,IVR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1153,IVZ,2.0,Finance,Investment Managers,6.0,65.0,6.0
+1154,IXYS,2.0,,,20.0,200.0,20.0
+1155,JACK,2.0,,,20.0,200.0,20.0
+1156,JAKK,2.0,,,20.0,200.0,20.0
+1157,JBHT,2.0,,,20.0,200.0,20.0
+1158,JBL,2.0,Technology,Electrical Products,11.0,42.0,11.0
+1159,JBLU,2.0,,,20.0,200.0,20.0
+1160,JBSS,2.0,,,20.0,200.0,20.0
+1161,JBT,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+1162,JCI,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+1163,JCOM,2.0,,,20.0,200.0,20.0
+1164,JCP,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+1165,JEC,2.0,Basic Industries,Military/Government/Technical,0.0,76.0,0.0
+1166,JIVE,2.0,,,20.0,200.0,20.0
+1167,JJSF,2.0,,,20.0,200.0,20.0
+1168,JKHY,2.0,,,20.0,200.0,20.0
+1169,JLL,2.0,Finance,Real Estate,6.0,108.0,6.0
+1170,JMBA,2.0,,,20.0,200.0,20.0
+1171,JNJ,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+1172,JNPR,2.0,Technology,Computer Communications Equipment,11.0,26.0,11.0
+1173,JNS,2.0,,,20.0,200.0,20.0
+1174,JOE,2.0,Consumer Services,Homebuilding,4.0,57.0,4.0
+1175,JOUT,2.0,,,20.0,200.0,20.0
+1176,JOY,2.0,,,20.0,200.0,20.0
+1177,JPM,2.0,Finance,Major Banks,6.0,67.0,6.0
+1178,JWN,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+1179,JW_A,2.0,,,20.0,200.0,20.0
+1180,K,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+1181,KAI,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+1182,KALU,2.0,,,20.0,200.0,20.0
+1183,KAMN,2.0,Consumer Durables,Industrial Specialties,2.0,61.0,2.0
+1184,KAR,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+1185,KBH,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+1186,KBR,2.0,Basic Industries,Military/Government/Technical,0.0,76.0,0.0
+1187,KEG,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1188,KELYA,2.0,,,20.0,200.0,20.0
+1189,KEM,2.0,Capital Goods,Electrical Products,1.0,42.0,1.0
+1190,KERX,2.0,,,20.0,200.0,20.0
+1191,KEX,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+1192,KEY,2.0,Finance,Major Banks,6.0,67.0,6.0
+1193,KEYW,2.0,,,20.0,200.0,20.0
+1194,KFRC,2.0,,,20.0,200.0,20.0
+1195,KFY,2.0,Technology,Diversified Commercial Services,11.0,38.0,11.0
+1196,KIM,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1197,KIRK,2.0,,,20.0,200.0,20.0
+1198,KLAC,2.0,,,20.0,200.0,20.0
+1199,KMB,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+1200,KMG,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1201,KMI,2.0,Public Utilities,Natural Gas Distribution,9.0,82.0,9.0
+1202,KMPR,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1203,KMT,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1204,KMX,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+1205,KND,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+1206,KNL,2.0,Consumer Durables,Office Equipment/Supplies/Services,2.0,84.0,2.0
+1207,KNX,2.0,Transportation,Trucking Freight/Courier Services,12.0,128.0,12.0
+1208,KO,2.0,Consumer Non-Durables,Beverages (Production/Distribution),3.0,11.0,3.0
+1209,KOP,2.0,Basic Industries,Forest Products,0.0,54.0,0.0
+1210,KOPN,2.0,,,20.0,200.0,20.0
+1211,KORS,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+1212,KOS,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1213,KR,2.0,Consumer Services,Food Chains,4.0,52.0,4.0
+1214,KRA,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1215,KRC,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1216,KRG,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1217,KRNY,2.0,,,20.0,200.0,20.0
+1218,KRO,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1219,KS,2.0,Basic Industries,Paper,0.0,97.0,0.0
+1220,KSS,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+1221,KSU,2.0,Transportation,Railroads,12.0,107.0,12.0
+1222,KTOS,2.0,,,20.0,200.0,20.0
+1223,KVHI,2.0,,,20.0,200.0,20.0
+1224,KW,2.0,Finance,Real Estate,6.0,108.0,6.0
+1225,KWR,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1226,L,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1227,LABL,2.0,,,20.0,200.0,20.0
+1228,LAD,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+1229,LAMR,2.0,,,20.0,200.0,20.0
+1230,LANC,2.0,,,20.0,200.0,20.0
+1231,LAYN,2.0,,,20.0,200.0,20.0
+1232,LAZ,2.0,Finance,Investment Managers,6.0,65.0,6.0
+1233,LB,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+1234,LBAI,2.0,,,20.0,200.0,20.0
+1235,LBTYA,2.0,,,20.0,200.0,20.0
+1236,LBY,2.0,,,20.0,200.0,20.0
+1237,LCI,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+1238,LCNB,2.0,,,20.0,200.0,20.0
+1239,LCUT,2.0,,,20.0,200.0,20.0
+1240,LDL,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1241,LDOS,2.0,Technology,EDP Services,11.0,40.0,11.0
+1242,LDR,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1243,LEA,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1244,LECO,2.0,,,20.0,200.0,20.0
+1245,LEE,2.0,Consumer Services,Newspapers/Magazines,4.0,83.0,4.0
+1246,LEG,2.0,Consumer Durables,Home Furnishings,2.0,56.0,2.0
+1247,LEN,2.0,Basic Industries,Homebuilding,0.0,57.0,0.0
+1248,LFUS,2.0,,,20.0,200.0,20.0
+1249,LFVN,2.0,,,20.0,200.0,20.0
+1250,LGND,2.0,,,20.0,200.0,20.0
+1251,LH,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+1252,LHCG,2.0,,,20.0,200.0,20.0
+1253,LHO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1254,LII,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1255,LINC,2.0,,,20.0,200.0,20.0
+1256,LION,2.0,,,20.0,200.0,20.0
+1257,LIOX,2.0,,,20.0,200.0,20.0
+1258,LKFN,2.0,,,20.0,200.0,20.0
+1259,LKQ,2.0,,,20.0,200.0,20.0
+1260,LL,2.0,Consumer Services,RETAIL: Building Materials,4.0,105.0,4.0
+1261,LLL,2.0,Technology,Radio And Television Broadcasting And Communications Equipment,11.0,106.0,11.0
+1262,LLNW,2.0,,,20.0,200.0,20.0
+1263,LLTC,2.0,,,20.0,200.0,20.0
+1264,LLY,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+1265,LM,2.0,Finance,Investment Managers,6.0,65.0,6.0
+1266,LMIA,2.0,,,20.0,200.0,20.0
+1267,LMNR,2.0,,,20.0,200.0,20.0
+1268,LMNX,2.0,,,20.0,200.0,20.0
+1269,LMOS,2.0,,,20.0,200.0,20.0
+1270,LMT,2.0,Capital Goods,Military/Government/Technical,1.0,76.0,1.0
+1271,LNC,2.0,Finance,Life Insurance,6.0,66.0,6.0
+1272,LNCE,2.0,,,20.0,200.0,20.0
+1273,LNDC,2.0,,,20.0,200.0,20.0
+1274,LNG,2.0,,,20.0,200.0,20.0
+1275,LNN,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1276,LNT,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+1277,LOGM,2.0,,,20.0,200.0,20.0
+1278,LOPE,2.0,,,20.0,200.0,20.0
+1279,LORL,2.0,,,20.0,200.0,20.0
+1280,LOV,2.0,,,20.0,200.0,20.0
+1281,LOW,2.0,Consumer Services,RETAIL: Building Materials,4.0,105.0,4.0
+1282,LPI,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1283,LPLA,2.0,,,20.0,200.0,20.0
+1284,LPNT,2.0,,,20.0,200.0,20.0
+1285,LPSN,2.0,,,20.0,200.0,20.0
+1286,LPX,2.0,Basic Industries,Forest Products,0.0,54.0,0.0
+1287,LQDT,2.0,,,20.0,200.0,20.0
+1288,LRCX,2.0,,,20.0,200.0,20.0
+1289,LRN,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+1290,LSCC,2.0,,,20.0,200.0,20.0
+1291,LSI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1292,LSTR,2.0,,,20.0,200.0,20.0
+1293,LTC,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1294,LTS,2.0,,,20.0,200.0,20.0
+1295,LUB,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+1296,LUK,2.0,Consumer Non-Durables,Meat/Poultry/Fish,3.0,71.0,3.0
+1297,LUV,2.0,Transportation,Air Freight/Delivery Services,12.0,4.0,12.0
+1298,LVLT,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+1299,LVS,2.0,Consumer Services,Hotels/Resorts,4.0,59.0,4.0
+1300,LWAY,2.0,,,20.0,200.0,20.0
+1301,LXP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1302,LXRX,2.0,,,20.0,200.0,20.0
+1303,LXU,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1304,LYB,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1305,LYTS,2.0,,,20.0,200.0,20.0
+1306,LYV,2.0,Consumer Services,Services-Misc. Amusement & Recreation,4.0,116.0,4.0
+1307,LZB,2.0,Consumer Durables,Home Furnishings,2.0,56.0,2.0
+1308,M,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+1309,MA,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+1310,MAA,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1311,MAC,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1312,MAIN,2.0,n/a,n/a,20.0,200.0,20.0
+1313,MAN,2.0,Technology,Professional Services,11.0,102.0,11.0
+1314,MANH,2.0,,,20.0,200.0,20.0
+1315,MANT,2.0,,,20.0,200.0,20.0
+1316,MAR,2.0,,,20.0,200.0,20.0
+1317,MAS,2.0,Basic Industries,Forest Products,0.0,54.0,0.0
+1318,MASI,2.0,,,20.0,200.0,20.0
+1319,MAT,2.0,,,20.0,200.0,20.0
+1320,MATW,2.0,,,20.0,200.0,20.0
+1321,MATX,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+1322,MBFI,2.0,,,20.0,200.0,20.0
+1323,MBI,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1324,MBRG,2.0,,,20.0,200.0,20.0
+1325,MBVT,2.0,,,20.0,200.0,20.0
+1326,MBWM,2.0,,,20.0,200.0,20.0
+1327,MCBC,2.0,,,20.0,200.0,20.0
+1328,MCC,2.0,n/a,n/a,20.0,200.0,20.0
+1329,MCD,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+1330,MCF,2.0,,,20.0,200.0,20.0
+1331,MCHP,2.0,,,20.0,200.0,20.0
+1332,MCHX,2.0,,,20.0,200.0,20.0
+1333,MCK,2.0,Health Care,Other Pharmaceuticals,7.0,92.0,7.0
+1334,MCO,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+1335,MCRI,2.0,,,20.0,200.0,20.0
+1336,MCS,2.0,Consumer Services,Movies/Entertainment,4.0,80.0,4.0
+1337,MCY,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1338,MD,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+1339,MDC,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+1340,MDCA,2.0,,,20.0,200.0,20.0
+1341,MDCO,2.0,,,20.0,200.0,20.0
+1342,MDLZ,2.0,,,20.0,200.0,20.0
+1343,MDP,2.0,Consumer Services,Newspapers/Magazines,4.0,83.0,4.0
+1344,MDR,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+1345,MDRX,2.0,,,20.0,200.0,20.0
+1346,MDSO,2.0,,,20.0,200.0,20.0
+1347,MDT,2.0,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,7.0,13.0,7.0
+1348,MDU,2.0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),0.0,77.0,0.0
+1349,MDXG,2.0,,,20.0,200.0,20.0
+1350,MED,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+1351,MEG,2.0,,,20.0,200.0,20.0
+1352,MEI,2.0,Capital Goods,Electrical Products,1.0,42.0,1.0
+1353,MEIP,2.0,,,20.0,200.0,20.0
+1354,MENT,2.0,,,20.0,200.0,20.0
+1355,MET,2.0,Finance,Life Insurance,6.0,66.0,6.0
+1356,MFA,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1357,MG,2.0,Consumer Services,Military/Government/Technical,4.0,76.0,4.0
+1358,MGEE,2.0,,,20.0,200.0,20.0
+1359,MGI,2.0,,,20.0,200.0,20.0
+1360,MGLN,2.0,,,20.0,200.0,20.0
+1361,MGM,2.0,Consumer Services,Hotels/Resorts,4.0,59.0,4.0
+1362,MGRC,2.0,,,20.0,200.0,20.0
+1363,MHK,2.0,Consumer Durables,Home Furnishings,2.0,56.0,2.0
+1364,MHLD,2.0,,,20.0,200.0,20.0
+1365,MHO,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+1366,MIDD,2.0,,,20.0,200.0,20.0
+1367,MIND,2.0,,,20.0,200.0,20.0
+1368,MINI,2.0,,,20.0,200.0,20.0
+1369,MITK,2.0,,,20.0,200.0,20.0
+1370,MITT,2.0,n/a,n/a,20.0,200.0,20.0
+1371,MJN,2.0,,,20.0,200.0,20.0
+1372,MKC,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+1373,MKL,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1374,MKSI,2.0,,,20.0,200.0,20.0
+1375,MKTX,2.0,,,20.0,200.0,20.0
+1376,MLAB,2.0,,,20.0,200.0,20.0
+1377,MLHR,2.0,,,20.0,200.0,20.0
+1378,MLI,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+1379,MLM,2.0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),0.0,77.0,0.0
+1380,MLNK,2.0,,,20.0,200.0,20.0
+1381,MLR,2.0,Capital Goods,Construction/Ag Equipment/Trucks,1.0,31.0,1.0
+1382,MMC,2.0,Finance,Specialty Insurers,6.0,120.0,6.0
+1383,MMM,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+1384,MMS,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+1385,MMSI,2.0,,,20.0,200.0,20.0
+1386,MN,2.0,Finance,Investment Managers,6.0,65.0,6.0
+1387,MNI,2.0,Consumer Services,Newspapers/Magazines,4.0,83.0,4.0
+1388,MNKD,2.0,,,20.0,200.0,20.0
+1389,MNR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1390,MNRO,2.0,,,20.0,200.0,20.0
+1391,MNST,2.0,,,20.0,200.0,20.0
+1392,MNTA,2.0,,,20.0,200.0,20.0
+1393,MNTX,2.0,,,20.0,200.0,20.0
+1394,MO,2.0,Consumer Non-Durables,Farming/Seeds/Milling,3.0,47.0,3.0
+1395,MOD,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1396,MOFG,2.0,,,20.0,200.0,20.0
+1397,MOG_A,2.0,,,20.0,200.0,20.0
+1398,MOH,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+1399,MON,2.0,Basic Industries,Agricultural Chemicals,0.0,3.0,0.0
+1400,MORN,2.0,,,20.0,200.0,20.0
+1401,MOS,2.0,Basic Industries,Agricultural Chemicals,0.0,3.0,0.0
+1402,MOSY,2.0,,,20.0,200.0,20.0
+1403,MOV,2.0,Consumer Non-Durables,Consumer Specialties,3.0,34.0,3.0
+1404,MPAA,2.0,,,20.0,200.0,20.0
+1405,MPC,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+1406,MPW,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1407,MPWR,2.0,,,20.0,200.0,20.0
+1408,MPX,2.0,Capital Goods,Marine Transportation,1.0,70.0,1.0
+1409,MRCY,2.0,,,20.0,200.0,20.0
+1410,MRK,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+1411,MRLN,2.0,,,20.0,200.0,20.0
+1412,MRO,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1413,MRTN,2.0,,,20.0,200.0,20.0
+1414,MRVL,2.0,,,20.0,200.0,20.0
+1415,MS,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1416,MSA,2.0,Health Care,Industrial Specialties,7.0,61.0,7.0
+1417,MSCC,2.0,,,20.0,200.0,20.0
+1418,MSCI,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+1419,MSEX,2.0,,,20.0,200.0,20.0
+1420,MSFG,2.0,,,20.0,200.0,20.0
+1421,MSFT,2.0,,,20.0,200.0,20.0
+1422,MSG,2.0,Consumer Services,Services-Misc. Amusement & Recreation,4.0,116.0,4.0
+1423,MSI,2.0,Technology,Radio And Television Broadcasting And Communications Equipment,11.0,106.0,11.0
+1424,MSL,2.0,Finance,Major Banks,6.0,67.0,6.0
+1425,MSM,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1426,MSTR,2.0,,,20.0,200.0,20.0
+1427,MTB,2.0,Finance,Major Banks,6.0,67.0,6.0
+1428,MTD,2.0,Capital Goods,Biotechnology: Laboratory Analytical Instruments,1.0,15.0,1.0
+1429,MTG,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1430,MTGE,2.0,,,20.0,200.0,20.0
+1431,MTH,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+1432,MTN,2.0,Consumer Services,Services-Misc. Amusement & Recreation,4.0,116.0,4.0
+1433,MTOR,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1434,MTRN,2.0,Capital Goods,Industrial Specialties,1.0,61.0,1.0
+1435,MTRX,2.0,,,20.0,200.0,20.0
+1436,MTSC,2.0,,,20.0,200.0,20.0
+1437,MTW,2.0,Capital Goods,Construction/Ag Equipment/Trucks,1.0,31.0,1.0
+1438,MTX,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1439,MTZ,2.0,Basic Industries,Water Supply,0.0,129.0,0.0
+1440,MU,2.0,,,20.0,200.0,20.0
+1441,MUR,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1442,MVC,2.0,n/a,n/a,20.0,200.0,20.0
+1443,MWA,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+1444,MXIM,2.0,,,20.0,200.0,20.0
+1445,MXL,2.0,Technology,Semiconductors,11.0,115.0,11.0
+1446,MXWL,2.0,,,20.0,200.0,20.0
+1447,MYE,2.0,Consumer Non-Durables,Plastic Products,3.0,98.0,3.0
+1448,MYGN,2.0,,,20.0,200.0,20.0
+1449,MYL,2.0,,,20.0,200.0,20.0
+1450,MYRG,2.0,,,20.0,200.0,20.0
+1451,NANO,2.0,,,20.0,200.0,20.0
+1452,NAT,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+1453,NATH,2.0,,,20.0,200.0,20.0
+1454,NATI,2.0,,,20.0,200.0,20.0
+1455,NATR,2.0,,,20.0,200.0,20.0
+1456,NAV,2.0,Capital Goods,Auto Manufacturing,1.0,7.0,1.0
+1457,NAVB,2.0,,,20.0,200.0,20.0
+1458,NAVG,2.0,,,20.0,200.0,20.0
+1459,NBIX,2.0,,,20.0,200.0,20.0
+1460,NBL,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1461,NBR,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1462,NBTB,2.0,,,20.0,200.0,20.0
+1463,NC,2.0,Consumer Durables,Consumer Electronics/Appliances,2.0,32.0,2.0
+1464,NCI,2.0,Consumer Services,Professional Services,4.0,102.0,4.0
+1465,NCMI,2.0,,,20.0,200.0,20.0
+1466,NCR,2.0,Miscellaneous,Office Equipment/Supplies/Services,8.0,84.0,8.0
+1467,NCS,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+1468,NDAQ,2.0,,,20.0,200.0,20.0
+1469,NDSN,2.0,,,20.0,200.0,20.0
+1470,NE,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1471,NEE,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1472,NEM,2.0,Basic Industries,Precious Metals,0.0,101.0,0.0
+1473,NEO,2.0,,,20.0,200.0,20.0
+1474,NEOG,2.0,,,20.0,200.0,20.0
+1475,NEON,2.0,,,20.0,200.0,20.0
+1476,NETE,2.0,,,20.0,200.0,20.0
+1477,NEU,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1478,NEWS,2.0,,,20.0,200.0,20.0
+1479,NFBK,2.0,,,20.0,200.0,20.0
+1480,NFG,2.0,Public Utilities,Oil/Gas Transmission,9.0,87.0,9.0
+1481,NFLX,2.0,,,20.0,200.0,20.0
+1482,NFX,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1483,NGS,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1484,NHC,2.0,,,20.0,200.0,20.0
+1485,NHI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1486,NI,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+1487,NICK,2.0,,,20.0,200.0,20.0
+1488,NILE,2.0,,,20.0,200.0,20.0
+1489,NJR,2.0,Public Utilities,Oil/Gas Transmission,9.0,87.0,9.0
+1490,NKE,2.0,Consumer Non-Durables,Shoe Manufacturing,3.0,117.0,3.0
+1491,NKSH,2.0,,,20.0,200.0,20.0
+1492,NKTR,2.0,,,20.0,200.0,20.0
+1493,NL,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1494,NLNK,2.0,,,20.0,200.0,20.0
+1495,NLS,2.0,Consumer Non-Durables,Recreational Products/Toys,3.0,110.0,3.0
+1496,NLSN,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+1497,NLY,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1498,NM,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+1499,NMFC,2.0,n/a,n/a,20.0,200.0,20.0
+1500,NMRX,2.0,,,20.0,200.0,20.0
+1501,NNA,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+1502,NNBR,2.0,,,20.0,200.0,20.0
+1503,NNI,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+1504,NNVC,2.0,,,20.0,200.0,20.0
+1505,NOC,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1506,NOG,2.0,,,20.0,200.0,20.0
+1507,NOV,2.0,Energy,Metal Fabrications,5.0,75.0,5.0
+1508,NP,2.0,Basic Industries,Paper,0.0,97.0,0.0
+1509,NPK,2.0,Capital Goods,Ordnance And Accessories,1.0,90.0,1.0
+1510,NPO,2.0,Basic Industries,Metal Fabrications,0.0,75.0,0.0
+1511,NPTN,2.0,Technology,Semiconductors,11.0,115.0,11.0
+1512,NR,2.0,Energy,Metal Fabrications,5.0,75.0,5.0
+1513,NRG,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1514,NRIM,2.0,,,20.0,200.0,20.0
+1515,NSC,2.0,Transportation,Railroads,12.0,107.0,12.0
+1516,NSIT,2.0,,,20.0,200.0,20.0
+1517,NSP,2.0,Technology,Professional Services,11.0,102.0,11.0
+1518,NSR,2.0,Consumer Services,Telecommunications Equipment,4.0,122.0,4.0
+1519,NTAP,2.0,,,20.0,200.0,20.0
+1520,NTCT,2.0,,,20.0,200.0,20.0
+1521,NTGR,2.0,,,20.0,200.0,20.0
+1522,NTRI,2.0,,,20.0,200.0,20.0
+1523,NTRS,2.0,,,20.0,200.0,20.0
+1524,NUAN,2.0,,,20.0,200.0,20.0
+1525,NUE,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+1526,NUS,2.0,Health Care,Other Pharmaceuticals,7.0,92.0,7.0
+1527,NUTR,2.0,,,20.0,200.0,20.0
+1528,NUVA,2.0,,,20.0,200.0,20.0
+1529,NVAX,2.0,,,20.0,200.0,20.0
+1530,NVDA,2.0,,,20.0,200.0,20.0
+1531,NVEC,2.0,,,20.0,200.0,20.0
+1532,NVR,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+1533,NWBI,2.0,,,20.0,200.0,20.0
+1534,NWE,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+1535,NWL,2.0,Consumer Non-Durables,Plastic Products,3.0,98.0,3.0
+1536,NWLI,2.0,,,20.0,200.0,20.0
+1537,NWN,2.0,Public Utilities,Oil/Gas Transmission,9.0,87.0,9.0
+1538,NWPX,2.0,,,20.0,200.0,20.0
+1539,NWY,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+1540,NX,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+1541,NXST,2.0,,,20.0,200.0,20.0
+1542,NXTM,2.0,,,20.0,200.0,20.0
+1543,NYCB,2.0,Finance,Banks,6.0,10.0,6.0
+1544,NYMT,2.0,,,20.0,200.0,20.0
+1545,NYNY,2.0,,,20.0,200.0,20.0
+1546,NYT,2.0,Consumer Services,Newspapers/Magazines,4.0,83.0,4.0
+1547,O,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1548,OAS,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1549,OB,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1550,OC,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1551,OCFC,2.0,,,20.0,200.0,20.0
+1552,OCLR,2.0,,,20.0,200.0,20.0
+1553,OCN,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+1554,ODC,2.0,Consumer Durables,Miscellaneous manufacturing industries,2.0,78.0,2.0
+1555,ODFL,2.0,,,20.0,200.0,20.0
+1556,ODP,2.0,,,20.0,200.0,20.0
+1557,OFC,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1558,OFG,2.0,Finance,Major Banks,6.0,67.0,6.0
+1559,OFIX,2.0,,,20.0,200.0,20.0
+1560,OFLX,2.0,,,20.0,200.0,20.0
+1561,OGE,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1562,OGXI,2.0,,,20.0,200.0,20.0
+1563,OHI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1564,OHRP,2.0,,,20.0,200.0,20.0
+1565,OI,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+1566,OII,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1567,OIS,2.0,Energy,Metal Fabrications,5.0,75.0,5.0
+1568,OKE,2.0,Public Utilities,Oil & Gas Production,9.0,85.0,9.0
+1569,OKSB,2.0,,,20.0,200.0,20.0
+1570,OLBK,2.0,,,20.0,200.0,20.0
+1571,OLED,2.0,,,20.0,200.0,20.0
+1572,OLN,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1573,OLP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1574,OMC,2.0,Technology,Advertising,11.0,1.0,11.0
+1575,OMCL,2.0,,,20.0,200.0,20.0
+1576,OME,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+1577,OMER,2.0,,,20.0,200.0,20.0
+1578,OMEX,2.0,,,20.0,200.0,20.0
+1579,OMI,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+1580,OMN,2.0,Basic Industries,Specialty Chemicals,0.0,118.0,0.0
+1581,ONB,2.0,,,20.0,200.0,20.0
+1582,OPK,2.0,,,20.0,200.0,20.0
+1583,OPY,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1584,ORA,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1585,ORBC,2.0,,,20.0,200.0,20.0
+1586,ORCL,2.0,Technology,Computer Software: Prepackaged Software,11.0,28.0,11.0
+1587,OREX,2.0,,,20.0,200.0,20.0
+1588,ORI,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1589,ORIT,2.0,,,20.0,200.0,20.0
+1590,ORLY,2.0,,,20.0,200.0,20.0
+1591,ORN,2.0,Basic Industries,Military/Government/Technical,0.0,76.0,0.0
+1592,OSIR,2.0,,,20.0,200.0,20.0
+1593,OSIS,2.0,,,20.0,200.0,20.0
+1594,OSK,2.0,Capital Goods,Auto Manufacturing,1.0,7.0,1.0
+1595,OSTK,2.0,,,20.0,200.0,20.0
+1596,OSUR,2.0,,,20.0,200.0,20.0
+1597,OTTR,2.0,,,20.0,200.0,20.0
+1598,OXM,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+1599,OXY,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1600,OZRK,2.0,,,20.0,200.0,20.0
+1601,P,2.0,Consumer Services,Broadcasting,4.0,17.0,4.0
+1602,PACB,2.0,,,20.0,200.0,20.0
+1603,PACW,2.0,,,20.0,200.0,20.0
+1604,PAG,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+1605,PATK,2.0,,,20.0,200.0,20.0
+1606,PAY,2.0,Miscellaneous,Office Equipment/Supplies/Services,8.0,84.0,8.0
+1607,PAYX,2.0,,,20.0,200.0,20.0
+1608,PB,2.0,Finance,Major Banks,6.0,67.0,6.0
+1609,PBCT,2.0,,,20.0,200.0,20.0
+1610,PBH,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+1611,PBI,2.0,Miscellaneous,Office Equipment/Supplies/Services,8.0,84.0,8.0
+1612,PCAR,2.0,,,20.0,200.0,20.0
+1613,PCBK,2.0,,,20.0,200.0,20.0
+1614,PCG,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+1615,PCH,2.0,,,20.0,200.0,20.0
+1616,PCLN,2.0,,,20.0,200.0,20.0
+1617,PCO,2.0,,,20.0,200.0,20.0
+1618,PCRX,2.0,,,20.0,200.0,20.0
+1619,PCTI,2.0,,,20.0,200.0,20.0
+1620,PCYG,2.0,,,20.0,200.0,20.0
+1621,PCYO,2.0,,,20.0,200.0,20.0
+1622,PDCE,2.0,,,20.0,200.0,20.0
+1623,PDCO,2.0,,,20.0,200.0,20.0
+1624,PDFS,2.0,,,20.0,200.0,20.0
+1625,PDLI,2.0,,,20.0,200.0,20.0
+1626,PDM,2.0,Consumer Services,Building operators,4.0,20.0,4.0
+1627,PEB,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1628,PEBO,2.0,,,20.0,200.0,20.0
+1629,PEG,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+1630,PEGA,2.0,,,20.0,200.0,20.0
+1631,PEI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1632,PEIX,2.0,,,20.0,200.0,20.0
+1633,PENN,2.0,,,20.0,200.0,20.0
+1634,PEP,2.0,Consumer Non-Durables,Beverages (Production/Distribution),3.0,11.0,3.0
+1635,PERI,2.0,,,20.0,200.0,20.0
+1636,PERY,2.0,,,20.0,200.0,20.0
+1637,PES,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1638,PETS,2.0,,,20.0,200.0,20.0
+1639,PFBC,2.0,,,20.0,200.0,20.0
+1640,PFE,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+1641,PFG,2.0,Finance,Accident &Health Insurance,6.0,0.0,6.0
+1642,PFIE,2.0,,,20.0,200.0,20.0
+1643,PFIS,2.0,,,20.0,200.0,20.0
+1644,PFLT,2.0,,,20.0,200.0,20.0
+1645,PFS,2.0,Finance,Savings Institutions,6.0,114.0,6.0
+1646,PG,2.0,Basic Industries,Package Goods/Cosmetics,0.0,94.0,0.0
+1647,PGC,2.0,,,20.0,200.0,20.0
+1648,PGNX,2.0,,,20.0,200.0,20.0
+1649,PGR,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1650,PGTI,2.0,Capital Goods,Building Products,1.0,19.0,1.0
+1651,PH,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+1652,PHH,2.0,Finance,Diversified Financial Services,6.0,39.0,6.0
+1653,PHIIK,2.0,,,20.0,200.0,20.0
+1654,PHM,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+1655,PHMD,2.0,,,20.0,200.0,20.0
+1656,PHX,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1657,PICO,2.0,,,20.0,200.0,20.0
+1658,PII,2.0,Capital Goods,Industrial Specialties,1.0,61.0,1.0
+1659,PIR,2.0,Consumer Services,Home Furnishings,4.0,56.0,4.0
+1660,PJC,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1661,PKD,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1662,PKE,2.0,Technology,Electrical Products,11.0,42.0,11.0
+1663,PKG,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+1664,PKI,2.0,Capital Goods,Biotechnology: Laboratory Analytical Instruments,1.0,15.0,1.0
+1665,PKOH,2.0,,,20.0,200.0,20.0
+1666,PKY,2.0,n/a,n/a,20.0,200.0,20.0
+1667,PLAB,2.0,,,20.0,200.0,20.0
+1668,PLCE,2.0,,,20.0,200.0,20.0
+1669,PLD,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1670,PLKI,2.0,,,20.0,200.0,20.0
+1671,PLOW,2.0,Capital Goods,Construction/Ag Equipment/Trucks,1.0,31.0,1.0
+1672,PLPC,2.0,,,20.0,200.0,20.0
+1673,PLPM,2.0,,,20.0,200.0,20.0
+1674,PLT,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+1675,PLUG,2.0,,,20.0,200.0,20.0
+1676,PLUS,2.0,,,20.0,200.0,20.0
+1677,PLXS,2.0,,,20.0,200.0,20.0
+1678,PM,2.0,Consumer Non-Durables,Farming/Seeds/Milling,3.0,47.0,3.0
+1679,PMC,2.0,Health Care,Medical/Nursing Services,7.0,74.0,7.0
+1680,PMT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1681,PNC,2.0,Finance,Major Banks,6.0,67.0,6.0
+1682,PNFP,2.0,,,20.0,200.0,20.0
+1683,PNK,2.0,,,20.0,200.0,20.0
+1684,PNM,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1685,PNNT,2.0,,,20.0,200.0,20.0
+1686,PNR,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+1687,PNRA,2.0,,,20.0,200.0,20.0
+1688,PNW,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1689,PODD,2.0,,,20.0,200.0,20.0
+1690,POL,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1691,POOL,2.0,,,20.0,200.0,20.0
+1692,POR,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1693,POWI,2.0,,,20.0,200.0,20.0
+1694,POWL,2.0,,,20.0,200.0,20.0
+1695,PPBI,2.0,,,20.0,200.0,20.0
+1696,PPC,2.0,,,20.0,200.0,20.0
+1697,PPHM,2.0,,,20.0,200.0,20.0
+1698,PPL,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1699,PQ,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1700,PRA,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1701,PRAA,2.0,,,20.0,200.0,20.0
+1702,PRFT,2.0,,,20.0,200.0,20.0
+1703,PRGO,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+1704,PRGS,2.0,,,20.0,200.0,20.0
+1705,PRGX,2.0,,,20.0,200.0,20.0
+1706,PRI,2.0,Finance,Life Insurance,6.0,66.0,6.0
+1707,PRIM,2.0,,,20.0,200.0,20.0
+1708,PRK,2.0,,,20.0,200.0,20.0
+1709,PRKR,2.0,,,20.0,200.0,20.0
+1710,PRO,2.0,Technology,EDP Services,11.0,40.0,11.0
+1711,PROV,2.0,,,20.0,200.0,20.0
+1712,PRSC,2.0,,,20.0,200.0,20.0
+1713,PRU,2.0,Finance,Life Insurance,6.0,66.0,6.0
+1714,PRXL,2.0,,,20.0,200.0,20.0
+1715,PSA,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1716,PSB,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1717,PSEC,2.0,,,20.0,200.0,20.0
+1718,PSMT,2.0,,,20.0,200.0,20.0
+1719,PSTB,2.0,,,20.0,200.0,20.0
+1720,PTEN,2.0,,,20.0,200.0,20.0
+1721,PTIE,2.0,,,20.0,200.0,20.0
+1722,PTSI,2.0,,,20.0,200.0,20.0
+1723,PTX,2.0,,,20.0,200.0,20.0
+1724,PVH,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+1725,PVTB,2.0,,,20.0,200.0,20.0
+1726,PWOD,2.0,,,20.0,200.0,20.0
+1727,PWR,2.0,Capital Goods,Engineering & Construction,1.0,45.0,1.0
+1728,PX,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1729,PXD,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1730,PZG,2.0,,,20.0,200.0,20.0
+1731,PZN,2.0,Finance,Investment Managers,6.0,65.0,6.0
+1732,PZZA,2.0,,,20.0,200.0,20.0
+1733,QADA,2.0,,,20.0,200.0,20.0
+1734,QCOM,2.0,,,20.0,200.0,20.0
+1735,QDEL,2.0,,,20.0,200.0,20.0
+1736,QEP,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1737,QGEN,2.0,,,20.0,200.0,20.0
+1738,QNST,2.0,,,20.0,200.0,20.0
+1739,QRHC,2.0,,,20.0,200.0,20.0
+1740,QSII,2.0,,,20.0,200.0,20.0
+1741,QTM,2.0,Technology,Electronic Components,11.0,43.0,11.0
+1742,QUAD,2.0,Miscellaneous,Publishing,8.0,104.0,8.0
+1743,QUIK,2.0,,,20.0,200.0,20.0
+1744,R,2.0,Consumer Services,Rental/Leasing Companies,4.0,111.0,4.0
+1745,RAD,2.0,Health Care,Medical/Nursing Services,7.0,74.0,7.0
+1746,RAI,2.0,Consumer Non-Durables,Farming/Seeds/Milling,3.0,47.0,3.0
+1747,RAIL,2.0,,,20.0,200.0,20.0
+1748,RAS,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1749,RATE,2.0,Technology,EDP Services,11.0,40.0,11.0
+1750,RAVN,2.0,,,20.0,200.0,20.0
+1751,RBC,2.0,Consumer Durables,Metal Fabrications,2.0,75.0,2.0
+1752,RBCAA,2.0,,,20.0,200.0,20.0
+1753,RBCN,2.0,,,20.0,200.0,20.0
+1754,RCII,2.0,,,20.0,200.0,20.0
+1755,RCL,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+1756,RDC,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1757,RDI,2.0,,,20.0,200.0,20.0
+1758,RDN,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1759,RDNT,2.0,,,20.0,200.0,20.0
+1760,RE,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1761,RECN,2.0,,,20.0,200.0,20.0
+1762,REG,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1763,REGN,2.0,,,20.0,200.0,20.0
+1764,REI,2.0,,,20.0,200.0,20.0
+1765,REIS,2.0,,,20.0,200.0,20.0
+1766,RELL,2.0,,,20.0,200.0,20.0
+1767,REN,2.0,,,20.0,200.0,20.0
+1768,RES,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1769,REV,2.0,Consumer Non-Durables,Package Goods/Cosmetics,3.0,94.0,3.0
+1770,REX,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1771,REXX,2.0,,,20.0,200.0,20.0
+1772,RF,2.0,Finance,Major Banks,6.0,67.0,6.0
+1773,RFP,2.0,Basic Industries,Paper,0.0,97.0,0.0
+1774,RGA,2.0,Finance,Life Insurance,6.0,66.0,6.0
+1775,RGC,2.0,Consumer Services,Movies/Entertainment,4.0,80.0,4.0
+1776,RGEN,2.0,,,20.0,200.0,20.0
+1777,RGLD,2.0,,,20.0,200.0,20.0
+1778,RGR,2.0,Capital Goods,Ordnance And Accessories,1.0,90.0,1.0
+1779,RGS,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+1780,RHI,2.0,Technology,Professional Services,11.0,102.0,11.0
+1781,RHP,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1782,RHT,2.0,Technology,"Computer Software: Programming, Data Processing",11.0,29.0,11.0
+1783,RIG,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1784,RIGL,2.0,,,20.0,200.0,20.0
+1785,RJF,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1786,RL,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+1787,RLI,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1788,RLJ,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1789,RMBS,2.0,,,20.0,200.0,20.0
+1790,RMD,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+1791,RMTI,2.0,,,20.0,200.0,20.0
+1792,RNET,2.0,,,20.0,200.0,20.0
+1793,RNR,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+1794,RNST,2.0,,,20.0,200.0,20.0
+1795,RNWK,2.0,,,20.0,200.0,20.0
+1796,ROCK,2.0,,,20.0,200.0,20.0
+1797,ROG,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1798,ROIAK,2.0,,,20.0,200.0,20.0
+1799,ROIC,2.0,,,20.0,200.0,20.0
+1800,ROK,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1801,ROL,2.0,Finance,Diversified Commercial Services,6.0,38.0,6.0
+1802,ROLL,2.0,,,20.0,200.0,20.0
+1803,ROP,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1804,ROST,2.0,,,20.0,200.0,20.0
+1805,RP,2.0,,,20.0,200.0,20.0
+1806,RPM,2.0,Basic Industries,Paints/Coatings,0.0,96.0,0.0
+1807,RPRX,2.0,,,20.0,200.0,20.0
+1808,RPT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1809,RPXC,2.0,,,20.0,200.0,20.0
+1810,RRC,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1811,RRD,2.0,Miscellaneous,Publishing,8.0,104.0,8.0
+1812,RRGB,2.0,,,20.0,200.0,20.0
+1813,RRTS,2.0,Transportation,Oil Refining/Marketing,12.0,86.0,12.0
+1814,RS,2.0,Basic Industries,Metal Fabrications,0.0,75.0,0.0
+1815,RSG,2.0,Public Utilities,Environmental Services,9.0,46.0,9.0
+1816,RSO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1817,RST,2.0,Technology,Computer Software: Prepackaged Software,11.0,28.0,11.0
+1818,RSYS,2.0,,,20.0,200.0,20.0
+1819,RT,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+1820,RTEC,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1821,RTIX,2.0,,,20.0,200.0,20.0
+1822,RTK,2.0,,,20.0,200.0,20.0
+1823,RTN,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1824,RUSHA,2.0,,,20.0,200.0,20.0
+1825,RUTH,2.0,,,20.0,200.0,20.0
+1826,RVLT,2.0,,,20.0,200.0,20.0
+1827,RWT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1828,RYN,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1829,S,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+1830,SAFM,2.0,,,20.0,200.0,20.0
+1831,SAFT,2.0,,,20.0,200.0,20.0
+1832,SAH,2.0,Consumer Durables,Automotive Aftermarket,2.0,9.0,2.0
+1833,SAIA,2.0,,,20.0,200.0,20.0
+1834,SALM,2.0,,,20.0,200.0,20.0
+1835,SAM,2.0,Consumer Non-Durables,Beverages (Production/Distribution),3.0,11.0,3.0
+1836,SANM,2.0,,,20.0,200.0,20.0
+1837,SASR,2.0,,,20.0,200.0,20.0
+1838,SATS,2.0,,,20.0,200.0,20.0
+1839,SAVE,2.0,,,20.0,200.0,20.0
+1840,SB,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+1841,SBAC,2.0,,,20.0,200.0,20.0
+1842,SBCF,2.0,,,20.0,200.0,20.0
+1843,SBGI,2.0,,,20.0,200.0,20.0
+1844,SBH,2.0,Consumer Services,Other Specialty Stores,4.0,93.0,4.0
+1845,SBNY,2.0,,,20.0,200.0,20.0
+1846,SBRA,2.0,,,20.0,200.0,20.0
+1847,SBSI,2.0,,,20.0,200.0,20.0
+1848,SBUX,2.0,,,20.0,200.0,20.0
+1849,SCCO,2.0,Basic Industries,Precious Metals,0.0,101.0,0.0
+1850,SCG,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+1851,SCHL,2.0,,,20.0,200.0,20.0
+1852,SCHN,2.0,,,20.0,200.0,20.0
+1853,SCHW,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1854,SCI,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+1855,SCL,2.0,Basic Industries,Package Goods/Cosmetics,0.0,94.0,0.0
+1856,SCLN,2.0,,,20.0,200.0,20.0
+1857,SCMP,2.0,,,20.0,200.0,20.0
+1858,SCOR,2.0,,,20.0,200.0,20.0
+1859,SCS,2.0,Consumer Durables,Office Equipment/Supplies/Services,2.0,84.0,2.0
+1860,SCSC,2.0,,,20.0,200.0,20.0
+1861,SCSS,2.0,,,20.0,200.0,20.0
+1862,SCVL,2.0,,,20.0,200.0,20.0
+1863,SDRL,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1864,SE,2.0,,,20.0,200.0,20.0
+1865,SEAC,2.0,,,20.0,200.0,20.0
+1866,SEB,2.0,,,20.0,200.0,20.0
+1867,SEE,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1868,SEIC,2.0,,,20.0,200.0,20.0
+1869,SEM,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+1870,SEMG,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1871,SENEA,2.0,,,20.0,200.0,20.0
+1872,SF,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+1873,SFE,2.0,Finance,Finance/Investors Services,6.0,49.0,6.0
+1874,SFL,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+1875,SFLY,2.0,,,20.0,200.0,20.0
+1876,SFNC,2.0,,,20.0,200.0,20.0
+1877,SGA,2.0,,,20.0,200.0,20.0
+1878,SGBK,2.0,,,20.0,200.0,20.0
+1879,SGEN,2.0,,,20.0,200.0,20.0
+1880,SGMO,2.0,,,20.0,200.0,20.0
+1881,SGMS,2.0,,,20.0,200.0,20.0
+1882,SGY,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1883,SGYP,2.0,,,20.0,200.0,20.0
+1884,SHEN,2.0,,,20.0,200.0,20.0
+1885,SHLD,2.0,,,20.0,200.0,20.0
+1886,SHLM,2.0,,,20.0,200.0,20.0
+1887,SHLO,2.0,,,20.0,200.0,20.0
+1888,SHO,2.0,Consumer Services,Hotels/Resorts,4.0,59.0,4.0
+1889,SHOO,2.0,,,20.0,200.0,20.0
+1890,SHOR,2.0,,,20.0,200.0,20.0
+1891,SHW,2.0,Consumer Services,RETAIL: Building Materials,4.0,105.0,4.0
+1892,SIF,2.0,,,20.0,200.0,20.0
+1893,SIG,2.0,Consumer Services,Consumer Specialties,4.0,34.0,4.0
+1894,SIGI,2.0,,,20.0,200.0,20.0
+1895,SIGM,2.0,,,20.0,200.0,20.0
+1896,SIRI,2.0,,,20.0,200.0,20.0
+1897,SIVB,2.0,,,20.0,200.0,20.0
+1898,SIX,2.0,Consumer Services,Services-Misc. Amusement & Recreation,4.0,116.0,4.0
+1899,SJI,2.0,Public Utilities,Oil/Gas Transmission,9.0,87.0,9.0
+1900,SJM,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+1901,SJW,2.0,Public Utilities,Water Supply,9.0,129.0,9.0
+1902,SKT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1903,SKX,2.0,Consumer Non-Durables,Shoe Manufacturing,3.0,117.0,3.0
+1904,SKYW,2.0,,,20.0,200.0,20.0
+1905,SLAB,2.0,,,20.0,200.0,20.0
+1906,SLB,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1907,SLG,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1908,SLGN,2.0,,,20.0,200.0,20.0
+1909,SLM,2.0,,,20.0,200.0,20.0
+1910,SLRC,2.0,,,20.0,200.0,20.0
+1911,SM,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1912,SMCI,2.0,,,20.0,200.0,20.0
+1913,SMG,2.0,Basic Industries,Agricultural Chemicals,0.0,3.0,0.0
+1914,SMP,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1915,SMRT,2.0,,,20.0,200.0,20.0
+1916,SMTC,2.0,,,20.0,200.0,20.0
+1917,SN,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1918,SNA,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1919,SNAK,2.0,,,20.0,200.0,20.0
+1920,SNBC,2.0,,,20.0,200.0,20.0
+1921,SNCR,2.0,,,20.0,200.0,20.0
+1922,SNH,2.0,,,20.0,200.0,20.0
+1923,SNHY,2.0,,,20.0,200.0,20.0
+1924,SNI,2.0,,,20.0,200.0,20.0
+1925,SNMX,2.0,,,20.0,200.0,20.0
+1926,SNPS,2.0,,,20.0,200.0,20.0
+1927,SNSS,2.0,,,20.0,200.0,20.0
+1928,SNV,2.0,Finance,Major Banks,6.0,67.0,6.0
+1929,SNX,2.0,Technology,Retail: Computer Software & Peripheral Equipment,11.0,113.0,11.0
+1930,SO,2.0,Public Utilities,Electric Utilities: Central,9.0,41.0,9.0
+1931,SON,2.0,Consumer Durables,Containers/Packaging,2.0,36.0,2.0
+1932,SONC,2.0,,,20.0,200.0,20.0
+1933,SONS,2.0,,,20.0,200.0,20.0
+1934,SP,2.0,,,20.0,200.0,20.0
+1935,SPA,2.0,Technology,Electrical Products,11.0,42.0,11.0
+1936,SPAR,2.0,,,20.0,200.0,20.0
+1937,SPB,2.0,,,20.0,200.0,20.0
+1938,SPG,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1939,SPLS,2.0,,,20.0,200.0,20.0
+1940,SPN,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+1941,SPNC,2.0,,,20.0,200.0,20.0
+1942,SPNS,2.0,,,20.0,200.0,20.0
+1943,SPPI,2.0,,,20.0,200.0,20.0
+1944,SPR,2.0,Capital Goods,Military/Government/Technical,1.0,76.0,1.0
+1945,SPRT,2.0,,,20.0,200.0,20.0
+1946,SPSC,2.0,,,20.0,200.0,20.0
+1947,SPTN,2.0,,,20.0,200.0,20.0
+1948,SPWR,2.0,,,20.0,200.0,20.0
+1949,SQBG,2.0,,,20.0,200.0,20.0
+1950,SRCE,2.0,,,20.0,200.0,20.0
+1951,SRCL,2.0,,,20.0,200.0,20.0
+1952,SRDX,2.0,,,20.0,200.0,20.0
+1953,SRE,2.0,Public Utilities,Natural Gas Distribution,9.0,82.0,9.0
+1954,SREV,2.0,,,20.0,200.0,20.0
+1955,SRI,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1956,SRPT,2.0,,,20.0,200.0,20.0
+1957,SSD,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1958,SSI,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+1959,SSNC,2.0,,,20.0,200.0,20.0
+1960,SSP,2.0,Consumer Services,Broadcasting,4.0,17.0,4.0
+1961,SSYS,2.0,,,20.0,200.0,20.0
+1962,STAA,2.0,,,20.0,200.0,20.0
+1963,STAG,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1964,STAR,2.0,,,20.0,200.0,20.0
+1965,STBA,2.0,,,20.0,200.0,20.0
+1966,STBZ,2.0,,,20.0,200.0,20.0
+1967,STC,2.0,Finance,Specialty Insurers,6.0,120.0,6.0
+1968,STE,2.0,Health Care,Industrial Specialties,7.0,61.0,7.0
+1969,STFC,2.0,,,20.0,200.0,20.0
+1970,STI,2.0,Finance,Major Banks,6.0,67.0,6.0
+1971,STJ,2.0,,,20.0,200.0,20.0
+1972,STL,2.0,Finance,Major Banks,6.0,67.0,6.0
+1973,STLD,2.0,,,20.0,200.0,20.0
+1974,STMP,2.0,,,20.0,200.0,20.0
+1975,STNG,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+1976,STRA,2.0,,,20.0,200.0,20.0
+1977,STRL,2.0,,,20.0,200.0,20.0
+1978,STRT,2.0,,,20.0,200.0,20.0
+1979,STT,2.0,Finance,Major Banks,6.0,67.0,6.0
+1980,STWD,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1981,STX,2.0,,,20.0,200.0,20.0
+1982,STZ,2.0,Consumer Non-Durables,Beverages (Production/Distribution),3.0,11.0,3.0
+1983,SUI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+1984,SUNS,2.0,,,20.0,200.0,20.0
+1985,SUP,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+1986,SVU,2.0,Consumer Non-Durables,Food Distributors,3.0,53.0,3.0
+1987,SVVC,2.0,,,20.0,200.0,20.0
+1988,SWC,2.0,,,20.0,200.0,20.0
+1989,SWFT,2.0,Transportation,Trucking Freight/Courier Services,12.0,128.0,12.0
+1990,SWK,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+1991,SWKS,2.0,,,20.0,200.0,20.0
+1992,SWM,2.0,Basic Industries,Paper,0.0,97.0,0.0
+1993,SWN,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+1994,SWX,2.0,Public Utilities,Oil & Gas Production,9.0,85.0,9.0
+1995,SXC,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+1996,SXI,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+1997,SXT,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+1998,SYBT,2.0,,,20.0,200.0,20.0
+1999,SYK,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+2000,SYKE,2.0,,,20.0,200.0,20.0
+2001,SYMC,2.0,,,20.0,200.0,20.0
+2002,SYNA,2.0,,,20.0,200.0,20.0
+2003,SYNT,2.0,,,20.0,200.0,20.0
+2004,SYRG,2.0,,,20.0,200.0,20.0
+2005,SYUT,2.0,,,20.0,200.0,20.0
+2006,SYX,2.0,Consumer Services,Catalog/Specialty Distribution,4.0,22.0,4.0
+2007,SYY,2.0,Consumer Non-Durables,Food Distributors,3.0,53.0,3.0
+2008,T,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+2009,TAHO,2.0,Basic Industries,Precious Metals,0.0,101.0,0.0
+2010,TAL,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+2011,TAP,2.0,Consumer Non-Durables,Beverages (Production/Distribution),3.0,11.0,3.0
+2012,TASR,2.0,,,20.0,200.0,20.0
+2013,TAST,2.0,,,20.0,200.0,20.0
+2014,TAT,2.0,,,20.0,200.0,20.0
+2015,TBBK,2.0,,,20.0,200.0,20.0
+2016,TBI,2.0,Technology,Professional Services,11.0,102.0,11.0
+2017,TBNK,2.0,,,20.0,200.0,20.0
+2018,TCAP,2.0,n/a,n/a,20.0,200.0,20.0
+2019,TCB,2.0,,,20.0,200.0,20.0
+2020,TCBI,2.0,,,20.0,200.0,20.0
+2021,TCBK,2.0,,,20.0,200.0,20.0
+2022,TCO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2023,TCRD,2.0,,,20.0,200.0,20.0
+2024,TDC,2.0,Technology,Computer Manufacturing,11.0,27.0,11.0
+2025,TDG,2.0,Capital Goods,Military/Government/Technical,1.0,76.0,1.0
+2026,TDS,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+2027,TDW,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+2028,TDY,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+2029,TEAR,2.0,,,20.0,200.0,20.0
+2030,TECD,2.0,,,20.0,200.0,20.0
+2031,TECH,2.0,,,20.0,200.0,20.0
+2032,TEL,2.0,Consumer Non-Durables,Electronic Components,3.0,43.0,3.0
+2033,TEN,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+2034,TER,2.0,Capital Goods,Electrical Products,1.0,42.0,1.0
+2035,TESO,2.0,,,20.0,200.0,20.0
+2036,TESS,2.0,,,20.0,200.0,20.0
+2037,TEX,2.0,Capital Goods,Construction/Ag Equipment/Trucks,1.0,31.0,1.0
+2038,TFSL,2.0,,,20.0,200.0,20.0
+2039,TFX,2.0,Health Care,Medical/Dental Instruments,7.0,73.0,7.0
+2040,TG,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+2041,TGH,2.0,Technology,Diversified Commercial Services,11.0,38.0,11.0
+2042,TGI,2.0,Capital Goods,Aerospace,1.0,2.0,1.0
+2043,TGNA,2.0,Consumer Services,Broadcasting,4.0,17.0,4.0
+2044,TGT,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+2045,TGTX,2.0,,,20.0,200.0,20.0
+2046,THC,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+2047,THFF,2.0,,,20.0,200.0,20.0
+2048,THG,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+2049,THLD,2.0,,,20.0,200.0,20.0
+2050,THO,2.0,Consumer Non-Durables,Homebuilding,3.0,57.0,3.0
+2051,THR,2.0,Energy,Industrial Machinery/Components,5.0,60.0,5.0
+2052,THRM,2.0,,,20.0,200.0,20.0
+2053,THS,2.0,Consumer Non-Durables,Packaged Foods,3.0,95.0,3.0
+2054,TICC,2.0,,,20.0,200.0,20.0
+2055,TIF,2.0,Consumer Services,Consumer Specialties,4.0,34.0,4.0
+2056,TILE,2.0,,,20.0,200.0,20.0
+2057,TIPT,2.0,,,20.0,200.0,20.0
+2058,TIS,2.0,,,20.0,200.0,20.0
+2059,TISI,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+2060,TITN,2.0,,,20.0,200.0,20.0
+2061,TIVO,2.0,,,20.0,200.0,20.0
+2062,TJX,2.0,Consumer Services,Clothing/Shoe/Accessory Stores,4.0,23.0,4.0
+2063,TK,2.0,Transportation,Marine Transportation,12.0,70.0,12.0
+2064,TKR,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+2065,TMH,2.0,,,20.0,200.0,20.0
+2066,TMK,2.0,Finance,Life Insurance,6.0,66.0,6.0
+2067,TMO,2.0,Capital Goods,Industrial Machinery/Components,1.0,60.0,1.0
+2068,TMP,2.0,,,20.0,200.0,20.0
+2069,TMUS,2.0,,,20.0,200.0,20.0
+2070,TNAV,2.0,,,20.0,200.0,20.0
+2071,TNC,2.0,Technology,Industrial Machinery/Components,11.0,60.0,11.0
+2072,TNGO,2.0,,,20.0,200.0,20.0
+2073,TNK,2.0,Consumer Services,Marine Transportation,4.0,70.0,4.0
+2074,TOL,2.0,Capital Goods,Homebuilding,1.0,57.0,1.0
+2075,TOWN,2.0,,,20.0,200.0,20.0
+2076,TOWR,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+2077,TPC,2.0,Basic Industries,General Bldg Contractors - Nonresidential Bldgs,0.0,55.0,0.0
+2078,TPLM,2.0,,,20.0,200.0,20.0
+2079,TPX,2.0,Consumer Durables,Home Furnishings,2.0,56.0,2.0
+2080,TR,2.0,Consumer Non-Durables,Specialty Foods,3.0,119.0,3.0
+2081,TRC,2.0,Finance,Real Estate,6.0,108.0,6.0
+2082,TREC,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+2083,TREE,2.0,,,20.0,200.0,20.0
+2084,TREX,2.0,Basic Industries,Forest Products,0.0,54.0,0.0
+2085,TRGP,2.0,Public Utilities,Natural Gas Distribution,9.0,82.0,9.0
+2086,TRI,2.0,Consumer Services,Publishing,4.0,104.0,4.0
+2087,TRIP,2.0,,,20.0,200.0,20.0
+2088,TRK,2.0,Consumer Services,Services-Misc. Amusement & Recreation,4.0,116.0,4.0
+2089,TRMB,2.0,,,20.0,200.0,20.0
+2090,TRMK,2.0,,,20.0,200.0,20.0
+2091,TRN,2.0,Capital Goods,Railroads,1.0,107.0,1.0
+2092,TRNO,2.0,Finance,Real Estate,6.0,108.0,6.0
+2093,TROW,2.0,,,20.0,200.0,20.0
+2094,TROX,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+2095,TRR,2.0,,,20.0,200.0,20.0
+2096,TRS,2.0,,,20.0,200.0,20.0
+2097,TRST,2.0,,,20.0,200.0,20.0
+2098,TRUE,2.0,,,20.0,200.0,20.0
+2099,TRXC,2.0,,,20.0,200.0,20.0
+2100,TSCO,2.0,,,20.0,200.0,20.0
+2101,TSLA,2.0,,,20.0,200.0,20.0
+2102,TSN,2.0,Consumer Non-Durables,Meat/Poultry/Fish,3.0,71.0,3.0
+2103,TSO,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+2104,TSRA,2.0,,,20.0,200.0,20.0
+2105,TSS,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+2106,TTC,2.0,Capital Goods,Tools/Hardware,1.0,126.0,1.0
+2107,TTEC,2.0,,,20.0,200.0,20.0
+2108,TTEK,2.0,,,20.0,200.0,20.0
+2109,TTGT,2.0,,,20.0,200.0,20.0
+2110,TTI,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+2111,TTMI,2.0,,,20.0,200.0,20.0
+2112,TTWO,2.0,,,20.0,200.0,20.0
+2113,TUES,2.0,,,20.0,200.0,20.0
+2114,TUP,2.0,Consumer Non-Durables,Plastic Products,3.0,98.0,3.0
+2115,TWI,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+2116,TWIN,2.0,,,20.0,200.0,20.0
+2117,TWMC,2.0,,,20.0,200.0,20.0
+2118,TWO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2119,TWX,2.0,Consumer Services,Television Services,4.0,123.0,4.0
+2120,TXMD,2.0,,,20.0,200.0,20.0
+2121,TXN,2.0,,,20.0,200.0,20.0
+2122,TXRH,2.0,,,20.0,200.0,20.0
+2123,TXT,2.0,Capital Goods,Aerospace,1.0,2.0,1.0
+2124,TYL,2.0,Technology,Computer Software: Prepackaged Software,11.0,28.0,11.0
+2125,TYPE,2.0,,,20.0,200.0,20.0
+2126,TZOO,2.0,,,20.0,200.0,20.0
+2127,UAA,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+2128,UAL,2.0,Transportation,Air Freight/Delivery Services,12.0,4.0,12.0
+2129,UAM,2.0,,,20.0,200.0,20.0
+2130,UBA,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2131,UBNK,2.0,,,20.0,200.0,20.0
+2132,UBNT,2.0,,,20.0,200.0,20.0
+2133,UBSH,2.0,,,20.0,200.0,20.0
+2134,UBSI,2.0,,,20.0,200.0,20.0
+2135,UCBI,2.0,,,20.0,200.0,20.0
+2136,UCFC,2.0,,,20.0,200.0,20.0
+2137,UCTT,2.0,,,20.0,200.0,20.0
+2138,UDR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2139,UEC,2.0,,,20.0,200.0,20.0
+2140,UEIC,2.0,,,20.0,200.0,20.0
+2141,UFCS,2.0,,,20.0,200.0,20.0
+2142,UFI,2.0,Consumer Non-Durables,Textiles,3.0,124.0,3.0
+2143,UFPI,2.0,,,20.0,200.0,20.0
+2144,UFPT,2.0,,,20.0,200.0,20.0
+2145,UFS,2.0,Basic Industries,Paper,0.0,97.0,0.0
+2146,UGI,2.0,Public Utilities,Natural Gas Distribution,9.0,82.0,9.0
+2147,UHAL,2.0,,,20.0,200.0,20.0
+2148,UHS,2.0,Health Care,Hospital/Nursing Management,7.0,58.0,7.0
+2149,UHT,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2150,UIHC,2.0,,,20.0,200.0,20.0
+2151,UIS,2.0,Technology,EDP Services,11.0,40.0,11.0
+2152,ULTA,2.0,,,20.0,200.0,20.0
+2153,ULTI,2.0,,,20.0,200.0,20.0
+2154,UMBF,2.0,,,20.0,200.0,20.0
+2155,UMH,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2156,UMPQ,2.0,,,20.0,200.0,20.0
+2157,UNF,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+2158,UNFI,2.0,,,20.0,200.0,20.0
+2159,UNH,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+2160,UNIS,2.0,,,20.0,200.0,20.0
+2161,UNM,2.0,Finance,Accident &Health Insurance,6.0,0.0,6.0
+2162,UNP,2.0,Transportation,Railroads,12.0,107.0,12.0
+2163,UNT,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+2164,UNXL,2.0,,,20.0,200.0,20.0
+2165,UPS,2.0,Transportation,Trucking Freight/Courier Services,12.0,128.0,12.0
+2166,URBN,2.0,,,20.0,200.0,20.0
+2167,URG,2.0,,,20.0,200.0,20.0
+2168,URI,2.0,Technology,Diversified Commercial Services,11.0,38.0,11.0
+2169,USAK,2.0,,,20.0,200.0,20.0
+2170,USAP,2.0,,,20.0,200.0,20.0
+2171,USB,2.0,Finance,Major Banks,6.0,67.0,6.0
+2172,USCR,2.0,,,20.0,200.0,20.0
+2173,USG,2.0,Capital Goods,Building Materials,1.0,18.0,1.0
+2174,USLM,2.0,,,20.0,200.0,20.0
+2175,USM,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+2176,USNA,2.0,Consumer Durables,Specialty Chemicals,2.0,118.0,2.0
+2177,USPH,2.0,Health Care,Medical/Nursing Services,7.0,74.0,7.0
+2178,UTEK,2.0,,,20.0,200.0,20.0
+2179,UTHR,2.0,,,20.0,200.0,20.0
+2180,UTI,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+2181,UTL,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+2182,UTMD,2.0,,,20.0,200.0,20.0
+2183,UTX,2.0,Capital Goods,Aerospace,1.0,2.0,1.0
+2184,UVE,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+2185,UVSP,2.0,,,20.0,200.0,20.0
+2186,UVV,2.0,Consumer Services,Farming/Seeds/Milling,4.0,47.0,4.0
+2187,V,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+2188,VAC,2.0,Finance,Real Estate,6.0,108.0,6.0
+2189,VAL,2.0,,,20.0,200.0,20.0
+2190,VAR,2.0,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,7.0,13.0,7.0
+2191,VASC,2.0,,,20.0,200.0,20.0
+2192,VC,2.0,Capital Goods,Auto Parts:O.E.M.,1.0,8.0,1.0
+2193,VDSI,2.0,,,20.0,200.0,20.0
+2194,VECO,2.0,,,20.0,200.0,20.0
+2195,VFC,2.0,Consumer Non-Durables,Apparel,3.0,6.0,3.0
+2196,VG,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+2197,VGR,2.0,Consumer Non-Durables,Farming/Seeds/Milling,3.0,47.0,3.0
+2198,VHC,2.0,,,20.0,200.0,20.0
+2199,VIAB,2.0,,,20.0,200.0,20.0
+2200,VICL,2.0,,,20.0,200.0,20.0
+2201,VICR,2.0,,,20.0,200.0,20.0
+2202,VIVO,2.0,,,20.0,200.0,20.0
+2203,VLGEA,2.0,,,20.0,200.0,20.0
+2204,VLO,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+2205,VLY,2.0,Finance,Major Banks,6.0,67.0,6.0
+2206,VMC,2.0,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),0.0,77.0,0.0
+2207,VMI,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+2208,VMW,2.0,Technology,Computer Software: Prepackaged Software,11.0,28.0,11.0
+2209,VNDA,2.0,,,20.0,200.0,20.0
+2210,VNO,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2211,VOD,2.0,,,20.0,200.0,20.0
+2212,VOXX,2.0,,,20.0,200.0,20.0
+2213,VPG,2.0,Capital Goods,Electrical Products,1.0,42.0,1.0
+2214,VR,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+2215,VRA,2.0,,,20.0,200.0,20.0
+2216,VRNT,2.0,,,20.0,200.0,20.0
+2217,VRSK,2.0,,,20.0,200.0,20.0
+2218,VRSN,2.0,,,20.0,200.0,20.0
+2219,VRTS,2.0,,,20.0,200.0,20.0
+2220,VRTU,2.0,,,20.0,200.0,20.0
+2221,VRTX,2.0,,,20.0,200.0,20.0
+2222,VRX,2.0,Health Care,Major Pharmaceuticals,7.0,69.0,7.0
+2223,VSAT,2.0,,,20.0,200.0,20.0
+2224,VSEC,2.0,,,20.0,200.0,20.0
+2225,VSH,2.0,Capital Goods,Electrical Products,1.0,42.0,1.0
+2226,VSI,2.0,Consumer Non-Durables,Food Chains,3.0,52.0,3.0
+2227,VTNR,2.0,,,20.0,200.0,20.0
+2228,VTR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2229,VVC,2.0,Public Utilities,Natural Gas Distribution,9.0,82.0,9.0
+2230,VVI,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+2231,VVUS,2.0,,,20.0,200.0,20.0
+2232,VZ,2.0,Public Utilities,Telecommunications Equipment,9.0,122.0,9.0
+2233,WAB,2.0,Capital Goods,Railroads,1.0,107.0,1.0
+2234,WABC,2.0,,,20.0,200.0,20.0
+2235,WAC,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+2236,WAFD,2.0,,,20.0,200.0,20.0
+2237,WAIR,2.0,Capital Goods,Wholesale Distributors,1.0,130.0,1.0
+2238,WAL,2.0,Finance,Major Banks,6.0,67.0,6.0
+2239,WASH,2.0,,,20.0,200.0,20.0
+2240,WAT,2.0,Capital Goods,Biotechnology: Laboratory Analytical Instruments,1.0,15.0,1.0
+2241,WBA,2.0,,,20.0,200.0,20.0
+2242,WBC,2.0,Capital Goods,Auto Manufacturing,1.0,7.0,1.0
+2243,WBMD,2.0,,,20.0,200.0,20.0
+2244,WBS,2.0,Finance,Major Banks,6.0,67.0,6.0
+2245,WCC,2.0,Consumer Non-Durables,Telecommunications Equipment,3.0,122.0,3.0
+2246,WCG,2.0,Health Care,Medical Specialities,7.0,72.0,7.0
+2247,WCN,2.0,Public Utilities,Environmental Services,9.0,46.0,9.0
+2248,WD,2.0,Finance,Finance: Consumer Services,6.0,50.0,6.0
+2249,WDC,2.0,,,20.0,200.0,20.0
+2250,WDFC,2.0,,,20.0,200.0,20.0
+2251,WDR,2.0,Finance,Investment Bankers/Brokers/Service,6.0,64.0,6.0
+2252,WEC,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+2253,WEN,2.0,,,20.0,200.0,20.0
+2254,WERN,2.0,,,20.0,200.0,20.0
+2255,WETF,2.0,,,20.0,200.0,20.0
+2256,WEX,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+2257,WEYS,2.0,,,20.0,200.0,20.0
+2258,WFC,2.0,Finance,Major Banks,6.0,67.0,6.0
+2259,WFM,2.0,,,20.0,200.0,20.0
+2260,WG,2.0,Energy,Oilfield Services/Equipment,5.0,88.0,5.0
+2261,WGL,2.0,Public Utilities,Oil/Gas Transmission,9.0,87.0,9.0
+2262,WGO,2.0,Consumer Non-Durables,Homebuilding,3.0,57.0,3.0
+2263,WHG,2.0,Finance,Investment Managers,6.0,65.0,6.0
+2264,WHR,2.0,Consumer Durables,Consumer Electronics/Appliances,2.0,32.0,2.0
+2265,WIFI,2.0,,,20.0,200.0,20.0
+2266,WIN,2.0,,,20.0,200.0,20.0
+2267,WINA,2.0,,,20.0,200.0,20.0
+2268,WIRE,2.0,,,20.0,200.0,20.0
+2269,WLB,2.0,,,20.0,200.0,20.0
+2270,WLK,2.0,Basic Industries,Major Chemicals,0.0,68.0,0.0
+2271,WLL,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+2272,WM,2.0,Public Utilities,Environmental Services,9.0,46.0,9.0
+2273,WMAR,2.0,,,20.0,200.0,20.0
+2274,WMB,2.0,Public Utilities,Natural Gas Distribution,9.0,82.0,9.0
+2275,WMGI,2.0,,,20.0,200.0,20.0
+2276,WMK,2.0,Consumer Services,Food Chains,4.0,52.0,4.0
+2277,WMT,2.0,Consumer Services,Department/Specialty Retail Stores,4.0,37.0,4.0
+2278,WNC,2.0,Capital Goods,Construction/Ag Equipment/Trucks,1.0,31.0,1.0
+2279,WNR,2.0,,,20.0,200.0,20.0
+2280,WOOF,2.0,,,20.0,200.0,20.0
+2281,WOR,2.0,Capital Goods,Steel/Iron Ore,1.0,121.0,1.0
+2282,WPX,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+2283,WR,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+2284,WRB,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+2285,WRE,2.0,n/a,n/a,20.0,200.0,20.0
+2286,WRI,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2287,WRLD,2.0,,,20.0,200.0,20.0
+2288,WSBC,2.0,,,20.0,200.0,20.0
+2289,WSBF,2.0,,,20.0,200.0,20.0
+2290,WSFS,2.0,,,20.0,200.0,20.0
+2291,WSM,2.0,Consumer Services,Home Furnishings,4.0,56.0,4.0
+2292,WSO,2.0,Consumer Durables,Industrial Machinery/Components,2.0,60.0,2.0
+2293,WSR,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2294,WST,2.0,Basic Industries,Specialty Chemicals,0.0,118.0,0.0
+2295,WSTL,2.0,,,20.0,200.0,20.0
+2296,WTBA,2.0,,,20.0,200.0,20.0
+2297,WTFC,2.0,,,20.0,200.0,20.0
+2298,WTI,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+2299,WTM,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+2300,WTR,2.0,Public Utilities,Water Supply,9.0,129.0,9.0
+2301,WTS,2.0,Capital Goods,Metal Fabrications,1.0,75.0,1.0
+2302,WTW,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+2303,WU,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+2304,WWE,2.0,Consumer Services,Movies/Entertainment,4.0,80.0,4.0
+2305,WWW,2.0,Consumer Non-Durables,Shoe Manufacturing,3.0,117.0,3.0
+2306,WY,2.0,Consumer Services,Real Estate Investment Trusts,4.0,109.0,4.0
+2307,WYN,2.0,Consumer Services,Hotels/Resorts,4.0,59.0,4.0
+2308,WYNN,2.0,,,20.0,200.0,20.0
+2309,X,2.0,Basic Industries,Steel/Iron Ore,0.0,121.0,0.0
+2310,XCO,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+2311,XCRA,2.0,,,20.0,200.0,20.0
+2312,XEC,2.0,Energy,Oil & Gas Production,5.0,85.0,5.0
+2313,XEL,2.0,Public Utilities,Power Generation,9.0,100.0,9.0
+2314,XL,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+2315,XLNX,2.0,,,20.0,200.0,20.0
+2316,XOM,2.0,Energy,Integrated oil Companies,5.0,63.0,5.0
+2317,XOMA,2.0,,,20.0,200.0,20.0
+2318,XOXO,2.0,Consumer Services,Other Consumer Services,4.0,91.0,4.0
+2319,XPO,2.0,Consumer Services,Transportation Services,4.0,127.0,4.0
+2320,XRAY,2.0,,,20.0,200.0,20.0
+2321,XRM,2.0,Basic Industries,Textiles,0.0,124.0,0.0
+2322,XRX,2.0,Miscellaneous,Business Services,8.0,21.0,8.0
+2323,XXIA,2.0,,,20.0,200.0,20.0
+2324,XXII,2.0,,,20.0,200.0,20.0
+2325,XYL,2.0,Capital Goods,Fluid Controls,1.0,51.0,1.0
+2326,Y,2.0,Finance,Property-Casualty Insurers,6.0,103.0,6.0
+2327,YHOO,2.0,,,20.0,200.0,20.0
+2328,YORW,2.0,,,20.0,200.0,20.0
+2329,YRCW,2.0,,,20.0,200.0,20.0
+2330,YUM,2.0,Consumer Services,Restaurants,4.0,112.0,4.0
+2331,ZAGG,2.0,,,20.0,200.0,20.0
+2332,ZBH,2.0,Health Care,Industrial Specialties,7.0,61.0,7.0
+2333,ZBRA,2.0,,,20.0,200.0,20.0
+2334,ZEUS,2.0,,,20.0,200.0,20.0
+2335,ZGNX,2.0,,,20.0,200.0,20.0
+2336,ZION,2.0,,,20.0,200.0,20.0
+2337,ZIOP,2.0,,,20.0,200.0,20.0
+2338,ZIXI,2.0,,,20.0,200.0,20.0
+2339,ZLTQ,2.0,,,20.0,200.0,20.0
+2340,ZNGA,2.0,,,20.0,200.0,20.0
+2341,ZUMZ,2.0,,,20.0,200.0,20.0
+2342,lev_0.01_0,0.0,,,20.0,200.0,4.0
+2343,lev_0.03_0,0.0,,,20.0,200.0,20.0
+2344,lev_0.07_0,0.0,,,20.0,200.0,20.0
+2345,lev_0.09_0,0.0,,,20.0,200.0,20.0
+2346,lev_0.16_0,0.1,,,20.0,200.0,4.0
+2347,lev_0.17_0,0.1,,,20.0,200.0,4.0
+2348,lev_0.18_0,0.1,,,20.0,200.0,9.0
+2349,lev_0.18_1,0.1,,,20.0,200.0,4.0
+2350,lev_0.19_0,0.1,,,20.0,200.0,9.0
+2351,lev_0.20_0,0.2,,,20.0,200.0,9.0
+2352,lev_0.20_1,0.2,,,20.0,200.0,0.0
+2353,lev_0.21_0,0.2,,,20.0,200.0,9.0
+2354,lev_0.21_1,0.2,,,20.0,200.0,1.0
+2355,lev_0.21_2,0.2,,,20.0,200.0,4.0
+2356,lev_0.22_0,0.2,,,20.0,200.0,9.0
+2357,lev_0.22_1,0.2,,,20.0,200.0,0.0
+2358,lev_0.22_2,0.2,,,20.0,200.0,1.0
+2359,lev_0.23_0,0.2,,,20.0,200.0,9.0
+2360,lev_0.24_0,0.2,,,20.0,200.0,9.0
+2361,lev_0.24_1,0.2,,,20.0,200.0,4.0
+2362,lev_0.24_2,0.2,,,20.0,200.0,1.0
+2363,lev_0.25_0,0.2,,,20.0,200.0,4.0
+2364,lev_0.25_1,0.2,,,20.0,200.0,4.0
+2365,lev_0.25_2,0.2,,,20.0,200.0,9.0
+2366,lev_0.25_3,0.2,,,20.0,200.0,0.0
+2367,lev_0.26_0,0.2,,,20.0,200.0,4.0
+2368,lev_0.26_1,0.2,,,20.0,200.0,9.0
+2369,lev_0.26_2,0.2,,,20.0,200.0,20.0
+2370,lev_0.26_3,0.2,,,20.0,200.0,4.0
+2371,lev_0.26_4,0.2,,,20.0,200.0,1.0
+2372,lev_0.26_5,0.2,,,20.0,200.0,4.0
+2373,lev_0.26_6,0.2,,,20.0,200.0,6.0
+2374,lev_0.27_0,0.2,,,20.0,200.0,4.0
+2375,lev_0.27_1,0.2,,,20.0,200.0,20.0
+2376,lev_0.27_2,0.2,,,20.0,200.0,4.0
+2377,lev_0.27_3,0.2,,,20.0,200.0,1.0
+2378,lev_0.27_4,0.2,,,20.0,200.0,20.0
+2379,lev_0.28_0,0.2,,,20.0,200.0,9.0
+2380,lev_0.28_1,0.2,,,20.0,200.0,20.0
+2381,lev_0.28_2,0.2,,,20.0,200.0,4.0
+2382,lev_0.28_3,0.2,,,20.0,200.0,12.0
+2383,lev_0.29_0,0.2,,,20.0,200.0,4.0
+2384,lev_0.29_1,0.2,,,20.0,200.0,6.0
+2385,lev_0.29_2,0.2,,,20.0,200.0,4.0
+2386,lev_0.30_0,0.3,,,20.0,200.0,4.0
+2387,lev_0.30_1,0.3,,,20.0,200.0,6.0
+2388,lev_0.30_2,0.3,,,20.0,200.0,4.0
+2389,lev_0.30_3,0.3,,,20.0,200.0,6.0
+2390,lev_0.30_4,0.3,,,20.0,200.0,20.0
+2391,lev_0.30_5,0.3,,,20.0,200.0,5.0
+2392,lev_0.30_6,0.3,,,20.0,200.0,9.0
+2393,lev_0.31_0,0.3,,,20.0,200.0,6.0
+2394,lev_0.31_1,0.3,,,20.0,200.0,4.0
+2395,lev_0.31_2,0.3,,,20.0,200.0,12.0
+2396,lev_0.31_3,0.3,,,20.0,200.0,20.0
+2397,lev_0.31_4,0.3,,,20.0,200.0,5.0
+2398,lev_0.31_5,0.3,,,20.0,200.0,9.0
+2399,lev_0.31_6,0.3,,,20.0,200.0,4.0
+2400,lev_0.32_0,0.3,,,20.0,200.0,5.0
+2401,lev_0.32_1,0.3,,,20.0,200.0,20.0
+2402,lev_0.32_2,0.3,,,20.0,200.0,9.0
+2403,lev_0.32_3,0.3,,,20.0,200.0,20.0
+2404,lev_0.32_4,0.3,,,20.0,200.0,4.0
+2405,lev_0.33_0,0.3,,,20.0,200.0,9.0
+2406,lev_0.33_1,0.3,,,20.0,200.0,4.0
+2407,lev_0.33_2,0.3,,,20.0,200.0,20.0
+2408,lev_0.33_3,0.3,,,20.0,200.0,5.0
+2409,lev_0.33_4,0.3,,,20.0,200.0,5.0
+2410,lev_0.33_5,0.3,,,20.0,200.0,3.0
+2411,lev_0.33_6,0.3,,,20.0,200.0,9.0
+2412,lev_0.33_7,0.3,,,20.0,200.0,6.0
+2413,lev_0.33_8,0.3,,,20.0,200.0,5.0
+2414,lev_0.34_0,0.3,,,20.0,200.0,4.0
+2415,lev_0.34_1,0.3,,,20.0,200.0,5.0
+2416,lev_0.34_2,0.3,,,20.0,200.0,12.0
+2417,lev_0.34_3,0.3,,,20.0,200.0,5.0
+2418,lev_0.34_4,0.3,,,20.0,200.0,5.0
+2419,lev_0.34_5,0.3,,,20.0,200.0,6.0
+2420,lev_0.34_6,0.3,,,20.0,200.0,20.0
+2421,lev_0.35_0,0.3,,,20.0,200.0,5.0
+2422,lev_0.35_1,0.3,,,20.0,200.0,6.0
+2423,lev_0.35_2,0.3,,,20.0,200.0,5.0
+2424,lev_0.35_3,0.3,,,20.0,200.0,4.0
+2425,lev_0.35_4,0.3,,,20.0,200.0,5.0
+2426,lev_0.35_5,0.3,,,20.0,200.0,4.0
+2427,lev_0.35_6,0.3,,,20.0,200.0,0.0
+2428,lev_0.35_7,0.3,,,20.0,200.0,9.0
+2429,lev_0.35_8,0.3,,,20.0,200.0,5.0
+2430,lev_0.36_0,0.3,,,20.0,200.0,4.0
+2431,lev_0.36_1,0.3,,,20.0,200.0,6.0
+2432,lev_0.36_10,0.3,,,20.0,200.0,20.0
+2433,lev_0.36_2,0.3,,,20.0,200.0,9.0
+2434,lev_0.36_3,0.3,,,20.0,200.0,20.0
+2435,lev_0.36_4,0.3,,,20.0,200.0,3.0
+2436,lev_0.36_5,0.3,,,20.0,200.0,5.0
+2437,lev_0.36_6,0.3,,,20.0,200.0,5.0
+2438,lev_0.36_7,0.3,,,20.0,200.0,9.0
+2439,lev_0.36_8,0.3,,,20.0,200.0,5.0
+2440,lev_0.36_9,0.3,,,20.0,200.0,4.0
+2441,lev_0.37_0,0.3,,,20.0,200.0,0.0
+2442,lev_0.37_1,0.3,,,20.0,200.0,9.0
+2443,lev_0.37_2,0.3,,,20.0,200.0,7.0
+2444,lev_0.37_3,0.3,,,20.0,200.0,5.0
+2445,lev_0.37_4,0.3,,,20.0,200.0,9.0
+2446,lev_0.37_5,0.3,,,20.0,200.0,4.0
+2447,lev_0.37_6,0.3,,,20.0,200.0,5.0
+2448,lev_0.37_7,0.3,,,20.0,200.0,6.0
+2449,lev_0.37_8,0.3,,,20.0,200.0,4.0
+2450,lev_0.37_9,0.3,,,20.0,200.0,20.0
+2451,lev_0.38_0,0.3,,,20.0,200.0,6.0
+2452,lev_0.38_1,0.3,,,20.0,200.0,6.0
+2453,lev_0.38_10,0.3,,,20.0,200.0,9.0
+2454,lev_0.38_11,0.3,,,20.0,200.0,1.0
+2455,lev_0.38_12,0.3,,,20.0,200.0,0.0
+2456,lev_0.38_2,0.3,,,20.0,200.0,7.0
+2457,lev_0.38_4,0.3,,,20.0,200.0,7.0
+2458,lev_0.38_5,0.3,,,20.0,200.0,0.0
+2459,lev_0.38_6,0.3,,,20.0,200.0,5.0
+2460,lev_0.38_7,0.3,,,20.0,200.0,5.0
+2461,lev_0.38_8,0.3,,,20.0,200.0,12.0
+2462,lev_0.38_9,0.3,,,20.0,200.0,4.0
+2463,lev_0.39_0,0.3,,,20.0,200.0,1.0
+2464,lev_0.39_1,0.3,,,20.0,200.0,5.0
+2465,lev_0.39_2,0.3,,,20.0,200.0,5.0
+2466,lev_0.39_3,0.3,,,20.0,200.0,6.0
+2467,lev_0.39_4,0.3,,,20.0,200.0,5.0
+2468,lev_0.39_5,0.3,,,20.0,200.0,20.0
+2469,lev_0.39_6,0.3,,,20.0,200.0,7.0
+2470,lev_0.39_7,0.3,,,20.0,200.0,9.0
+2471,lev_0.39_8,0.3,,,20.0,200.0,20.0
+2472,lev_0.40_0,0.4,,,20.0,200.0,7.0
+2473,lev_0.40_1,0.4,,,20.0,200.0,7.0
+2474,lev_0.40_2,0.4,,,20.0,200.0,2.0
+2475,lev_0.40_3,0.4,,,20.0,200.0,4.0
+2476,lev_0.40_4,0.4,,,20.0,200.0,6.0
+2477,lev_0.40_5,0.4,,,20.0,200.0,5.0
+2478,lev_0.40_6,0.4,,,20.0,200.0,4.0
+2479,lev_0.41_0,0.4,,,20.0,200.0,5.0
+2480,lev_0.41_1,0.4,,,20.0,200.0,9.0
+2481,lev_0.41_2,0.4,,,20.0,200.0,6.0
+2482,lev_0.41_3,0.4,,,20.0,200.0,7.0
+2483,lev_0.41_4,0.4,,,20.0,200.0,4.0
+2484,lev_0.41_5,0.4,,,20.0,200.0,2.0
+2485,lev_0.41_6,0.4,,,20.0,200.0,6.0
+2486,lev_0.41_7,0.4,,,20.0,200.0,3.0
+2487,lev_0.42_0,0.4,,,20.0,200.0,6.0
+2488,lev_0.42_1,0.4,,,20.0,200.0,4.0
+2489,lev_0.42_10,0.4,,,20.0,200.0,6.0
+2490,lev_0.42_2,0.4,,,20.0,200.0,9.0
+2491,lev_0.42_3,0.4,,,20.0,200.0,20.0
+2492,lev_0.42_4,0.4,,,20.0,200.0,5.0
+2493,lev_0.42_5,0.4,,,20.0,200.0,5.0
+2494,lev_0.42_6,0.4,,,20.0,200.0,0.0
+2495,lev_0.42_7,0.4,,,20.0,200.0,4.0
+2496,lev_0.42_8,0.4,,,20.0,200.0,20.0
+2497,lev_0.42_9,0.4,,,20.0,200.0,4.0
+2498,lev_0.43_0,0.4,,,20.0,200.0,5.0
+2499,lev_0.43_10,0.4,,,20.0,200.0,20.0
+2500,lev_0.43_11,0.4,,,20.0,200.0,12.0
+2501,lev_0.43_2,0.4,,,20.0,200.0,20.0
+2502,lev_0.43_3,0.4,,,20.0,200.0,6.0
+2503,lev_0.43_4,0.4,,,20.0,200.0,4.0
+2504,lev_0.43_5,0.4,,,20.0,200.0,1.0
+2505,lev_0.43_6,0.4,,,20.0,200.0,4.0
+2506,lev_0.43_7,0.4,,,20.0,200.0,6.0
+2507,lev_0.43_8,0.4,,,20.0,200.0,9.0
+2508,lev_0.43_9,0.4,,,20.0,200.0,6.0
+2509,lev_0.44_0,0.4,,,20.0,200.0,4.0
+2510,lev_0.44_1,0.4,,,20.0,200.0,5.0
+2511,lev_0.44_10,0.4,,,20.0,200.0,6.0
+2512,lev_0.44_11,0.4,,,20.0,200.0,20.0
+2513,lev_0.44_2,0.4,,,20.0,200.0,4.0
+2514,lev_0.44_3,0.4,,,20.0,200.0,4.0
+2515,lev_0.44_4,0.4,,,20.0,200.0,6.0
+2516,lev_0.44_5,0.4,,,20.0,200.0,4.0
+2517,lev_0.44_6,0.4,,,20.0,200.0,11.0
+2518,lev_0.44_7,0.4,,,20.0,200.0,7.0
+2519,lev_0.44_8,0.4,,,20.0,200.0,6.0
+2520,lev_0.44_9,0.4,,,20.0,200.0,5.0
+2521,lev_0.45_0,0.4,,,20.0,200.0,8.0
+2522,lev_0.45_1,0.4,,,20.0,200.0,1.0
+2523,lev_0.45_10,0.4,,,20.0,200.0,20.0
+2524,lev_0.45_2,0.4,,,20.0,200.0,20.0
+2525,lev_0.45_3,0.4,,,20.0,200.0,2.0
+2526,lev_0.45_4,0.4,,,20.0,200.0,4.0
+2527,lev_0.45_5,0.4,,,20.0,200.0,4.0
+2528,lev_0.45_6,0.4,,,20.0,200.0,20.0
+2529,lev_0.45_7,0.4,,,20.0,200.0,6.0
+2530,lev_0.45_8,0.4,,,20.0,200.0,20.0
+2531,lev_0.45_9,0.4,,,20.0,200.0,20.0
+2532,lev_0.46_1,0.4,,,20.0,200.0,9.0
+2533,lev_0.46_10,0.4,,,20.0,200.0,20.0
+2534,lev_0.46_11,0.4,,,20.0,200.0,2.0
+2535,lev_0.46_12,0.4,,,20.0,200.0,12.0
+2536,lev_0.46_13,0.4,,,20.0,200.0,4.0
+2537,lev_0.46_2,0.4,,,20.0,200.0,1.0
+2538,lev_0.46_4,0.4,,,20.0,200.0,6.0
+2539,lev_0.46_5,0.4,,,20.0,200.0,6.0
+2540,lev_0.46_6,0.4,,,20.0,200.0,4.0
+2541,lev_0.46_7,0.4,,,20.0,200.0,5.0
+2542,lev_0.46_8,0.4,,,20.0,200.0,0.0
+2543,lev_0.46_9,0.4,,,20.0,200.0,4.0
+2544,lev_0.47_0,0.4,,,20.0,200.0,1.0
+2545,lev_0.47_1,0.4,,,20.0,200.0,2.0
+2546,lev_0.47_2,0.4,,,20.0,200.0,0.0
+2547,lev_0.47_3,0.4,,,20.0,200.0,20.0
+2548,lev_0.47_4,0.4,,,20.0,200.0,4.0
+2549,lev_0.47_5,0.4,,,20.0,200.0,20.0
+2550,lev_0.47_6,0.4,,,20.0,200.0,6.0
+2551,lev_0.47_7,0.4,,,20.0,200.0,3.0
+2552,lev_0.47_8,0.4,,,20.0,200.0,12.0
+2553,lev_0.47_9,0.4,,,20.0,200.0,5.0
+2554,lev_0.48_0,0.4,,,20.0,200.0,6.0
+2555,lev_0.48_1,0.4,,,20.0,200.0,5.0
+2556,lev_0.48_10,0.4,,,20.0,200.0,3.0
+2557,lev_0.48_11,0.4,,,20.0,200.0,5.0
+2558,lev_0.48_12,0.4,,,20.0,200.0,6.0
+2559,lev_0.48_2,0.4,,,20.0,200.0,20.0
+2560,lev_0.48_3,0.4,,,20.0,200.0,1.0
+2561,lev_0.48_4,0.4,,,20.0,200.0,5.0
+2562,lev_0.48_5,0.4,,,20.0,200.0,5.0
+2563,lev_0.48_6,0.4,,,20.0,200.0,9.0
+2564,lev_0.48_7,0.4,,,20.0,200.0,1.0
+2565,lev_0.48_8,0.4,,,20.0,200.0,20.0
+2566,lev_0.48_9,0.4,,,20.0,200.0,20.0
+2567,lev_0.49_0,0.4,,,20.0,200.0,0.0
+2568,lev_0.49_1,0.4,,,20.0,200.0,5.0
+2569,lev_0.49_2,0.4,,,20.0,200.0,20.0
+2570,lev_0.49_3,0.4,,,20.0,200.0,2.0
+2571,lev_0.49_4,0.4,,,20.0,200.0,6.0
+2572,lev_0.49_5,0.4,,,20.0,200.0,20.0
+2573,lev_0.49_6,0.4,,,20.0,200.0,9.0
+2574,lev_0.49_7,0.4,,,20.0,200.0,3.0
+2575,lev_0.49_8,0.4,,,20.0,200.0,20.0
+2576,lev_0.49_9,0.4,,,20.0,200.0,11.0
+2577,lev_0.50_0,0.5,,,20.0,200.0,20.0
+2578,lev_0.50_1,0.5,,,20.0,200.0,4.0
+2579,lev_0.50_11,0.5,,,20.0,200.0,4.0
+2580,lev_0.50_12,0.5,,,20.0,200.0,6.0
+2581,lev_0.50_13,0.5,,,20.0,200.0,6.0
+2582,lev_0.50_14,0.5,,,20.0,200.0,20.0
+2583,lev_0.50_2,0.5,,,20.0,200.0,20.0
+2584,lev_0.50_3,0.5,,,20.0,200.0,2.0
+2585,lev_0.50_4,0.5,,,20.0,200.0,0.0
+2586,lev_0.50_5,0.5,,,20.0,200.0,9.0
+2587,lev_0.50_6,0.5,,,20.0,200.0,3.0
+2588,lev_0.50_7,0.5,,,20.0,200.0,20.0
+2589,lev_0.50_8,0.5,,,20.0,200.0,5.0
+2590,lev_0.50_9,0.5,,,20.0,200.0,5.0
+2591,lev_0.51_0,0.5,,,20.0,200.0,5.0
+2592,lev_0.51_1,0.5,,,20.0,200.0,20.0
+2593,lev_0.51_10,0.5,,,20.0,200.0,2.0
+2594,lev_0.51_11,0.5,,,20.0,200.0,6.0
+2595,lev_0.51_12,0.5,,,20.0,200.0,1.0
+2596,lev_0.51_13,0.5,,,20.0,200.0,20.0
+2597,lev_0.51_2,0.5,,,20.0,200.0,0.0
+2598,lev_0.51_3,0.5,,,20.0,200.0,3.0
+2599,lev_0.51_4,0.5,,,20.0,200.0,1.0
+2600,lev_0.51_5,0.5,,,20.0,200.0,4.0
+2601,lev_0.51_6,0.5,,,20.0,200.0,20.0
+2602,lev_0.51_7,0.5,,,20.0,200.0,0.0
+2603,lev_0.51_8,0.5,,,20.0,200.0,12.0
+2604,lev_0.51_9,0.5,,,20.0,200.0,0.0
+2605,lev_0.52_0,0.5,,,20.0,200.0,5.0
+2606,lev_0.52_1,0.5,,,20.0,200.0,4.0
+2607,lev_0.52_2,0.5,,,20.0,200.0,4.0
+2608,lev_0.52_3,0.5,,,20.0,200.0,20.0
+2609,lev_0.52_4,0.5,,,20.0,200.0,6.0
+2610,lev_0.52_5,0.5,,,20.0,200.0,20.0
+2611,lev_0.52_6,0.5,,,20.0,200.0,20.0
+2612,lev_0.52_7,0.5,,,20.0,200.0,20.0
+2613,lev_0.52_8,0.5,,,20.0,200.0,20.0
+2614,lev_0.53_0,0.5,,,20.0,200.0,5.0
+2615,lev_0.53_1,0.5,,,20.0,200.0,6.0
+2616,lev_0.53_10,0.5,,,20.0,200.0,4.0
+2617,lev_0.53_11,0.5,,,20.0,200.0,20.0
+2618,lev_0.53_12,0.5,,,20.0,200.0,20.0
+2619,lev_0.53_2,0.5,,,20.0,200.0,20.0
+2620,lev_0.53_3,0.5,,,20.0,200.0,6.0
+2621,lev_0.53_4,0.5,,,20.0,200.0,11.0
+2622,lev_0.53_5,0.5,,,20.0,200.0,6.0
+2623,lev_0.53_6,0.5,,,20.0,200.0,20.0
+2624,lev_0.53_7,0.5,,,20.0,200.0,6.0
+2625,lev_0.53_8,0.5,,,20.0,200.0,4.0
+2626,lev_0.53_9,0.5,,,20.0,200.0,9.0
+2627,lev_0.54_0,0.5,,,20.0,200.0,4.0
+2628,lev_0.54_1,0.5,,,20.0,200.0,0.0
+2629,lev_0.54_10,0.5,,,20.0,200.0,9.0
+2630,lev_0.54_11,0.5,,,20.0,200.0,20.0
+2631,lev_0.54_2,0.5,,,20.0,200.0,12.0
+2632,lev_0.54_3,0.5,,,20.0,200.0,20.0
+2633,lev_0.54_4,0.5,,,20.0,200.0,0.0
+2634,lev_0.54_5,0.5,,,20.0,200.0,0.0
+2635,lev_0.54_6,0.5,,,20.0,200.0,2.0
+2636,lev_0.54_7,0.5,,,20.0,200.0,4.0
+2637,lev_0.54_8,0.5,,,20.0,200.0,6.0
+2638,lev_0.54_9,0.5,,,20.0,200.0,2.0
+2639,lev_0.55_0,0.5,,,20.0,200.0,6.0
+2640,lev_0.55_1,0.5,,,20.0,200.0,5.0
+2641,lev_0.55_10,0.5,,,20.0,200.0,20.0
+2642,lev_0.55_11,0.5,,,20.0,200.0,0.0
+2643,lev_0.55_12,0.5,,,20.0,200.0,20.0
+2644,lev_0.55_13,0.5,,,20.0,200.0,20.0
+2645,lev_0.55_14,0.5,,,20.0,200.0,20.0
+2646,lev_0.55_2,0.5,,,20.0,200.0,11.0
+2647,lev_0.55_3,0.5,,,20.0,200.0,20.0
+2648,lev_0.55_4,0.5,,,20.0,200.0,5.0
+2649,lev_0.55_5,0.5,,,20.0,200.0,20.0
+2650,lev_0.55_6,0.5,,,20.0,200.0,6.0
+2651,lev_0.55_7,0.5,,,20.0,200.0,4.0
+2652,lev_0.55_8,0.5,,,20.0,200.0,0.0
+2653,lev_0.55_9,0.5,,,20.0,200.0,0.0
+2654,lev_0.56_0,0.5,,,20.0,200.0,0.0
+2655,lev_0.56_1,0.5,,,20.0,200.0,1.0
+2656,lev_0.56_10,0.5,,,20.0,200.0,20.0
+2657,lev_0.56_11,0.5,,,20.0,200.0,6.0
+2658,lev_0.56_12,0.5,,,20.0,200.0,5.0
+2659,lev_0.56_13,0.5,,,20.0,200.0,1.0
+2660,lev_0.56_2,0.5,,,20.0,200.0,4.0
+2661,lev_0.56_3,0.5,,,20.0,200.0,20.0
+2662,lev_0.56_4,0.5,,,20.0,200.0,1.0
+2663,lev_0.56_5,0.5,,,20.0,200.0,3.0
+2664,lev_0.56_6,0.5,,,20.0,200.0,20.0
+2665,lev_0.56_7,0.5,,,20.0,200.0,4.0
+2666,lev_0.56_8,0.5,,,20.0,200.0,4.0
+2667,lev_0.56_9,0.5,,,20.0,200.0,2.0
+2668,lev_0.57_0,0.5,,,20.0,200.0,20.0
+2669,lev_0.57_1,0.5,,,20.0,200.0,7.0
+2670,lev_0.57_10,0.5,,,20.0,200.0,1.0
+2671,lev_0.57_11,0.5,,,20.0,200.0,4.0
+2672,lev_0.57_12,0.5,,,20.0,200.0,20.0
+2673,lev_0.57_14,0.5,,,20.0,200.0,12.0
+2674,lev_0.57_15,0.5,,,20.0,200.0,20.0
+2675,lev_0.57_16,0.5,,,20.0,200.0,20.0
+2676,lev_0.57_17,0.5,,,20.0,200.0,4.0
+2677,lev_0.57_2,0.5,,,20.0,200.0,5.0
+2678,lev_0.57_3,0.5,,,20.0,200.0,20.0
+2679,lev_0.57_4,0.5,,,20.0,200.0,0.0
+2680,lev_0.57_5,0.5,,,20.0,200.0,6.0
+2681,lev_0.57_6,0.5,,,20.0,200.0,20.0
+2682,lev_0.57_7,0.5,,,20.0,200.0,3.0
+2683,lev_0.57_8,0.5,,,20.0,200.0,0.0
+2684,lev_0.57_9,0.5,,,20.0,200.0,20.0
+2685,lev_0.58_0,0.5,,,20.0,200.0,20.0
+2686,lev_0.58_1,0.5,,,20.0,200.0,2.0
+2687,lev_0.58_10,0.5,,,20.0,200.0,20.0
+2688,lev_0.58_2,0.5,,,20.0,200.0,4.0
+2689,lev_0.58_3,0.5,,,20.0,200.0,20.0
+2690,lev_0.58_4,0.5,,,20.0,200.0,4.0
+2691,lev_0.58_5,0.5,,,20.0,200.0,3.0
+2692,lev_0.58_6,0.5,,,20.0,200.0,20.0
+2693,lev_0.58_7,0.5,,,20.0,200.0,12.0
+2694,lev_0.58_8,0.5,,,20.0,200.0,20.0
+2695,lev_0.58_9,0.5,,,20.0,200.0,6.0
+2696,lev_0.59_0,0.5,,,20.0,200.0,4.0
+2697,lev_0.59_1,0.5,,,20.0,200.0,3.0
+2698,lev_0.59_10,0.5,,,20.0,200.0,20.0
+2699,lev_0.59_11,0.5,,,20.0,200.0,1.0
+2700,lev_0.59_12,0.5,,,20.0,200.0,20.0
+2701,lev_0.59_13,0.5,,,20.0,200.0,3.0
+2702,lev_0.59_14,0.5,,,20.0,200.0,20.0
+2703,lev_0.59_15,0.5,,,20.0,200.0,20.0
+2704,lev_0.59_16,0.5,,,20.0,200.0,4.0
+2705,lev_0.59_17,0.5,,,20.0,200.0,5.0
+2706,lev_0.59_18,0.5,,,20.0,200.0,20.0
+2707,lev_0.59_19,0.5,,,20.0,200.0,0.0
+2708,lev_0.59_2,0.5,,,20.0,200.0,11.0
+2709,lev_0.59_20,0.5,,,20.0,200.0,20.0
+2710,lev_0.59_21,0.5,,,20.0,200.0,20.0
+2711,lev_0.59_22,0.5,,,20.0,200.0,20.0
+2712,lev_0.59_3,0.5,,,20.0,200.0,20.0
+2713,lev_0.59_4,0.5,,,20.0,200.0,1.0
+2714,lev_0.59_5,0.5,,,20.0,200.0,1.0
+2715,lev_0.59_6,0.5,,,20.0,200.0,20.0
+2716,lev_0.59_7,0.5,,,20.0,200.0,6.0
+2717,lev_0.59_8,0.5,,,20.0,200.0,6.0
+2718,lev_0.59_9,0.5,,,20.0,200.0,20.0
+2719,lev_0.60_0,0.6,,,20.0,200.0,6.0
+2720,lev_0.60_1,0.6,,,20.0,200.0,6.0
+2721,lev_0.60_10,0.6,,,20.0,200.0,20.0
+2722,lev_0.60_11,0.6,,,20.0,200.0,7.0
+2723,lev_0.60_12,0.6,,,20.0,200.0,20.0
+2724,lev_0.60_13,0.6,,,20.0,200.0,5.0
+2725,lev_0.60_14,0.6,,,20.0,200.0,1.0
+2726,lev_0.60_15,0.6,,,20.0,200.0,9.0
+2727,lev_0.60_16,0.6,,,20.0,200.0,20.0
+2728,lev_0.60_17,0.6,,,20.0,200.0,11.0
+2729,lev_0.60_18,0.6,,,20.0,200.0,20.0
+2730,lev_0.60_19,0.6,,,20.0,200.0,20.0
+2731,lev_0.60_2,0.6,,,20.0,200.0,20.0
+2732,lev_0.60_20,0.6,,,20.0,200.0,20.0
+2733,lev_0.60_21,0.6,,,20.0,200.0,20.0
+2734,lev_0.60_22,0.6,,,20.0,200.0,20.0
+2735,lev_0.60_3,0.6,,,20.0,200.0,20.0
+2736,lev_0.60_4,0.6,,,20.0,200.0,12.0
+2737,lev_0.60_5,0.6,,,20.0,200.0,7.0
+2738,lev_0.60_6,0.6,,,20.0,200.0,4.0
+2739,lev_0.60_7,0.6,,,20.0,200.0,20.0
+2740,lev_0.60_8,0.6,,,20.0,200.0,3.0
+2741,lev_0.60_9,0.6,,,20.0,200.0,11.0
+2742,lev_0.61_0,0.6,,,20.0,200.0,4.0
+2743,lev_0.61_10,0.6,,,20.0,200.0,11.0
+2744,lev_0.61_12,0.6,,,20.0,200.0,20.0
+2745,lev_0.61_13,0.6,,,20.0,200.0,9.0
+2746,lev_0.61_14,0.6,,,20.0,200.0,0.0
+2747,lev_0.61_15,0.6,,,20.0,200.0,0.0
+2748,lev_0.61_16,0.6,,,20.0,200.0,20.0
+2749,lev_0.61_2,0.6,,,20.0,200.0,7.0
+2750,lev_0.61_3,0.6,,,20.0,200.0,20.0
+2751,lev_0.61_4,0.6,,,20.0,200.0,6.0
+2752,lev_0.61_5,0.6,,,20.0,200.0,4.0
+2753,lev_0.61_6,0.6,,,20.0,200.0,0.0
+2754,lev_0.61_7,0.6,,,20.0,200.0,20.0
+2755,lev_0.61_8,0.6,,,20.0,200.0,1.0
+2756,lev_0.61_9,0.6,,,20.0,200.0,20.0
+2757,lev_0.62_0,0.6,,,20.0,200.0,9.0
+2758,lev_0.62_10,0.6,,,20.0,200.0,1.0
+2759,lev_0.62_13,0.6,,,20.0,200.0,2.0
+2760,lev_0.62_14,0.6,,,20.0,200.0,1.0
+2761,lev_0.62_15,0.6,,,20.0,200.0,7.0
+2762,lev_0.62_16,0.6,,,20.0,200.0,11.0
+2763,lev_0.62_17,0.6,,,20.0,200.0,1.0
+2764,lev_0.62_18,0.6,,,20.0,200.0,20.0
+2765,lev_0.62_19,0.6,,,20.0,200.0,20.0
+2766,lev_0.62_2,0.6,,,20.0,200.0,20.0
+2767,lev_0.62_3,0.6,,,20.0,200.0,20.0
+2768,lev_0.62_4,0.6,,,20.0,200.0,5.0
+2769,lev_0.62_5,0.6,,,20.0,200.0,1.0
+2770,lev_0.62_6,0.6,,,20.0,200.0,3.0
+2771,lev_0.62_7,0.6,,,20.0,200.0,0.0
+2772,lev_0.62_8,0.6,,,20.0,200.0,0.0
+2773,lev_0.62_9,0.6,,,20.0,200.0,20.0
+2774,lev_0.63_1,0.6,,,20.0,200.0,1.0
+2775,lev_0.63_10,0.6,,,20.0,200.0,20.0
+2776,lev_0.63_11,0.6,,,20.0,200.0,20.0
+2777,lev_0.63_12,0.6,,,20.0,200.0,20.0
+2778,lev_0.63_13,0.6,,,20.0,200.0,6.0
+2779,lev_0.63_14,0.6,,,20.0,200.0,3.0
+2780,lev_0.63_15,0.6,,,20.0,200.0,0.0
+2781,lev_0.63_16,0.6,,,20.0,200.0,0.0
+2782,lev_0.63_17,0.6,,,20.0,200.0,20.0
+2783,lev_0.63_18,0.6,,,20.0,200.0,20.0
+2784,lev_0.63_19,0.6,,,20.0,200.0,7.0
+2785,lev_0.63_2,0.6,,,20.0,200.0,1.0
+2786,lev_0.63_20,0.6,,,20.0,200.0,2.0
+2787,lev_0.63_21,0.6,,,20.0,200.0,7.0
+2788,lev_0.63_23,0.6,,,20.0,200.0,20.0
+2789,lev_0.63_24,0.6,,,20.0,200.0,20.0
+2790,lev_0.63_26,0.6,,,20.0,200.0,11.0
+2791,lev_0.63_3,0.6,,,20.0,200.0,4.0
+2792,lev_0.63_4,0.6,,,20.0,200.0,20.0
+2793,lev_0.63_5,0.6,,,20.0,200.0,20.0
+2794,lev_0.63_7,0.6,,,20.0,200.0,20.0
+2795,lev_0.63_8,0.6,,,20.0,200.0,2.0
+2796,lev_0.63_9,0.6,,,20.0,200.0,20.0
+2797,lev_0.64_0,0.6,,,20.0,200.0,20.0
+2798,lev_0.64_1,0.6,,,20.0,200.0,20.0
+2799,lev_0.64_10,0.6,,,20.0,200.0,3.0
+2800,lev_0.64_11,0.6,,,20.0,200.0,11.0
+2801,lev_0.64_12,0.6,,,20.0,200.0,1.0
+2802,lev_0.64_13,0.6,,,20.0,200.0,7.0
+2803,lev_0.64_14,0.6,,,20.0,200.0,4.0
+2804,lev_0.64_16,0.6,,,20.0,200.0,1.0
+2805,lev_0.64_17,0.6,,,20.0,200.0,20.0
+2806,lev_0.64_18,0.6,,,20.0,200.0,20.0
+2807,lev_0.64_2,0.6,,,20.0,200.0,1.0
+2808,lev_0.64_20,0.6,,,20.0,200.0,2.0
+2809,lev_0.64_21,0.6,,,20.0,200.0,20.0
+2810,lev_0.64_22,0.6,,,20.0,200.0,20.0
+2811,lev_0.64_23,0.6,,,20.0,200.0,6.0
+2812,lev_0.64_24,0.6,,,20.0,200.0,1.0
+2813,lev_0.64_25,0.6,,,20.0,200.0,20.0
+2814,lev_0.64_26,0.6,,,20.0,200.0,20.0
+2815,lev_0.64_3,0.6,,,20.0,200.0,4.0
+2816,lev_0.64_4,0.6,,,20.0,200.0,1.0
+2817,lev_0.64_5,0.6,,,20.0,200.0,7.0
+2818,lev_0.64_6,0.6,,,20.0,200.0,4.0
+2819,lev_0.64_7,0.6,,,20.0,200.0,4.0
+2820,lev_0.64_8,0.6,,,20.0,200.0,4.0
+2821,lev_0.64_9,0.6,,,20.0,200.0,20.0
+2822,lev_0.65_1,0.6,,,20.0,200.0,4.0
+2823,lev_0.65_10,0.6,,,20.0,200.0,20.0
+2824,lev_0.65_11,0.6,,,20.0,200.0,20.0
+2825,lev_0.65_12,0.6,,,20.0,200.0,20.0
+2826,lev_0.65_13,0.6,,,20.0,200.0,20.0
+2827,lev_0.65_14,0.6,,,20.0,200.0,4.0
+2828,lev_0.65_15,0.6,,,20.0,200.0,8.0
+2829,lev_0.65_16,0.6,,,20.0,200.0,9.0
+2830,lev_0.65_17,0.6,,,20.0,200.0,6.0
+2831,lev_0.65_18,0.6,,,20.0,200.0,20.0
+2832,lev_0.65_19,0.6,,,20.0,200.0,3.0
+2833,lev_0.65_2,0.6,,,20.0,200.0,4.0
+2834,lev_0.65_20,0.6,,,20.0,200.0,7.0
+2835,lev_0.65_21,0.6,,,20.0,200.0,20.0
+2836,lev_0.65_22,0.6,,,20.0,200.0,20.0
+2837,lev_0.65_23,0.6,,,20.0,200.0,20.0
+2838,lev_0.65_3,0.6,,,20.0,200.0,4.0
+2839,lev_0.65_4,0.6,,,20.0,200.0,1.0
+2840,lev_0.65_5,0.6,,,20.0,200.0,20.0
+2841,lev_0.65_6,0.6,,,20.0,200.0,20.0
+2842,lev_0.65_7,0.6,,,20.0,200.0,3.0
+2843,lev_0.65_8,0.6,,,20.0,200.0,4.0
+2844,lev_0.65_9,0.6,,,20.0,200.0,1.0
+2845,lev_0.66_0,0.6,,,20.0,200.0,20.0
+2846,lev_0.66_1,0.6,,,20.0,200.0,20.0
+2847,lev_0.66_10,0.6,,,20.0,200.0,2.0
+2848,lev_0.66_12,0.6,,,20.0,200.0,6.0
+2849,lev_0.66_13,0.6,,,20.0,200.0,4.0
+2850,lev_0.66_14,0.6,,,20.0,200.0,20.0
+2851,lev_0.66_15,0.6,,,20.0,200.0,6.0
+2852,lev_0.66_16,0.6,,,20.0,200.0,0.0
+2853,lev_0.66_17,0.6,,,20.0,200.0,4.0
+2854,lev_0.66_18,0.6,,,20.0,200.0,6.0
+2855,lev_0.66_2,0.6,,,20.0,200.0,7.0
+2856,lev_0.66_3,0.6,,,20.0,200.0,20.0
+2857,lev_0.66_4,0.6,,,20.0,200.0,7.0
+2858,lev_0.66_5,0.6,,,20.0,200.0,20.0
+2859,lev_0.66_6,0.6,,,20.0,200.0,20.0
+2860,lev_0.66_7,0.6,,,20.0,200.0,6.0
+2861,lev_0.66_8,0.6,,,20.0,200.0,20.0
+2862,lev_0.66_9,0.6,,,20.0,200.0,11.0
+2863,lev_0.67_0,0.6,,,20.0,200.0,4.0
+2864,lev_0.67_1,0.6,,,20.0,200.0,4.0
+2865,lev_0.67_10,0.6,,,20.0,200.0,4.0
+2866,lev_0.67_11,0.6,,,20.0,200.0,6.0
+2867,lev_0.67_12,0.6,,,20.0,200.0,1.0
+2868,lev_0.67_13,0.6,,,20.0,200.0,4.0
+2869,lev_0.67_14,0.6,,,20.0,200.0,3.0
+2870,lev_0.67_15,0.6,,,20.0,200.0,4.0
+2871,lev_0.67_16,0.6,,,20.0,200.0,1.0
+2872,lev_0.67_17,0.6,,,20.0,200.0,1.0
+2873,lev_0.67_18,0.6,,,20.0,200.0,20.0
+2874,lev_0.67_19,0.6,,,20.0,200.0,20.0
+2875,lev_0.67_2,0.6,,,20.0,200.0,2.0
+2876,lev_0.67_3,0.6,,,20.0,200.0,2.0
+2877,lev_0.67_4,0.6,,,20.0,200.0,1.0
+2878,lev_0.67_5,0.6,,,20.0,200.0,0.0
+2879,lev_0.67_6,0.6,,,20.0,200.0,6.0
+2880,lev_0.67_7,0.6,,,20.0,200.0,4.0
+2881,lev_0.67_9,0.6,,,20.0,200.0,6.0
+2882,lev_0.68_0,0.6,,,20.0,200.0,1.0
+2883,lev_0.68_1,0.6,,,20.0,200.0,4.0
+2884,lev_0.68_10,0.6,,,20.0,200.0,4.0
+2885,lev_0.68_11,0.6,,,20.0,200.0,20.0
+2886,lev_0.68_12,0.6,,,20.0,200.0,2.0
+2887,lev_0.68_13,0.6,,,20.0,200.0,1.0
+2888,lev_0.68_14,0.6,,,20.0,200.0,20.0
+2889,lev_0.68_15,0.6,,,20.0,200.0,20.0
+2890,lev_0.68_16,0.6,,,20.0,200.0,20.0
+2891,lev_0.68_17,0.6,,,20.0,200.0,6.0
+2892,lev_0.68_18,0.6,,,20.0,200.0,4.0
+2893,lev_0.68_19,0.6,,,20.0,200.0,0.0
+2894,lev_0.68_20,0.6,,,20.0,200.0,3.0
+2895,lev_0.68_21,0.6,,,20.0,200.0,20.0
+2896,lev_0.68_3,0.6,,,20.0,200.0,6.0
+2897,lev_0.68_4,0.6,,,20.0,200.0,7.0
+2898,lev_0.68_5,0.6,,,20.0,200.0,1.0
+2899,lev_0.68_6,0.6,,,20.0,200.0,6.0
+2900,lev_0.68_7,0.6,,,20.0,200.0,20.0
+2901,lev_0.68_8,0.6,,,20.0,200.0,7.0
+2902,lev_0.68_9,0.6,,,20.0,200.0,3.0
+2903,lev_0.69_0,0.6,,,20.0,200.0,20.0
+2904,lev_0.69_1,0.6,,,20.0,200.0,4.0
+2905,lev_0.69_11,0.6,,,20.0,200.0,11.0
+2906,lev_0.69_12,0.6,,,20.0,200.0,20.0
+2907,lev_0.69_13,0.6,,,20.0,200.0,12.0
+2908,lev_0.69_14,0.6,,,20.0,200.0,20.0
+2909,lev_0.69_15,0.6,,,20.0,200.0,4.0
+2910,lev_0.69_16,0.6,,,20.0,200.0,20.0
+2911,lev_0.69_17,0.6,,,20.0,200.0,20.0
+2912,lev_0.69_2,0.6,,,20.0,200.0,20.0
+2913,lev_0.69_3,0.6,,,20.0,200.0,7.0
+2914,lev_0.69_4,0.6,,,20.0,200.0,0.0
+2915,lev_0.69_5,0.6,,,20.0,200.0,5.0
+2916,lev_0.69_6,0.6,,,20.0,200.0,4.0
+2917,lev_0.69_7,0.6,,,20.0,200.0,12.0
+2918,lev_0.69_8,0.6,,,20.0,200.0,1.0
+2919,lev_0.69_9,0.6,,,20.0,200.0,1.0
+2920,lev_0.70_0,0.7,,,20.0,200.0,1.0
+2921,lev_0.70_1,0.7,,,20.0,200.0,1.0
+2922,lev_0.70_10,0.7,,,20.0,200.0,12.0
+2923,lev_0.70_11,0.7,,,20.0,200.0,9.0
+2924,lev_0.70_12,0.7,,,20.0,200.0,20.0
+2925,lev_0.70_13,0.7,,,20.0,200.0,20.0
+2926,lev_0.70_14,0.7,,,20.0,200.0,0.0
+2927,lev_0.70_15,0.7,,,20.0,200.0,3.0
+2928,lev_0.70_16,0.7,,,20.0,200.0,4.0
+2929,lev_0.70_17,0.7,,,20.0,200.0,5.0
+2930,lev_0.70_18,0.7,,,20.0,200.0,1.0
+2931,lev_0.70_19,0.7,,,20.0,200.0,4.0
+2932,lev_0.70_20,0.7,,,20.0,200.0,20.0
+2933,lev_0.70_3,0.7,,,20.0,200.0,11.0
+2934,lev_0.70_5,0.7,,,20.0,200.0,20.0
+2935,lev_0.70_6,0.7,,,20.0,200.0,0.0
+2936,lev_0.70_7,0.7,,,20.0,200.0,20.0
+2937,lev_0.70_8,0.7,,,20.0,200.0,1.0
+2938,lev_0.70_9,0.7,,,20.0,200.0,3.0
+2939,lev_0.71_0,0.7,,,20.0,200.0,20.0
+2940,lev_0.71_1,0.7,,,20.0,200.0,1.0
+2941,lev_0.71_10,0.7,,,20.0,200.0,20.0
+2942,lev_0.71_11,0.7,,,20.0,200.0,20.0
+2943,lev_0.71_12,0.7,,,20.0,200.0,0.0
+2944,lev_0.71_13,0.7,,,20.0,200.0,1.0
+2945,lev_0.71_14,0.7,,,20.0,200.0,20.0
+2946,lev_0.71_15,0.7,,,20.0,200.0,20.0
+2947,lev_0.71_2,0.7,,,20.0,200.0,9.0
+2948,lev_0.71_3,0.7,,,20.0,200.0,12.0
+2949,lev_0.71_4,0.7,,,20.0,200.0,20.0
+2950,lev_0.71_5,0.7,,,20.0,200.0,8.0
+2951,lev_0.71_6,0.7,,,20.0,200.0,7.0
+2952,lev_0.71_7,0.7,,,20.0,200.0,20.0
+2953,lev_0.71_8,0.7,,,20.0,200.0,3.0
+2954,lev_0.72_1,0.7,,,20.0,200.0,3.0
+2955,lev_0.72_10,0.7,,,20.0,200.0,20.0
+2956,lev_0.72_11,0.7,,,20.0,200.0,1.0
+2957,lev_0.72_12,0.7,,,20.0,200.0,7.0
+2958,lev_0.72_13,0.7,,,20.0,200.0,0.0
+2959,lev_0.72_14,0.7,,,20.0,200.0,20.0
+2960,lev_0.72_15,0.7,,,20.0,200.0,1.0
+2961,lev_0.72_16,0.7,,,20.0,200.0,6.0
+2962,lev_0.72_17,0.7,,,20.0,200.0,4.0
+2963,lev_0.72_18,0.7,,,20.0,200.0,1.0
+2964,lev_0.72_19,0.7,,,20.0,200.0,6.0
+2965,lev_0.72_21,0.7,,,20.0,200.0,7.0
+2966,lev_0.72_22,0.7,,,20.0,200.0,0.0
+2967,lev_0.72_23,0.7,,,20.0,200.0,20.0
+2968,lev_0.72_24,0.7,,,20.0,200.0,20.0
+2969,lev_0.72_25,0.7,,,20.0,200.0,20.0
+2970,lev_0.72_26,0.7,,,20.0,200.0,7.0
+2971,lev_0.72_27,0.7,,,20.0,200.0,20.0
+2972,lev_0.72_28,0.7,,,20.0,200.0,20.0
+2973,lev_0.72_3,0.7,,,20.0,200.0,11.0
+2974,lev_0.72_4,0.7,,,20.0,200.0,1.0
+2975,lev_0.72_5,0.7,,,20.0,200.0,4.0
+2976,lev_0.72_6,0.7,,,20.0,200.0,4.0
+2977,lev_0.72_8,0.7,,,20.0,200.0,20.0
+2978,lev_0.72_9,0.7,,,20.0,200.0,20.0
+2979,lev_0.73_0,0.7,,,20.0,200.0,7.0
+2980,lev_0.73_1,0.7,,,20.0,200.0,20.0
+2981,lev_0.73_10,0.7,,,20.0,200.0,20.0
+2982,lev_0.73_11,0.7,,,20.0,200.0,20.0
+2983,lev_0.73_12,0.7,,,20.0,200.0,9.0
+2984,lev_0.73_13,0.7,,,20.0,200.0,20.0
+2985,lev_0.73_14,0.7,,,20.0,200.0,20.0
+2986,lev_0.73_15,0.7,,,20.0,200.0,7.0
+2987,lev_0.73_16,0.7,,,20.0,200.0,20.0
+2988,lev_0.73_17,0.7,,,20.0,200.0,20.0
+2989,lev_0.73_18,0.7,,,20.0,200.0,8.0
+2990,lev_0.73_19,0.7,,,20.0,200.0,3.0
+2991,lev_0.73_2,0.7,,,20.0,200.0,4.0
+2992,lev_0.73_20,0.7,,,20.0,200.0,20.0
+2993,lev_0.73_21,0.7,,,20.0,200.0,7.0
+2994,lev_0.73_22,0.7,,,20.0,200.0,20.0
+2995,lev_0.73_23,0.7,,,20.0,200.0,6.0
+2996,lev_0.73_24,0.7,,,20.0,200.0,20.0
+2997,lev_0.73_25,0.7,,,20.0,200.0,8.0
+2998,lev_0.73_26,0.7,,,20.0,200.0,20.0
+2999,lev_0.73_27,0.7,,,20.0,200.0,12.0
+3000,lev_0.73_28,0.7,,,20.0,200.0,1.0
+3001,lev_0.73_29,0.7,,,20.0,200.0,20.0
+3002,lev_0.73_3,0.7,,,20.0,200.0,20.0
+3003,lev_0.73_31,0.7,,,20.0,200.0,20.0
+3004,lev_0.73_5,0.7,,,20.0,200.0,20.0
+3005,lev_0.73_6,0.7,,,20.0,200.0,20.0
+3006,lev_0.73_7,0.7,,,20.0,200.0,1.0
+3007,lev_0.73_8,0.7,,,20.0,200.0,20.0
+3008,lev_0.73_9,0.7,,,20.0,200.0,20.0
+3009,lev_0.74_0,0.7,,,20.0,200.0,11.0
+3010,lev_0.74_1,0.7,,,20.0,200.0,4.0
+3011,lev_0.74_10,0.7,,,20.0,200.0,0.0
+3012,lev_0.74_11,0.7,,,20.0,200.0,7.0
+3013,lev_0.74_12,0.7,,,20.0,200.0,20.0
+3014,lev_0.74_13,0.7,,,20.0,200.0,20.0
+3015,lev_0.74_14,0.7,,,20.0,200.0,20.0
+3016,lev_0.74_15,0.7,,,20.0,200.0,1.0
+3017,lev_0.74_17,0.7,,,20.0,200.0,11.0
+3018,lev_0.74_18,0.7,,,20.0,200.0,3.0
+3019,lev_0.74_19,0.7,,,20.0,200.0,4.0
+3020,lev_0.74_2,0.7,,,20.0,200.0,20.0
+3021,lev_0.74_20,0.7,,,20.0,200.0,20.0
+3022,lev_0.74_21,0.7,,,20.0,200.0,20.0
+3023,lev_0.74_22,0.7,,,20.0,200.0,20.0
+3024,lev_0.74_23,0.7,,,20.0,200.0,20.0
+3025,lev_0.74_3,0.7,,,20.0,200.0,20.0
+3026,lev_0.74_5,0.7,,,20.0,200.0,0.0
+3027,lev_0.74_6,0.7,,,20.0,200.0,7.0
+3028,lev_0.74_7,0.7,,,20.0,200.0,20.0
+3029,lev_0.74_9,0.7,,,20.0,200.0,20.0
+3030,lev_0.75_10,0.7,,,20.0,200.0,0.0
+3031,lev_0.75_11,0.7,,,20.0,200.0,5.0
+3032,lev_0.75_12,0.7,,,20.0,200.0,6.0
+3033,lev_0.75_13,0.7,,,20.0,200.0,20.0
+3034,lev_0.75_14,0.7,,,20.0,200.0,20.0
+3035,lev_0.75_15,0.7,,,20.0,200.0,20.0
+3036,lev_0.75_16,0.7,,,20.0,200.0,0.0
+3037,lev_0.75_17,0.7,,,20.0,200.0,4.0
+3038,lev_0.75_18,0.7,,,20.0,200.0,20.0
+3039,lev_0.75_19,0.7,,,20.0,200.0,20.0
+3040,lev_0.75_2,0.7,,,20.0,200.0,8.0
+3041,lev_0.75_4,0.7,,,20.0,200.0,11.0
+3042,lev_0.75_5,0.7,,,20.0,200.0,6.0
+3043,lev_0.75_6,0.7,,,20.0,200.0,20.0
+3044,lev_0.75_7,0.7,,,20.0,200.0,20.0
+3045,lev_0.75_8,0.7,,,20.0,200.0,20.0
+3046,lev_0.75_9,0.7,,,20.0,200.0,3.0
+3047,lev_0.76_0,0.7,,,20.0,200.0,8.0
+3048,lev_0.76_10,0.7,,,20.0,200.0,5.0
+3049,lev_0.76_11,0.7,,,20.0,200.0,4.0
+3050,lev_0.76_12,0.7,,,20.0,200.0,8.0
+3051,lev_0.76_15,0.7,,,20.0,200.0,1.0
+3052,lev_0.76_17,0.7,,,20.0,200.0,4.0
+3053,lev_0.76_19,0.7,,,20.0,200.0,20.0
+3054,lev_0.76_20,0.7,,,20.0,200.0,4.0
+3055,lev_0.76_21,0.7,,,20.0,200.0,20.0
+3056,lev_0.76_22,0.7,,,20.0,200.0,20.0
+3057,lev_0.76_24,0.7,,,20.0,200.0,1.0
+3058,lev_0.76_25,0.7,,,20.0,200.0,4.0
+3059,lev_0.76_26,0.7,,,20.0,200.0,20.0
+3060,lev_0.76_3,0.7,,,20.0,200.0,3.0
+3061,lev_0.76_6,0.7,,,20.0,200.0,0.0
+3062,lev_0.76_7,0.7,,,20.0,200.0,0.0
+3063,lev_0.76_8,0.7,,,20.0,200.0,3.0
+3064,lev_0.76_9,0.7,,,20.0,200.0,4.0
+3065,lev_0.77_0,0.7,,,20.0,200.0,1.0
+3066,lev_0.77_1,0.7,,,20.0,200.0,3.0
+3067,lev_0.77_10,0.7,,,20.0,200.0,20.0
+3068,lev_0.77_11,0.7,,,20.0,200.0,20.0
+3069,lev_0.77_12,0.7,,,20.0,200.0,20.0
+3070,lev_0.77_13,0.7,,,20.0,200.0,20.0
+3071,lev_0.77_14,0.7,,,20.0,200.0,20.0
+3072,lev_0.77_15,0.7,,,20.0,200.0,20.0
+3073,lev_0.77_16,0.7,,,20.0,200.0,20.0
+3074,lev_0.77_17,0.7,,,20.0,200.0,20.0
+3075,lev_0.77_2,0.7,,,20.0,200.0,4.0
+3076,lev_0.77_3,0.7,,,20.0,200.0,11.0
+3077,lev_0.77_4,0.7,,,20.0,200.0,1.0
+3078,lev_0.77_5,0.7,,,20.0,200.0,11.0
+3079,lev_0.77_6,0.7,,,20.0,200.0,20.0
+3080,lev_0.77_7,0.7,,,20.0,200.0,3.0
+3081,lev_0.77_8,0.7,,,20.0,200.0,11.0
+3082,lev_0.77_9,0.7,,,20.0,200.0,9.0
+3083,lev_0.78_0,0.7,,,20.0,200.0,12.0
+3084,lev_0.78_1,0.7,,,20.0,200.0,20.0
+3085,lev_0.78_10,0.7,,,20.0,200.0,1.0
+3086,lev_0.78_11,0.7,,,20.0,200.0,4.0
+3087,lev_0.78_12,0.7,,,20.0,200.0,4.0
+3088,lev_0.78_13,0.7,,,20.0,200.0,0.0
+3089,lev_0.78_14,0.7,,,20.0,200.0,20.0
+3090,lev_0.78_15,0.7,,,20.0,200.0,20.0
+3091,lev_0.78_16,0.7,,,20.0,200.0,6.0
+3092,lev_0.78_17,0.7,,,20.0,200.0,7.0
+3093,lev_0.78_18,0.7,,,20.0,200.0,1.0
+3094,lev_0.78_19,0.7,,,20.0,200.0,20.0
+3095,lev_0.78_2,0.7,,,20.0,200.0,4.0
+3096,lev_0.78_3,0.7,,,20.0,200.0,0.0
+3097,lev_0.78_4,0.7,,,20.0,200.0,20.0
+3098,lev_0.78_5,0.7,,,20.0,200.0,20.0
+3099,lev_0.78_6,0.7,,,20.0,200.0,20.0
+3100,lev_0.78_7,0.7,,,20.0,200.0,7.0
+3101,lev_0.78_8,0.7,,,20.0,200.0,20.0
+3102,lev_0.78_9,0.7,,,20.0,200.0,0.0
+3103,lev_0.79_0,0.7,,,20.0,200.0,20.0
+3104,lev_0.79_1,0.7,,,20.0,200.0,6.0
+3105,lev_0.79_10,0.7,,,20.0,200.0,20.0
+3106,lev_0.79_11,0.7,,,20.0,200.0,20.0
+3107,lev_0.79_12,0.7,,,20.0,200.0,20.0
+3108,lev_0.79_13,0.7,,,20.0,200.0,4.0
+3109,lev_0.79_14,0.7,,,20.0,200.0,20.0
+3110,lev_0.79_15,0.7,,,20.0,200.0,20.0
+3111,lev_0.79_16,0.7,,,20.0,200.0,12.0
+3112,lev_0.79_17,0.7,,,20.0,200.0,20.0
+3113,lev_0.79_18,0.7,,,20.0,200.0,20.0
+3114,lev_0.79_19,0.7,,,20.0,200.0,20.0
+3115,lev_0.79_2,0.7,,,20.0,200.0,20.0
+3116,lev_0.79_20,0.7,,,20.0,200.0,20.0
+3117,lev_0.79_3,0.7,,,20.0,200.0,1.0
+3118,lev_0.79_4,0.7,,,20.0,200.0,20.0
+3119,lev_0.79_5,0.7,,,20.0,200.0,20.0
+3120,lev_0.79_6,0.7,,,20.0,200.0,0.0
+3121,lev_0.79_7,0.7,,,20.0,200.0,1.0
+3122,lev_0.79_8,0.7,,,20.0,200.0,2.0
+3123,lev_0.79_9,0.7,,,20.0,200.0,11.0
+3124,lev_0.80_0,0.8,,,20.0,200.0,20.0
+3125,lev_0.80_10,0.8,,,20.0,200.0,7.0
+3126,lev_0.80_11,0.8,,,20.0,200.0,4.0
+3127,lev_0.80_12,0.8,,,20.0,200.0,0.0
+3128,lev_0.80_14,0.8,,,20.0,200.0,20.0
+3129,lev_0.80_15,0.8,,,20.0,200.0,1.0
+3130,lev_0.80_16,0.8,,,20.0,200.0,0.0
+3131,lev_0.80_17,0.8,,,20.0,200.0,20.0
+3132,lev_0.80_18,0.8,,,20.0,200.0,3.0
+3133,lev_0.80_19,0.8,,,20.0,200.0,0.0
+3134,lev_0.80_2,0.8,,,20.0,200.0,9.0
+3135,lev_0.80_20,0.8,,,20.0,200.0,20.0
+3136,lev_0.80_21,0.8,,,20.0,200.0,20.0
+3137,lev_0.80_22,0.8,,,20.0,200.0,20.0
+3138,lev_0.80_24,0.8,,,20.0,200.0,0.0
+3139,lev_0.80_25,0.8,,,20.0,200.0,20.0
+3140,lev_0.80_26,0.8,,,20.0,200.0,1.0
+3141,lev_0.80_28,0.8,,,20.0,200.0,4.0
+3142,lev_0.80_29,0.8,,,20.0,200.0,20.0
+3143,lev_0.80_3,0.8,,,20.0,200.0,20.0
+3144,lev_0.80_4,0.8,,,20.0,200.0,20.0
+3145,lev_0.80_6,0.8,,,20.0,200.0,1.0
+3146,lev_0.80_7,0.8,,,20.0,200.0,20.0
+3147,lev_0.80_8,0.8,,,20.0,200.0,20.0
+3148,lev_0.80_9,0.8,,,20.0,200.0,20.0
+3149,lev_0.81_1,0.8,,,20.0,200.0,6.0
+3150,lev_0.81_11,0.8,,,20.0,200.0,4.0
+3151,lev_0.81_12,0.8,,,20.0,200.0,2.0
+3152,lev_0.81_14,0.8,,,20.0,200.0,6.0
+3153,lev_0.81_15,0.8,,,20.0,200.0,3.0
+3154,lev_0.81_18,0.8,,,20.0,200.0,6.0
+3155,lev_0.81_2,0.8,,,20.0,200.0,4.0
+3156,lev_0.81_20,0.8,,,20.0,200.0,4.0
+3157,lev_0.81_21,0.8,,,20.0,200.0,4.0
+3158,lev_0.81_23,0.8,,,20.0,200.0,1.0
+3159,lev_0.81_28,0.8,,,20.0,200.0,4.0
+3160,lev_0.81_29,0.8,,,20.0,200.0,4.0
+3161,lev_0.81_3,0.8,,,20.0,200.0,20.0
+3162,lev_0.81_30,0.8,,,20.0,200.0,20.0
+3163,lev_0.81_31,0.8,,,20.0,200.0,11.0
+3164,lev_0.81_33,0.8,,,20.0,200.0,11.0
+3165,lev_0.81_34,0.8,,,20.0,200.0,4.0
+3166,lev_0.81_36,0.8,,,20.0,200.0,4.0
+3167,lev_0.81_37,0.8,,,20.0,200.0,20.0
+3168,lev_0.81_38,0.8,,,20.0,200.0,20.0
+3169,lev_0.81_4,0.8,,,20.0,200.0,20.0
+3170,lev_0.81_40,0.8,,,20.0,200.0,20.0
+3171,lev_0.81_5,0.8,,,20.0,200.0,20.0
+3172,lev_0.81_7,0.8,,,20.0,200.0,3.0
+3173,lev_0.81_8,0.8,,,20.0,200.0,20.0
+3174,lev_0.81_9,0.8,,,20.0,200.0,8.0
+3175,lev_0.82_0,0.8,,,20.0,200.0,0.0
+3176,lev_0.82_10,0.8,,,20.0,200.0,2.0
+3177,lev_0.82_11,0.8,,,20.0,200.0,20.0
+3178,lev_0.82_12,0.8,,,20.0,200.0,20.0
+3179,lev_0.82_13,0.8,,,20.0,200.0,20.0
+3180,lev_0.82_14,0.8,,,20.0,200.0,8.0
+3181,lev_0.82_15,0.8,,,20.0,200.0,3.0
+3182,lev_0.82_16,0.8,,,20.0,200.0,6.0
+3183,lev_0.82_17,0.8,,,20.0,200.0,4.0
+3184,lev_0.82_18,0.8,,,20.0,200.0,20.0
+3185,lev_0.82_19,0.8,,,20.0,200.0,20.0
+3186,lev_0.82_2,0.8,,,20.0,200.0,0.0
+3187,lev_0.82_21,0.8,,,20.0,200.0,0.0
+3188,lev_0.82_22,0.8,,,20.0,200.0,20.0
+3189,lev_0.82_23,0.8,,,20.0,200.0,4.0
+3190,lev_0.82_24,0.8,,,20.0,200.0,2.0
+3191,lev_0.82_25,0.8,,,20.0,200.0,20.0
+3192,lev_0.82_27,0.8,,,20.0,200.0,1.0
+3193,lev_0.82_28,0.8,,,20.0,200.0,20.0
+3194,lev_0.82_30,0.8,,,20.0,200.0,20.0
+3195,lev_0.82_31,0.8,,,20.0,200.0,0.0
+3196,lev_0.82_32,0.8,,,20.0,200.0,20.0
+3197,lev_0.82_33,0.8,,,20.0,200.0,20.0
+3198,lev_0.82_4,0.8,,,20.0,200.0,11.0
+3199,lev_0.82_5,0.8,,,20.0,200.0,0.0
+3200,lev_0.82_6,0.8,,,20.0,200.0,0.0
+3201,lev_0.82_8,0.8,,,20.0,200.0,0.0
+3202,lev_0.82_9,0.8,,,20.0,200.0,8.0
+3203,lev_0.83_1,0.8,,,20.0,200.0,20.0
+3204,lev_0.83_10,0.8,,,20.0,200.0,6.0
+3205,lev_0.83_12,0.8,,,20.0,200.0,20.0
+3206,lev_0.83_14,0.8,,,20.0,200.0,5.0
+3207,lev_0.83_15,0.8,,,20.0,200.0,9.0
+3208,lev_0.83_16,0.8,,,20.0,200.0,8.0
+3209,lev_0.83_17,0.8,,,20.0,200.0,20.0
+3210,lev_0.83_18,0.8,,,20.0,200.0,3.0
+3211,lev_0.83_19,0.8,,,20.0,200.0,5.0
+3212,lev_0.83_20,0.8,,,20.0,200.0,4.0
+3213,lev_0.83_21,0.8,,,20.0,200.0,3.0
+3214,lev_0.83_23,0.8,,,20.0,200.0,20.0
+3215,lev_0.83_24,0.8,,,20.0,200.0,4.0
+3216,lev_0.83_25,0.8,,,20.0,200.0,4.0
+3217,lev_0.83_26,0.8,,,20.0,200.0,6.0
+3218,lev_0.83_27,0.8,,,20.0,200.0,4.0
+3219,lev_0.83_28,0.8,,,20.0,200.0,6.0
+3220,lev_0.83_31,0.8,,,20.0,200.0,0.0
+3221,lev_0.83_32,0.8,,,20.0,200.0,20.0
+3222,lev_0.83_33,0.8,,,20.0,200.0,7.0
+3223,lev_0.83_35,0.8,,,20.0,200.0,20.0
+3224,lev_0.83_37,0.8,,,20.0,200.0,20.0
+3225,lev_0.83_38,0.8,,,20.0,200.0,7.0
+3226,lev_0.83_39,0.8,,,20.0,200.0,20.0
+3227,lev_0.83_4,0.8,,,20.0,200.0,20.0
+3228,lev_0.83_5,0.8,,,20.0,200.0,0.0
+3229,lev_0.83_6,0.8,,,20.0,200.0,1.0
+3230,lev_0.83_7,0.8,,,20.0,200.0,4.0
+3231,lev_0.84_10,0.8,,,20.0,200.0,20.0
+3232,lev_0.84_11,0.8,,,20.0,200.0,1.0
+3233,lev_0.84_13,0.8,,,20.0,200.0,11.0
+3234,lev_0.84_14,0.8,,,20.0,200.0,20.0
+3235,lev_0.84_16,0.8,,,20.0,200.0,6.0
+3236,lev_0.84_17,0.8,,,20.0,200.0,20.0
+3237,lev_0.84_2,0.8,,,20.0,200.0,1.0
+3238,lev_0.84_20,0.8,,,20.0,200.0,9.0
+3239,lev_0.84_21,0.8,,,20.0,200.0,20.0
+3240,lev_0.84_22,0.8,,,20.0,200.0,0.0
+3241,lev_0.84_23,0.8,,,20.0,200.0,20.0
+3242,lev_0.84_24,0.8,,,20.0,200.0,4.0
+3243,lev_0.84_25,0.8,,,20.0,200.0,20.0
+3244,lev_0.84_26,0.8,,,20.0,200.0,4.0
+3245,lev_0.84_28,0.8,,,20.0,200.0,20.0
+3246,lev_0.84_29,0.8,,,20.0,200.0,20.0
+3247,lev_0.84_3,0.8,,,20.0,200.0,20.0
+3248,lev_0.84_30,0.8,,,20.0,200.0,2.0
+3249,lev_0.84_31,0.8,,,20.0,200.0,0.0
+3250,lev_0.84_32,0.8,,,20.0,200.0,20.0
+3251,lev_0.84_33,0.8,,,20.0,200.0,20.0
+3252,lev_0.84_34,0.8,,,20.0,200.0,20.0
+3253,lev_0.84_35,0.8,,,20.0,200.0,20.0
+3254,lev_0.84_4,0.8,,,20.0,200.0,1.0
+3255,lev_0.84_5,0.8,,,20.0,200.0,20.0
+3256,lev_0.84_8,0.8,,,20.0,200.0,0.0
+3257,lev_0.85_0,0.8,,,20.0,200.0,8.0
+3258,lev_0.85_1,0.8,,,20.0,200.0,20.0
+3259,lev_0.85_10,0.8,,,20.0,200.0,2.0
+3260,lev_0.85_12,0.8,,,20.0,200.0,20.0
+3261,lev_0.85_13,0.8,,,20.0,200.0,4.0
+3262,lev_0.85_14,0.8,,,20.0,200.0,20.0
+3263,lev_0.85_15,0.8,,,20.0,200.0,2.0
+3264,lev_0.85_16,0.8,,,20.0,200.0,4.0
+3265,lev_0.85_17,0.8,,,20.0,200.0,20.0
+3266,lev_0.85_18,0.8,,,20.0,200.0,9.0
+3267,lev_0.85_19,0.8,,,20.0,200.0,20.0
+3268,lev_0.85_20,0.8,,,20.0,200.0,7.0
+3269,lev_0.85_21,0.8,,,20.0,200.0,20.0
+3270,lev_0.85_23,0.8,,,20.0,200.0,20.0
+3271,lev_0.85_3,0.8,,,20.0,200.0,8.0
+3272,lev_0.85_4,0.8,,,20.0,200.0,20.0
+3273,lev_0.85_5,0.8,,,20.0,200.0,3.0
+3274,lev_0.85_6,0.8,,,20.0,200.0,4.0
+3275,lev_0.85_7,0.8,,,20.0,200.0,4.0
+3276,lev_0.85_8,0.8,,,20.0,200.0,20.0
+3277,lev_0.85_9,0.8,,,20.0,200.0,20.0
+3278,lev_0.86_0,0.8,,,20.0,200.0,20.0
+3279,lev_0.86_1,0.8,,,20.0,200.0,3.0
+3280,lev_0.86_11,0.8,,,20.0,200.0,3.0
+3281,lev_0.86_12,0.8,,,20.0,200.0,1.0
+3282,lev_0.86_14,0.8,,,20.0,200.0,20.0
+3283,lev_0.86_16,0.8,,,20.0,200.0,20.0
+3284,lev_0.86_18,0.8,,,20.0,200.0,20.0
+3285,lev_0.86_19,0.8,,,20.0,200.0,20.0
+3286,lev_0.86_2,0.8,,,20.0,200.0,3.0
+3287,lev_0.86_22,0.8,,,20.0,200.0,20.0
+3288,lev_0.86_23,0.8,,,20.0,200.0,4.0
+3289,lev_0.86_24,0.8,,,20.0,200.0,1.0
+3290,lev_0.86_25,0.8,,,20.0,200.0,8.0
+3291,lev_0.86_26,0.8,,,20.0,200.0,20.0
+3292,lev_0.86_27,0.8,,,20.0,200.0,20.0
+3293,lev_0.86_29,0.8,,,20.0,200.0,6.0
+3294,lev_0.86_3,0.8,,,20.0,200.0,8.0
+3295,lev_0.86_31,0.8,,,20.0,200.0,8.0
+3296,lev_0.86_32,0.8,,,20.0,200.0,20.0
+3297,lev_0.86_34,0.8,,,20.0,200.0,20.0
+3298,lev_0.86_5,0.8,,,20.0,200.0,20.0
+3299,lev_0.86_6,0.8,,,20.0,200.0,1.0
+3300,lev_0.86_7,0.8,,,20.0,200.0,1.0
+3301,lev_0.86_8,0.8,,,20.0,200.0,20.0
+3302,lev_0.86_9,0.8,,,20.0,200.0,20.0
+3303,lev_0.87_0,0.8,,,20.0,200.0,20.0
+3304,lev_0.87_10,0.8,,,20.0,200.0,20.0
+3305,lev_0.87_11,0.8,,,20.0,200.0,4.0
+3306,lev_0.87_12,0.8,,,20.0,200.0,20.0
+3307,lev_0.87_13,0.8,,,20.0,200.0,6.0
+3308,lev_0.87_15,0.8,,,20.0,200.0,4.0
+3309,lev_0.87_16,0.8,,,20.0,200.0,7.0
+3310,lev_0.87_19,0.8,,,20.0,200.0,9.0
+3311,lev_0.87_2,0.8,,,20.0,200.0,20.0
+3312,lev_0.87_4,0.8,,,20.0,200.0,4.0
+3313,lev_0.87_5,0.8,,,20.0,200.0,0.0
+3314,lev_0.87_6,0.8,,,20.0,200.0,20.0
+3315,lev_0.87_8,0.8,,,20.0,200.0,0.0
+3316,lev_0.87_9,0.8,,,20.0,200.0,12.0
+3317,lev_0.88_0,0.8,,,20.0,200.0,5.0
+3318,lev_0.88_1,0.8,,,20.0,200.0,9.0
+3319,lev_0.88_2,0.8,,,20.0,200.0,4.0
+3320,lev_0.88_3,0.8,,,20.0,200.0,4.0
+3321,lev_0.88_4,0.8,,,20.0,200.0,20.0
+3322,lev_0.88_7,0.8,,,20.0,200.0,20.0
+3323,lev_0.88_8,0.8,,,20.0,200.0,20.0
+3324,lev_0.88_9,0.8,,,20.0,200.0,6.0
+3325,lev_0.89_0,0.8,,,20.0,200.0,20.0
+3326,lev_0.89_1,0.8,,,20.0,200.0,20.0
+3327,lev_0.89_11,0.8,,,20.0,200.0,20.0
+3328,lev_0.89_12,0.8,,,20.0,200.0,0.0
+3329,lev_0.89_13,0.8,,,20.0,200.0,20.0
+3330,lev_0.89_15,0.8,,,20.0,200.0,20.0
+3331,lev_0.89_3,0.8,,,20.0,200.0,20.0
+3332,lev_0.89_4,0.8,,,20.0,200.0,3.0
+3333,lev_0.89_5,0.8,,,20.0,200.0,0.0
+3334,lev_0.89_7,0.8,,,20.0,200.0,3.0
+3335,lev_0.89_8,0.8,,,20.0,200.0,4.0
+3336,lev_0.89_9,0.8,,,20.0,200.0,8.0
+3337,lev_0.90_0,0.9,,,20.0,200.0,20.0
+3338,lev_0.90_1,0.9,,,20.0,200.0,20.0
+3339,lev_0.90_2,0.9,,,20.0,200.0,4.0
+3340,lev_0.90_4,0.9,,,20.0,200.0,20.0
+3341,lev_0.90_5,0.9,,,20.0,200.0,6.0
+3342,lev_0.90_6,0.9,,,20.0,200.0,20.0
+3343,lev_0.91_0,0.9,,,20.0,200.0,20.0
+3344,lev_0.91_2,0.9,,,20.0,200.0,20.0
+3345,lev_0.91_3,0.9,,,20.0,200.0,20.0
+3346,lev_0.91_4,0.9,,,20.0,200.0,8.0
+3347,lev_0.91_5,0.9,,,20.0,200.0,20.0
+3348,lev_0.92_0,0.9,,,20.0,200.0,20.0
+3349,lev_0.92_1,0.9,,,20.0,200.0,20.0
+3350,lev_0.92_2,0.9,,,20.0,200.0,20.0
+3351,lev_0.92_3,0.9,,,20.0,200.0,20.0
+3352,lev_0.93_0,0.9,,,20.0,200.0,20.0
+3353,lev_0.94_0,0.9,,,20.0,200.0,20.0
+3354,lev_0.94_1,0.9,,,20.0,200.0,20.0
+3355,lev_0.94_2,0.9,,,20.0,200.0,20.0
+3356,lev_0.95_0,0.9,,,20.0,200.0,20.0
+3357,lev_0.96_0,0.9,,,20.0,200.0,20.0
+3358,lev_0.97_0,0.9,,,20.0,200.0,20.0
+3359,lev_1.0_0,1.0,,,20.0,200.0,20.0
